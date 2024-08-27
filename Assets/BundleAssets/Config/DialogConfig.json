@@ -1,0 +1,834 @@
+[
+  {
+    "ID": 11010001,
+    "Description": "首次冒险",
+    "IsHead": true,
+    "Conditions": [
+      {
+        "Type": 1,
+        "Args": []
+      },
+      {
+        "Type": 0,
+        "Args": []
+      },
+      {
+        "Type": 0,
+        "Args": []
+      }
+    ],
+    "Portrait": 2,
+    "Text": "你是谁？",
+    "NextDialog": 11010002,
+    "HasOption": false,
+    "Options": [
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      },
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      },
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      }
+    ]
+  },
+  {
+    "ID": 11010002,
+    "Description": "",
+    "IsHead": false,
+    "Conditions": [
+      {
+        "Type": 0,
+        "Args": []
+      },
+      {
+        "Type": 0,
+        "Args": []
+      },
+      {
+        "Type": 0,
+        "Args": []
+      }
+    ],
+    "Portrait": 1,
+    "Text": ". . .",
+    "NextDialog": 11010003,
+    "HasOption": false,
+    "Options": [
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      },
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      },
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      }
+    ]
+  },
+  {
+    "ID": 11010003,
+    "Description": "",
+    "IsHead": false,
+    "Conditions": [
+      {
+        "Type": 0,
+        "Args": []
+      },
+      {
+        "Type": 0,
+        "Args": []
+      },
+      {
+        "Type": 0,
+        "Args": []
+      }
+    ],
+    "Portrait": 2,
+    "Text": "这是哪里？",
+    "NextDialog": 11010004,
+    "HasOption": false,
+    "Options": [
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      },
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      },
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      }
+    ]
+  },
+  {
+    "ID": 11010004,
+    "Description": "",
+    "IsHead": false,
+    "Conditions": [
+      {
+        "Type": 0,
+        "Args": []
+      },
+      {
+        "Type": 0,
+        "Args": []
+      },
+      {
+        "Type": 0,
+        "Args": []
+      }
+    ],
+    "Portrait": 1,
+    "Text": ". . .\n. . .",
+    "NextDialog": 11010005,
+    "HasOption": false,
+    "Options": [
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      },
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      },
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      }
+    ]
+  },
+  {
+    "ID": 11010005,
+    "Description": "",
+    "IsHead": false,
+    "Conditions": [
+      {
+        "Type": 0,
+        "Args": []
+      },
+      {
+        "Type": 0,
+        "Args": []
+      },
+      {
+        "Type": 0,
+        "Args": []
+      }
+    ],
+    "Portrait": 1,
+    "Text": "已经很久没有人来过这里了\n现在有骑士精神的人不多了",
+    "NextDialog": 11010006,
+    "HasOption": false,
+    "Options": [
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      },
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      },
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      }
+    ]
+  },
+  {
+    "ID": 11010006,
+    "Description": "",
+    "IsHead": false,
+    "Conditions": [
+      {
+        "Type": 0,
+        "Args": []
+      },
+      {
+        "Type": 0,
+        "Args": []
+      },
+      {
+        "Type": 0,
+        "Args": []
+      }
+    ],
+    "Portrait": 1,
+    "Text": "既然来了，就送你一个武器吧",
+    "NextDialog": 0,
+    "HasOption": false,
+    "Options": [
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      },
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      },
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      }
+    ]
+  },
+  {
+    "ID": 21010001,
+    "Description": "0层-4层",
+    "IsHead": true,
+    "Conditions": [
+      {
+        "Type": 3,
+        "Args": [
+          "0",
+          "4"
+        ]
+      },
+      {
+        "Type": 2,
+        "Args": []
+      },
+      {
+        "Type": 0,
+        "Args": []
+      }
+    ],
+    "Portrait": 1,
+    "Text": "又见面了",
+    "NextDialog": 21010002,
+    "HasOption": false,
+    "Options": [
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      },
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      },
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      }
+    ]
+  },
+  {
+    "ID": 21010002,
+    "Description": "",
+    "IsHead": false,
+    "Conditions": [
+      {
+        "Type": 0,
+        "Args": []
+      },
+      {
+        "Type": 0,
+        "Args": []
+      },
+      {
+        "Type": 0,
+        "Args": []
+      }
+    ],
+    "Portrait": 1,
+    "Text": "你对刚才的表现还满意吗？\nEmmm...\n送你一些东西吧，希望这次你能做的更好",
+    "NextDialog": 21010003,
+    "HasOption": false,
+    "Options": [
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      },
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      },
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      }
+    ]
+  },
+  {
+    "ID": 21010003,
+    "Description": "",
+    "IsHead": false,
+    "Conditions": [
+      {
+        "Type": 0,
+        "Args": []
+      },
+      {
+        "Type": 0,
+        "Args": []
+      },
+      {
+        "Type": 0,
+        "Args": []
+      }
+    ],
+    "Portrait": 1,
+    "Text": "选择一个：",
+    "NextDialog": 0,
+    "HasOption": true,
+    "Options": [
+      {
+        "Text": "<color=green>50金币</color>",
+        "Script": "AddGold",
+        "ScriptArgs": [
+          "50"
+        ],
+        "NextDialog": 21010004
+      },
+      {
+        "Text": "1个<color=green>普通遗物</color>",
+        "Script": "RandomRelic",
+        "ScriptArgs": [],
+        "NextDialog": 21010004
+      },
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      }
+    ]
+  },
+  {
+    "ID": 21010004,
+    "Description": "",
+    "IsHead": false,
+    "Conditions": [
+      {
+        "Type": 0,
+        "Args": []
+      },
+      {
+        "Type": 0,
+        "Args": []
+      },
+      {
+        "Type": 0,
+        "Args": []
+      }
+    ],
+    "Portrait": 1,
+    "Text": "跟随骑士之心",
+    "NextDialog": 0,
+    "HasOption": false,
+    "Options": [
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      },
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      },
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      }
+    ]
+  },
+  {
+    "ID": 22010001,
+    "Description": "5层-11层",
+    "IsHead": true,
+    "Conditions": [
+      {
+        "Type": 3,
+        "Args": [
+          "5",
+          "11"
+        ]
+      },
+      {
+        "Type": 2,
+        "Args": []
+      },
+      {
+        "Type": 0,
+        "Args": []
+      }
+    ],
+    "Portrait": 1,
+    "Text": "让我看看…",
+    "NextDialog": 22010002,
+    "HasOption": false,
+    "Options": [
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      },
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      },
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      }
+    ]
+  },
+  {
+    "ID": 22010002,
+    "Description": "",
+    "IsHead": false,
+    "Conditions": [
+      {
+        "Type": 0,
+        "Args": []
+      },
+      {
+        "Type": 0,
+        "Args": []
+      },
+      {
+        "Type": 0,
+        "Args": []
+      }
+    ],
+    "Portrait": 1,
+    "Text": "这次可以给你的奖励是这些",
+    "NextDialog": 22010003,
+    "HasOption": false,
+    "Options": [
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      },
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      },
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      }
+    ]
+  },
+  {
+    "ID": 22010003,
+    "Description": "",
+    "IsHead": false,
+    "Conditions": [
+      {
+        "Type": 0,
+        "Args": []
+      },
+      {
+        "Type": 0,
+        "Args": []
+      },
+      {
+        "Type": 0,
+        "Args": []
+      }
+    ],
+    "Portrait": 1,
+    "Text": "选择一个：",
+    "NextDialog": 0,
+    "HasOption": true,
+    "Options": [
+      {
+        "Text": "<color=green>100金币</color>",
+        "Script": "AddGold",
+        "ScriptArgs": [
+          "100"
+        ],
+        "NextDialog": 22010004
+      },
+      {
+        "Text": "1个<color=blue>稀有遗物</color>",
+        "Script": "RandomRelic",
+        "ScriptArgs": [],
+        "NextDialog": 22010004
+      },
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      }
+    ]
+  },
+  {
+    "ID": 22010004,
+    "Description": "",
+    "IsHead": false,
+    "Conditions": [
+      {
+        "Type": 0,
+        "Args": []
+      },
+      {
+        "Type": 0,
+        "Args": []
+      },
+      {
+        "Type": 0,
+        "Args": []
+      }
+    ],
+    "Portrait": 1,
+    "Text": "如果这次表现的更好，下次会有更多奖励",
+    "NextDialog": 0,
+    "HasOption": false,
+    "Options": [
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      },
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      },
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      }
+    ]
+  },
+  {
+    "ID": 23010001,
+    "Description": "11层+",
+    "IsHead": true,
+    "Conditions": [
+      {
+        "Type": 3,
+        "Args": [
+          "12",
+          "99"
+        ]
+      },
+      {
+        "Type": 2,
+        "Args": []
+      },
+      {
+        "Type": 0,
+        "Args": []
+      }
+    ],
+    "Portrait": 1,
+    "Text": "我能清晰的感觉到你强大的骑士精神",
+    "NextDialog": 23010002,
+    "HasOption": false,
+    "Options": [
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      },
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      },
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      }
+    ]
+  },
+  {
+    "ID": 23010002,
+    "Description": "",
+    "IsHead": false,
+    "Conditions": [
+      {
+        "Type": 0,
+        "Args": []
+      },
+      {
+        "Type": 0,
+        "Args": []
+      },
+      {
+        "Type": 0,
+        "Args": []
+      }
+    ],
+    "Portrait": 1,
+    "Text": "这太棒了\n太棒了",
+    "NextDialog": 23010003,
+    "HasOption": false,
+    "Options": [
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      },
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      },
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      }
+    ]
+  },
+  {
+    "ID": 23010003,
+    "Description": "",
+    "IsHead": false,
+    "Conditions": [
+      {
+        "Type": 0,
+        "Args": []
+      },
+      {
+        "Type": 0,
+        "Args": []
+      },
+      {
+        "Type": 0,
+        "Args": []
+      }
+    ],
+    "Portrait": 1,
+    "Text": "为了表达我的敬意，请拿走这些奖励",
+    "NextDialog": 23010004,
+    "HasOption": false,
+    "Options": [
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      },
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      },
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      }
+    ]
+  },
+  {
+    "ID": 23010004,
+    "Description": "",
+    "IsHead": false,
+    "Conditions": [
+      {
+        "Type": 0,
+        "Args": []
+      },
+      {
+        "Type": 0,
+        "Args": []
+      },
+      {
+        "Type": 0,
+        "Args": []
+      }
+    ],
+    "Portrait": 1,
+    "Text": "选择一个：",
+    "NextDialog": 0,
+    "HasOption": true,
+    "Options": [
+      {
+        "Text": "<color=green>200金币</color>",
+        "Script": "AddGold",
+        "ScriptArgs": [
+          "200"
+        ],
+        "NextDialog": 23010005
+      },
+      {
+        "Text": "1个<color=purple>传说遗物</color>",
+        "Script": "RandomRelic",
+        "ScriptArgs": [],
+        "NextDialog": 23010005
+      },
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      }
+    ]
+  },
+  {
+    "ID": 23010005,
+    "Description": "",
+    "IsHead": false,
+    "Conditions": [
+      {
+        "Type": 0,
+        "Args": []
+      },
+      {
+        "Type": 0,
+        "Args": []
+      },
+      {
+        "Type": 0,
+        "Args": []
+      }
+    ],
+    "Portrait": 1,
+    "Text": "人类的赞歌是勇气的赞歌\n人类的伟大是勇气的伟大",
+    "NextDialog": 0,
+    "HasOption": false,
+    "Options": [
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      },
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      },
+      {
+        "Text": "",
+        "Script": "",
+        "ScriptArgs": [],
+        "NextDialog": 0
+      }
+    ]
+  }
+]

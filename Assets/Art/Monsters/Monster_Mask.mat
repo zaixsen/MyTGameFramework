@@ -1,0 +1,163 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Monster_Mask
+  m_Shader: {fileID: 4800000, guid: 40dd5e352bddc3342a862f19c5e3573b, type: 3}
+  m_ShaderKeywords: _EVILTEX_ON _LIGHTINSTANCE_ON _OUTLINEY_ON _OUTLINEZ_ON
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EvilTexture:
+        m_Texture: {fileID: 2800000, guid: 65b1e304ed37a0743981cc836b3ac08f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture:
+        m_Texture: {fileID: 2800000, guid: 1f5261cfee0d7a3428d7f0c5a97612ea, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture1:
+        m_Texture: {fileID: 2800000, guid: 1f5261cfee0d7a3428d7f0c5a97612ea, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2:
+        m_Texture: {fileID: 2800000, guid: 1f5261cfee0d7a3428d7f0c5a97612ea, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _ArmorAngleSpeed: 1
+    - _ArmorFresnelPower: 3
+    - _ArmorFresnelScale: 5
+    - _ArmorIntensity: 1
+    - _ArmorMoveSpeed: 1
+    - _ArmorNoiseScale: 5
+    - _ArmorPosition: 5
+    - _ArmorPower: 1
+    - _ArmorRollX: 0
+    - _ArmorRollY: -0.5
+    - _ArmorYorZ: 0
+    - _BlinnLight: 0
+    - _BlinnSmooth: 0.35
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DarkDir: -0.35
+    - _DarkSmooth: 0
+    - _DepthPower: 1
+    - _DetailNormalMapScale: 1
+    - _DirtherDistance: 50
+    - _Dissolve: 1
+    - _Dissolve1: 1
+    - _DissolveEdge: 0.05
+    - _Dither: 1.25
+    - _DstBlend: 0
+    - _EvilTex: 1
+    - _Float1: 0
+    - _FresnelPower: 2.5
+    - _FresnelScale: 1.5
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _LightAttenSmooth: 1
+    - _LightColorAmout: 1
+    - _LightInstance: 1
+    - _Mask: 0
+    - _Metallic: 0
+    - _Mode: 0
+    - _NoiseRoll_X: 0
+    - _NoiseRoll_X1: 0
+    - _NoiseRoll_Y: 0
+    - _NoiseRoll_Y1: 0
+    - _NoiseRoll_Z: 0
+    - _NoiseScale: 5
+    - _NoiseScale1: 5
+    - _OcclusionStrength: 1
+    - _OnHit: 0
+    - _OnHitRange: 1
+    - _OnhitRange: 1
+    - _OutlineWidth: 0
+    - _OutlineX: 0
+    - _OutlineY: 1
+    - _OutlineZ: 1
+    - _Parallax: 0.02
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _SuperArmor: 0
+    - _UVSec: 0
+    - _UltraModeTransform: 0
+    - _WorldY: 0.85
+    - _WorldZ: 0
+    - _XRay: 1
+    - _Xray: 1
+    - _Xray1: 0
+    - _YorZ: 0
+    - _YorZdirther: 0
+    - _ZWrite: 1
+    - _Z_Test1: 7
+    - _Z_Write1: 0
+    - __dirty: 0
+    m_Colors:
+    - _ArmorColor: {r: 1, g: 0.9111886, b: 0, a: 0}
+    - _BlinnDarkColor: {r: 1, g: 0.17433044, b: 0, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EdgeColor: {r: 1, g: 0.8431373, b: 0, a: 0}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _FresnelColor: {r: 1, g: 0.490196, b: 0, a: 0}
+    - _MaskColor: {r: 1, g: 0, b: 0, a: 0}
+    - _NoiseUVTiling: {r: 1, g: 1, b: 0, a: 0}
+    - _NoiseUVTiling1: {r: 1, g: 1, b: 0, a: 0}
+    - _OutlineColor: {r: 0, g: 0.92156863, b: 0.1764706, a: 0}
+    - _ShadowColor: {r: 0.5660378, g: 0.5660378, b: 0.5660378, a: 0}
+    - _TexColor: {r: 1, g: 1, b: 1, a: 0}
+  m_BuildTextureStacks: []

@@ -1,0 +1,14 @@
+[
+  {
+    "ID": 1000,
+    "Description": "",
+    "Title": "神秘法阵",
+    "Asset": "Datas/Events/Portal.asset"
+  },
+  {
+    "ID": 1001,
+    "Description": "",
+    "Title": "远处的黑影",
+    "Asset": "Datas/Events/1001.asset"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "ID": 2001,
+    "Description": "受到伤害增加15%",
+    "Name": "诅咒：脆弱",
+    "RelicID": 2001,
+    "MaxDropCount": 1
+  },
+  {
+    "ID": 2002,
+    "Description": "每次进入房间损失2点生命",
+    "Name": "诅咒：流血",
+    "RelicID": 2002,
+    "MaxDropCount": 1
+  },
+  {
+    "ID": 2003,
+    "Description": "每次消耗精神时额外消耗1点",
+    "Name": "诅咒：不洁骑士",
+    "RelicID": 2003,
+    "MaxDropCount": 1
+  },
+  {
+    "ID": 2004,
+    "Description": "降低些许史诗和传奇品质祝福的概率",
+    "Name": "诅咒：资质平平",
+    "RelicID": 2004,
+    "MaxDropCount": 1
+  },
+  {
+    "ID": 2005,
+    "Description": "复活时恢复的生命降低20%",
+    "Name": "诅咒：虚弱",
+    "RelicID": 2005,
+    "MaxDropCount": 1
+  },
+  {
+    "ID": 2006,
+    "Description": "觉醒时能量损耗速度增加20%",
+    "Name": "诅咒：丧失理智",
+    "RelicID": 2006,
+    "MaxDropCount": 1
+  },
+  {
+    "ID": 2007,
+    "Description": "每次受到伤害损失10金钱",
+    "Name": "诅咒：盗窃",
+    "RelicID": 2007,
+    "MaxDropCount": 1
+  },
+  {
+    "ID": 2008,
+    "Description": "怪物反应加快",
+    "Name": "诅咒：狂暴",
+    "RelicID": 2008,
+    "MaxDropCount": 1
+  },
+  {
+    "ID": 2009,
+    "Description": "每个房间最多使用3次精神",
+    "Name": "诅咒：事不过三",
+    "RelicID": 2009,
+    "MaxDropCount": 1
+  },
+  {
+    "ID": 2010,
+    "Description": "闪避冷却时间延长0.5秒",
+    "Name": "诅咒：迟钝",
+    "RelicID": 2010,
+    "MaxDropCount": 1
+  },
+  {
+    "ID": 2011,
+    "Description": "触发触发概率降低10%",
+    "Name": "诅咒：厄运",
+    "RelicID": 2011,
+    "MaxDropCount": 1
+  },
+  {
+    "ID": 2012,
+    "Description": "事件成功概率降低10%",
+    "Name": "诅咒：倒霉",
+    "RelicID": 2012,
+    "MaxDropCount": 1
+  },
+  {
+    "ID": 2013,
+    "Description": "商店售价提升20%",
+    "Name": "诅咒：奸商",
+    "RelicID": 2013,
+    "MaxDropCount": 1
+  },
+  {
+    "ID": 2014,
+    "Description": "暴击概率降低5%",
+    "Name": "诅咒：生锈",
+    "RelicID": 2014,
+    "MaxDropCount": 1
+  },
+  {
+    "ID": 2015,
+    "Description": "基础攻击降低10%",
+    "Name": "诅咒：断剑",
+    "RelicID": 2015,
+    "MaxDropCount": 1
+  }
+]

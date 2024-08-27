@@ -1,0 +1,555 @@
+[
+  {
+    "ID": 30020,
+    "Description": "蘑菇蛇将军",
+    "Mode": 0,
+    "LoopStartIndex": 0,
+    "LoopSpawnInterval": 0.0,
+    "Waves": [
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 0.0,
+        "Groups": [
+          30021,
+          30022
+        ]
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 0.0,
+        "Groups": []
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 0.0,
+        "Groups": []
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 0.0,
+        "Groups": []
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 0.0,
+        "Groups": []
+      }
+    ]
+  },
+  {
+    "ID": 40010,
+    "Description": "格雷恩召唤暗影狼",
+    "Mode": 0,
+    "LoopStartIndex": 0,
+    "LoopSpawnInterval": 0.0,
+    "Waves": [
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 0.0,
+        "Groups": [
+          40011
+        ]
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 0.0,
+        "Groups": []
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 0.0,
+        "Groups": []
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 0.0,
+        "Groups": []
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 0.0,
+        "Groups": []
+      }
+    ]
+  },
+  {
+    "ID": 11010010,
+    "Description": "亡语者之森-普通-1关",
+    "Mode": 0,
+    "LoopStartIndex": 0,
+    "LoopSpawnInterval": 0.0,
+    "Waves": [
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 1.0,
+        "Groups": [
+          11010011,
+          11010011
+        ]
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 0.0,
+        "Groups": []
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 0.0,
+        "Groups": []
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 0.0,
+        "Groups": []
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 0.0,
+        "Groups": []
+      }
+    ]
+  },
+  {
+    "ID": 11020010,
+    "Description": "亡语者之森-普通-2-4",
+    "Mode": 0,
+    "LoopStartIndex": 0,
+    "LoopSpawnInterval": 0.0,
+    "Waves": [
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 1.0,
+        "Groups": [
+          11020011,
+          11020012,
+          11020013,
+          11020014
+        ]
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 1.0,
+        "Groups": [
+          11020011,
+          11020012,
+          11020013,
+          11020014,
+          11020014
+        ]
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 0.0,
+        "Groups": []
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 0.0,
+        "Groups": []
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 0.0,
+        "Groups": []
+      }
+    ]
+  },
+  {
+    "ID": 11030010,
+    "Description": "亡语者之森-普通-6-9",
+    "Mode": 0,
+    "LoopStartIndex": 0,
+    "LoopSpawnInterval": 0.0,
+    "Waves": [
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 1.0,
+        "Groups": [
+          11030011,
+          11030012,
+          11030013,
+          11030014
+        ]
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 1.0,
+        "Groups": [
+          11030011,
+          11030012,
+          11030013,
+          11030014
+        ]
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 0.0,
+        "Groups": []
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 0.0,
+        "Groups": []
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 0.0,
+        "Groups": []
+      }
+    ]
+  },
+  {
+    "ID": 11040010,
+    "Description": "亡语者之森-普通-11-13",
+    "Mode": 0,
+    "LoopStartIndex": 0,
+    "LoopSpawnInterval": 0.0,
+    "Waves": [
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 1.0,
+        "Groups": [
+          11040011,
+          11040012,
+          11040012,
+          11040013
+        ]
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 1.0,
+        "Groups": [
+          11040011,
+          11040012,
+          11040012,
+          11040013
+        ]
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 1.0,
+        "Groups": [
+          11040011,
+          11040012,
+          11040012,
+          11040013
+        ]
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 0.0,
+        "Groups": []
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 0.0,
+        "Groups": []
+      }
+    ]
+  },
+  {
+    "ID": 11050010,
+    "Description": "亡语者之森-普通-15",
+    "Mode": 0,
+    "LoopStartIndex": 0,
+    "LoopSpawnInterval": 0.0,
+    "Waves": [
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 1.0,
+        "Groups": [
+          11040011,
+          11040012,
+          11040012,
+          11040013
+        ]
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 1.0,
+        "Groups": [
+          11040011,
+          11040012,
+          11040012,
+          11040013
+        ]
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 1.0,
+        "Groups": [
+          11040011,
+          11040012,
+          11040012,
+          11040013
+        ]
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 0.0,
+        "Groups": []
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 0.0,
+        "Groups": []
+      }
+    ]
+  },
+  {
+    "ID": 12010010,
+    "Description": "亡语者之森-精英-领主",
+    "Mode": 0,
+    "LoopStartIndex": 0,
+    "LoopSpawnInterval": 0.0,
+    "Waves": [
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 1.0,
+        "Groups": [
+          12010011
+        ]
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 0.0,
+        "Groups": []
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 0.0,
+        "Groups": []
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 0.0,
+        "Groups": []
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 0.0,
+        "Groups": []
+      }
+    ]
+  },
+  {
+    "ID": 12010020,
+    "Description": "亡语者之森-精英-蘑菇蛇将军",
+    "Mode": 0,
+    "LoopStartIndex": 0,
+    "LoopSpawnInterval": 0.0,
+    "Waves": [
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 1.0,
+        "Groups": [
+          12010021
+        ]
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 0.0,
+        "Groups": []
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 0.0,
+        "Groups": []
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 0.0,
+        "Groups": []
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 0.0,
+        "Groups": []
+      }
+    ]
+  },
+  {
+    "ID": 12010030,
+    "Description": "亡语者之森-精英-三个黄金怪",
+    "Mode": 0,
+    "LoopStartIndex": 0,
+    "LoopSpawnInterval": 0.0,
+    "Waves": [
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 1.0,
+        "Groups": [
+          12010031,
+          12010032,
+          12010033
+        ]
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 0.0,
+        "Groups": []
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 0.0,
+        "Groups": []
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 0.0,
+        "Groups": []
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 0.0,
+        "Groups": []
+      }
+    ]
+  },
+  {
+    "ID": 12010040,
+    "Description": "亡语者之森-精英-生存-简单",
+    "Mode": 1,
+    "LoopStartIndex": 0,
+    "LoopSpawnInterval": 15.0,
+    "Waves": [
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.5,
+        "IntervalMax": 1.0,
+        "Groups": [
+          12010041,
+          12010042,
+          12010043
+        ]
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 0.0,
+        "Groups": []
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 0.0,
+        "Groups": []
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 0.0,
+        "Groups": []
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 0.0,
+        "Groups": []
+      }
+    ]
+  },
+  {
+    "ID": 12010050,
+    "Description": "亡语者之森-精英-生存-中等",
+    "Mode": 1,
+    "LoopStartIndex": 0,
+    "LoopSpawnInterval": 15.0,
+    "Waves": [
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.5,
+        "IntervalMax": 1.0,
+        "Groups": [
+          12010051,
+          12010051,
+          12010051,
+          12010052,
+          12010052,
+          12010052
+        ]
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 1.0,
+        "Groups": [
+          12010051,
+          12010051,
+          12010052,
+          12010052,
+          12010053,
+          12010053
+        ]
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 0.0,
+        "Groups": []
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 0.0,
+        "Groups": []
+      },
+      {
+        "StartDelay": 0.0,
+        "IntervalMin": 0.0,
+        "IntervalMax": 0.0,
+        "Groups": []
+      }
+    ]
+  }
+]

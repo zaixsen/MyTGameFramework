@@ -1,0 +1,106 @@
+[
+  {
+    "ID": 10010001,
+    "Description": "伤害提升<color='red'>5</color>",
+    "Name": "提升伤害",
+    "Type": 1,
+    "AttrType": "AttackAbstract",
+    "Value": 5.0
+  },
+  {
+    "ID": 10010002,
+    "Description": "暴击提升<color='red'>10%</color>",
+    "Name": "提升暴击",
+    "Type": 1,
+    "AttrType": "Crit",
+    "Value": 0.1
+  },
+  {
+    "ID": 10010003,
+    "Description": "暴伤提升<color='red'>20%</color>",
+    "Name": "提升暴伤",
+    "Type": 1,
+    "AttrType": "CritDamage",
+    "Value": 0.2
+  },
+  {
+    "ID": 10010004,
+    "Description": "攻击和技能有概率额外造成3点伤害，可以触发被动效果",
+    "Name": "刺客本能",
+    "Type": 2,
+    "AttrType": "",
+    "Value": 10010001.0
+  },
+  {
+    "ID": 10010101,
+    "Description": "伤害提升<color='red'>5</color>",
+    "Name": "提升伤害",
+    "Type": 1,
+    "AttrType": "AttackAbstract",
+    "Value": 5.0
+  },
+  {
+    "ID": 10010102,
+    "Description": "攻击和技能有概率使敌人燃烧",
+    "Name": "点燃",
+    "Type": 2,
+    "AttrType": "",
+    "Value": 10012001.0
+  },
+  {
+    "ID": 10010103,
+    "Description": "暴伤提升<color='red'>10%</color>",
+    "Name": "提升暴伤",
+    "Type": 1,
+    "AttrType": "CritDamage",
+    "Value": 0.1
+  },
+  {
+    "ID": 10010201,
+    "Description": "伤害提升<color='red'>10</color>",
+    "Name": "提升伤害",
+    "Type": 1,
+    "AttrType": "AttackAbstract",
+    "Value": 10.0
+  },
+  {
+    "ID": 10010202,
+    "Description": "匕首命中敌人后会进行一次弹射",
+    "Name": "弹射",
+    "Type": 1,
+    "AttrType": "BulletSpringCount",
+    "Value": 1.0
+  },
+  {
+    "ID": 10010203,
+    "Description": "攻击有概率额外丢出一个匕首",
+    "Name": "两发",
+    "Type": 1,
+    "AttrType": "BulletCount",
+    "Value": 1.0
+  },
+  {
+    "ID": 10010301,
+    "Description": "伤害提升<color='red'>15</color>",
+    "Name": "提升伤害",
+    "Type": 1,
+    "AttrType": "AttackAbstract",
+    "Value": 15.0
+  },
+  {
+    "ID": 10010302,
+    "Description": "攻击和技能有概率产生一道雷电",
+    "Name": "麻痹",
+    "Type": 2,
+    "AttrType": "",
+    "Value": 10012003.0
+  },
+  {
+    "ID": 10010303,
+    "Description": "技能增加一层充能",
+    "Name": "充盈",
+    "Type": 1,
+    "AttrType": "ChargeCount",
+    "Value": 1.0
+  }
+]

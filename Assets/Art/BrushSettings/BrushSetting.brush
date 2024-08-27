@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9cfe08fb475df0a4a81af87037df097a, type: 3}
+  m_Name: BrushSetting
+  m_EditorClassIdentifier: 
+  prefabList:
+  - {fileID: 3631868208103844786, guid: e22987d583624af4b847a88a80d9f3a2, type: 3}
+  - {fileID: 1991557910508591738, guid: 189031b8f67462945b568ac092d94216, type: 3}
+  brushSize: 0.1
+  plantDensityMin: 1
+  plantDensityMax: 1
+  rotationYMin: 0
+  rotationYMax: 360
+  scaleXMin: 1
+  scaleXMax: 1
+  scaleYMin: 1
+  scaleYMax: 1
+  scaleZMin: 1
+  scaleZMax: 1
+  uniformScaleXZ: 1
+  yDirectionType: 0
+  useRandomRotationXZ: 0
+  randomRotationXZ: 5
+  brushScriptName: Koakuma.Utility.Terrain.MonsterBrushScript

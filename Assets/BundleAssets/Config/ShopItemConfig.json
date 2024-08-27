@@ -1,0 +1,122 @@
+[
+  {
+    "ID": 1,
+    "Description": "祝福",
+    "Type": 0,
+    "ItemID": 0,
+    "PriceMin": 380,
+    "PriceMax": 510
+  },
+  {
+    "ID": 6001,
+    "Description": "幻影匕首",
+    "Type": 1,
+    "ItemID": 1001,
+    "PriceMin": 220,
+    "PriceMax": 430
+  },
+  {
+    "ID": 6004,
+    "Description": "石鬼之面",
+    "Type": 1,
+    "ItemID": 1004,
+    "PriceMin": 220,
+    "PriceMax": 430
+  },
+  {
+    "ID": 6005,
+    "Description": "瓶装闪电",
+    "Type": 1,
+    "ItemID": 1005,
+    "PriceMin": 220,
+    "PriceMax": 430
+  },
+  {
+    "ID": 6006,
+    "Description": "分裂箭",
+    "Type": 1,
+    "ItemID": 1006,
+    "PriceMin": 220,
+    "PriceMax": 430
+  },
+  {
+    "ID": 6007,
+    "Description": "会员卡",
+    "Type": 1,
+    "ItemID": 1007,
+    "PriceMin": 220,
+    "PriceMax": 430
+  },
+  {
+    "ID": 6008,
+    "Description": "点金手",
+    "Type": 1,
+    "ItemID": 1008,
+    "PriceMin": 220,
+    "PriceMax": 430
+  },
+  {
+    "ID": 6009,
+    "Description": "混乱之杖",
+    "Type": 1,
+    "ItemID": 1009,
+    "PriceMin": 220,
+    "PriceMax": 430
+  },
+  {
+    "ID": 6010,
+    "Description": "撒旦之触",
+    "Type": 1,
+    "ItemID": 1010,
+    "PriceMin": 220,
+    "PriceMax": 430
+  },
+  {
+    "ID": 6011,
+    "Description": "雷神之锤",
+    "Type": 1,
+    "ItemID": 1011,
+    "PriceMin": 220,
+    "PriceMax": 430
+  },
+  {
+    "ID": 6012,
+    "Description": "惩戒之剑",
+    "Type": 1,
+    "ItemID": 1012,
+    "PriceMin": 220,
+    "PriceMax": 430
+  },
+  {
+    "ID": 6013,
+    "Description": "恐怖利刃",
+    "Type": 1,
+    "ItemID": 1013,
+    "PriceMin": 220,
+    "PriceMax": 430
+  },
+  {
+    "ID": 6014,
+    "Description": "野兽獠牙",
+    "Type": 1,
+    "ItemID": 1014,
+    "PriceMin": 220,
+    "PriceMax": 430
+  },
+  {
+    "ID": 6015,
+    "Description": "逆刃刀",
+    "Type": 1,
+    "ItemID": 1015,
+    "PriceMin": 220,
+    "PriceMax": 430
+  },
+  {
+    "ID": 6016,
+    "Description": "黄金之心",
+    "Type": 1,
+    "ItemID": 1016,
+    "PriceMin": 220,
+    "PriceMax": 430
+  }
+]

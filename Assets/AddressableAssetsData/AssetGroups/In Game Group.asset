@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: In Game Group
+  m_EditorClassIdentifier: 
+  m_GroupName: In Game Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 246fe4b32205925408d5e9e4264ff399
+  m_SerializeEntries:
+  - m_GUID: 9c1b34b10971d8545af6fb717005cd53
+    m_Address: Assets/Prefabs
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6575898e850502a408c0a788468e52a8
+    m_Address: Assets/BundleAssets/Model
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7410e0b5c1da93d44a22f62ceac41fd8
+    m_Address: Assets/BundleAssets/Animator
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0a44dd2ba93932547a68dc104383547e
+    m_Address: Assets/BundleAssets/RegionIndicator
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3b1832c034eb17848878b97a4a43c5f7
+    m_Address: Assets/BundleAssets/AI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e44d6d29893719c44b9486f331372f9a
+    m_Address: Assets/BundleAssets/UI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: be39b15ef399d52438eaa4dc8863cfc7
+    m_Address: Assets/BundleAssets/Config
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4c9b544e258b65243b12b1ec93e16b68
+    m_Address: Assets/BundleAssets/VFX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a52d36c906b39644bb7262ca570f21e7, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: e1b8a2b3f7f449c48b0f184c577037de, type: 2}
+    - {fileID: 11400000, guid: cbaf6372fc83bb240b0cc54c9dd9d06e, type: 2}

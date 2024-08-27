@@ -1,0 +1,653 @@
+[
+  {
+    "ID": 1001,
+    "Description": "relic_1001_desc",
+    "Name": "relic_1001_name",
+    "Tip": "relic_1001_tip",
+    "Icon": 60011001,
+    "IsDebuff": false,
+    "MaxStack": 1,
+    "Effects": [
+      {
+        "Type": "AddBuffRelic",
+        "Args": [
+          "60011001"
+        ]
+      },
+      {
+        "Type": "",
+        "Args": []
+      }
+    ]
+  },
+  {
+    "ID": 1002,
+    "Description": "relic_1002_desc",
+    "Name": "relic_1002_name",
+    "Tip": "relic_1002_tip",
+    "Icon": 60011002,
+    "IsDebuff": false,
+    "MaxStack": 1,
+    "Effects": [
+      {
+        "Type": "AddBuffRelic",
+        "Args": [
+          "60011002"
+        ]
+      },
+      {
+        "Type": "",
+        "Args": []
+      }
+    ]
+  },
+  {
+    "ID": 1003,
+    "Description": "relic_1003_desc",
+    "Name": "relic_1003_name",
+    "Tip": "relic_1003_tip",
+    "Icon": 60011003,
+    "IsDebuff": false,
+    "MaxStack": 1,
+    "Effects": [
+      {
+        "Type": "AddBuffRelic",
+        "Args": [
+          "60011003"
+        ]
+      },
+      {
+        "Type": "",
+        "Args": []
+      }
+    ]
+  },
+  {
+    "ID": 1004,
+    "Description": "relic_1004_desc",
+    "Name": "relic_1004_name",
+    "Tip": "relic_1004_tip",
+    "Icon": 60011004,
+    "IsDebuff": false,
+    "MaxStack": 1,
+    "Effects": [
+      {
+        "Type": "AddBuffRelic",
+        "Args": [
+          "60011004"
+        ]
+      },
+      {
+        "Type": "",
+        "Args": []
+      }
+    ]
+  },
+  {
+    "ID": 1005,
+    "Description": "relic_1005_desc",
+    "Name": "relic_1005_name",
+    "Tip": "relic_1005_tip",
+    "Icon": 60011005,
+    "IsDebuff": false,
+    "MaxStack": 1,
+    "Effects": [
+      {
+        "Type": "AddBuffRelic",
+        "Args": [
+          "60011005"
+        ]
+      },
+      {
+        "Type": "",
+        "Args": []
+      }
+    ]
+  },
+  {
+    "ID": 1006,
+    "Description": "relic_1006_desc",
+    "Name": "relic_1006_name",
+    "Tip": "relic_1006_tip",
+    "Icon": 60011006,
+    "IsDebuff": false,
+    "MaxStack": 1,
+    "Effects": [
+      {
+        "Type": "AddBuffRelic",
+        "Args": [
+          "60011006"
+        ]
+      },
+      {
+        "Type": "",
+        "Args": []
+      }
+    ]
+  },
+  {
+    "ID": 1007,
+    "Description": "relic_1007_desc",
+    "Name": "relic_1007_name",
+    "Tip": "relic_1007_tip",
+    "Icon": 60011007,
+    "IsDebuff": false,
+    "MaxStack": 1,
+    "Effects": [
+      {
+        "Type": "AddBuffRelic",
+        "Args": [
+          "60011007"
+        ]
+      },
+      {
+        "Type": "",
+        "Args": []
+      }
+    ]
+  },
+  {
+    "ID": 1008,
+    "Description": "relic_1008_desc",
+    "Name": "relic_1008_name",
+    "Tip": "relic_1008_tip",
+    "Icon": 60011008,
+    "IsDebuff": false,
+    "MaxStack": 1,
+    "Effects": [
+      {
+        "Type": "AddBuffRelic",
+        "Args": [
+          "60011008"
+        ]
+      },
+      {
+        "Type": "",
+        "Args": []
+      }
+    ]
+  },
+  {
+    "ID": 1009,
+    "Description": "relic_1009_desc",
+    "Name": "relic_1009_name",
+    "Tip": "relic_1009_tip",
+    "Icon": 60011009,
+    "IsDebuff": false,
+    "MaxStack": 1,
+    "Effects": [
+      {
+        "Type": "AddBuffRelic",
+        "Args": [
+          "60011009"
+        ]
+      },
+      {
+        "Type": "",
+        "Args": []
+      }
+    ]
+  },
+  {
+    "ID": 1010,
+    "Description": "relic_1010_desc",
+    "Name": "relic_1010_name",
+    "Tip": "relic_1010_tip",
+    "Icon": 60011010,
+    "IsDebuff": false,
+    "MaxStack": 1,
+    "Effects": [
+      {
+        "Type": "AddBuffRelic",
+        "Args": [
+          "60011010"
+        ]
+      },
+      {
+        "Type": "",
+        "Args": []
+      }
+    ]
+  },
+  {
+    "ID": 1011,
+    "Description": "relic_1011_desc",
+    "Name": "relic_1011_name",
+    "Tip": "relic_1011_tip",
+    "Icon": 60011011,
+    "IsDebuff": false,
+    "MaxStack": 1,
+    "Effects": [
+      {
+        "Type": "AddBuffRelic",
+        "Args": [
+          "60011011"
+        ]
+      },
+      {
+        "Type": "",
+        "Args": []
+      }
+    ]
+  },
+  {
+    "ID": 1012,
+    "Description": "relic_1012_desc",
+    "Name": "relic_1012_name",
+    "Tip": "relic_1012_tip",
+    "Icon": 60011012,
+    "IsDebuff": false,
+    "MaxStack": 1,
+    "Effects": [
+      {
+        "Type": "AddBuffRelic",
+        "Args": [
+          "60011012"
+        ]
+      },
+      {
+        "Type": "",
+        "Args": []
+      }
+    ]
+  },
+  {
+    "ID": 1013,
+    "Description": "relic_1013_desc",
+    "Name": "relic_1013_name",
+    "Tip": "relic_1013_tip",
+    "Icon": 60011013,
+    "IsDebuff": false,
+    "MaxStack": 1,
+    "Effects": [
+      {
+        "Type": "AddBuffRelic",
+        "Args": [
+          "60011013"
+        ]
+      },
+      {
+        "Type": "",
+        "Args": []
+      }
+    ]
+  },
+  {
+    "ID": 1014,
+    "Description": "relic_1014_desc",
+    "Name": "relic_1014_name",
+    "Tip": "relic_1014_tip",
+    "Icon": 60011014,
+    "IsDebuff": false,
+    "MaxStack": 1,
+    "Effects": [
+      {
+        "Type": "AddBuffRelic",
+        "Args": [
+          "60011014"
+        ]
+      },
+      {
+        "Type": "",
+        "Args": []
+      }
+    ]
+  },
+  {
+    "ID": 1015,
+    "Description": "relic_1015_desc",
+    "Name": "relic_1015_name",
+    "Tip": "relic_1015_tip",
+    "Icon": 60011015,
+    "IsDebuff": false,
+    "MaxStack": 1,
+    "Effects": [
+      {
+        "Type": "AddBuffRelic",
+        "Args": [
+          "60011015"
+        ]
+      },
+      {
+        "Type": "",
+        "Args": []
+      }
+    ]
+  },
+  {
+    "ID": 1016,
+    "Description": "relic_1016_desc",
+    "Name": "relic_1016_name",
+    "Tip": "relic_1016_tip",
+    "Icon": 60011016,
+    "IsDebuff": false,
+    "MaxStack": 1,
+    "Effects": [
+      {
+        "Type": "AddBuffRelic",
+        "Args": [
+          "60011016"
+        ]
+      },
+      {
+        "Type": "",
+        "Args": []
+      }
+    ]
+  },
+  {
+    "ID": 2001,
+    "Description": "relic_2001_desc",
+    "Name": "relic_2001_name",
+    "Tip": "relic_2001_tip",
+    "Icon": 60012001,
+    "IsDebuff": true,
+    "MaxStack": 1,
+    "Effects": [
+      {
+        "Type": "AddBuffRelic",
+        "Args": [
+          "60021001"
+        ]
+      },
+      {
+        "Type": "",
+        "Args": []
+      }
+    ]
+  },
+  {
+    "ID": 2002,
+    "Description": "relic_2002_desc",
+    "Name": "relic_2002_name",
+    "Tip": "relic_2002_tip",
+    "Icon": 60012002,
+    "IsDebuff": true,
+    "MaxStack": 1,
+    "Effects": [
+      {
+        "Type": "AddBuffRelic",
+        "Args": [
+          "60021002"
+        ]
+      },
+      {
+        "Type": "",
+        "Args": []
+      }
+    ]
+  },
+  {
+    "ID": 2003,
+    "Description": "relic_2003_desc",
+    "Name": "relic_2003_name",
+    "Tip": "relic_2003_tip",
+    "Icon": 60012003,
+    "IsDebuff": true,
+    "MaxStack": 1,
+    "Effects": [
+      {
+        "Type": "AddBuffRelic",
+        "Args": [
+          "60021003"
+        ]
+      },
+      {
+        "Type": "",
+        "Args": []
+      }
+    ]
+  },
+  {
+    "ID": 2004,
+    "Description": "relic_2004_desc",
+    "Name": "relic_2004_name",
+    "Tip": "relic_2004_tip",
+    "Icon": 60012004,
+    "IsDebuff": true,
+    "MaxStack": 1,
+    "Effects": [
+      {
+        "Type": "AddBuffRelic",
+        "Args": [
+          "60021004"
+        ]
+      },
+      {
+        "Type": "",
+        "Args": []
+      }
+    ]
+  },
+  {
+    "ID": 2005,
+    "Description": "relic_2005_desc",
+    "Name": "relic_2005_name",
+    "Tip": "relic_2005_tip",
+    "Icon": 60012005,
+    "IsDebuff": true,
+    "MaxStack": 1,
+    "Effects": [
+      {
+        "Type": "AddBuffRelic",
+        "Args": [
+          "60021005"
+        ]
+      },
+      {
+        "Type": "",
+        "Args": []
+      }
+    ]
+  },
+  {
+    "ID": 2006,
+    "Description": "relic_2006_desc",
+    "Name": "relic_2006_name",
+    "Tip": "relic_2006_tip",
+    "Icon": 60012006,
+    "IsDebuff": true,
+    "MaxStack": 1,
+    "Effects": [
+      {
+        "Type": "AddBuffRelic",
+        "Args": [
+          "60021006"
+        ]
+      },
+      {
+        "Type": "",
+        "Args": []
+      }
+    ]
+  },
+  {
+    "ID": 2007,
+    "Description": "relic_2007_desc",
+    "Name": "relic_2007_name",
+    "Tip": "relic_2007_tip",
+    "Icon": 60012007,
+    "IsDebuff": true,
+    "MaxStack": 1,
+    "Effects": [
+      {
+        "Type": "AddBuffRelic",
+        "Args": [
+          "60021007"
+        ]
+      },
+      {
+        "Type": "",
+        "Args": []
+      }
+    ]
+  },
+  {
+    "ID": 2008,
+    "Description": "relic_2008_desc",
+    "Name": "relic_2008_name",
+    "Tip": "relic_2008_tip",
+    "Icon": 60012008,
+    "IsDebuff": true,
+    "MaxStack": 1,
+    "Effects": [
+      {
+        "Type": "AddBuffRelic",
+        "Args": [
+          "60021008"
+        ]
+      },
+      {
+        "Type": "",
+        "Args": []
+      }
+    ]
+  },
+  {
+    "ID": 2009,
+    "Description": "relic_2009_desc",
+    "Name": "relic_2009_name",
+    "Tip": "relic_2009_tip",
+    "Icon": 60012009,
+    "IsDebuff": true,
+    "MaxStack": 1,
+    "Effects": [
+      {
+        "Type": "AddBuffRelic",
+        "Args": [
+          "60021009"
+        ]
+      },
+      {
+        "Type": "",
+        "Args": []
+      }
+    ]
+  },
+  {
+    "ID": 2010,
+    "Description": "relic_2010_desc",
+    "Name": "relic_2010_name",
+    "Tip": "relic_2010_tip",
+    "Icon": 60012010,
+    "IsDebuff": true,
+    "MaxStack": 1,
+    "Effects": [
+      {
+        "Type": "AddBuffRelic",
+        "Args": [
+          "60021010"
+        ]
+      },
+      {
+        "Type": "",
+        "Args": []
+      }
+    ]
+  },
+  {
+    "ID": 2011,
+    "Description": "relic_2011_desc",
+    "Name": "relic_2011_name",
+    "Tip": "relic_2011_tip",
+    "Icon": 60012011,
+    "IsDebuff": true,
+    "MaxStack": 1,
+    "Effects": [
+      {
+        "Type": "AddBuffRelic",
+        "Args": [
+          "60021011"
+        ]
+      },
+      {
+        "Type": "",
+        "Args": []
+      }
+    ]
+  },
+  {
+    "ID": 2012,
+    "Description": "relic_2012_desc",
+    "Name": "relic_2012_name",
+    "Tip": "relic_2012_tip",
+    "Icon": 60012012,
+    "IsDebuff": true,
+    "MaxStack": 1,
+    "Effects": [
+      {
+        "Type": "AddBuffRelic",
+        "Args": [
+          "60021012"
+        ]
+      },
+      {
+        "Type": "",
+        "Args": []
+      }
+    ]
+  },
+  {
+    "ID": 2013,
+    "Description": "relic_2013_desc",
+    "Name": "relic_2013_name",
+    "Tip": "relic_2013_tip",
+    "Icon": 60012013,
+    "IsDebuff": true,
+    "MaxStack": 1,
+    "Effects": [
+      {
+        "Type": "AddBuffRelic",
+        "Args": [
+          "60021013"
+        ]
+      },
+      {
+        "Type": "",
+        "Args": []
+      }
+    ]
+  },
+  {
+    "ID": 2014,
+    "Description": "relic_2014_desc",
+    "Name": "relic_2014_name",
+    "Tip": "relic_2014_tip",
+    "Icon": 60012014,
+    "IsDebuff": true,
+    "MaxStack": 1,
+    "Effects": [
+      {
+        "Type": "AddBuffRelic",
+        "Args": [
+          "60021014"
+        ]
+      },
+      {
+        "Type": "",
+        "Args": []
+      }
+    ]
+  },
+  {
+    "ID": 2015,
+    "Description": "relic_2015_desc",
+    "Name": "relic_2015_name",
+    "Tip": "relic_2015_tip",
+    "Icon": 60012015,
+    "IsDebuff": true,
+    "MaxStack": 1,
+    "Effects": [
+      {
+        "Type": "AddBuffRelic",
+        "Args": [
+          "60021015"
+        ]
+      },
+      {
+        "Type": "",
+        "Args": []
+      }
+    ]
+  }
+]

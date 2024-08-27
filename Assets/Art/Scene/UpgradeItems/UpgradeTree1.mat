@@ -1,0 +1,157 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UpgradeTree1
+  m_Shader: {fileID: 4800000, guid: d45d0c461ef983e488c26271cab42b0c, type: 3}
+  m_ShaderKeywords: _USETEX_ON
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskTexture1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture:
+        m_Texture: {fileID: 2800000, guid: be304cd1d1b9a0b4d86d65611ad1a873, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture1:
+        m_Texture: {fileID: 2800000, guid: be304cd1d1b9a0b4d86d65611ad1a873, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2:
+        m_Texture: {fileID: 2800000, guid: a99db63e88e0d0d4eb2a6f39a58fca8b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _ASEOutlineWidth: 0.025
+    - _BlinnLight: 2
+    - _BlinnSmooth: 0
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DarkDir: 0
+    - _DarkSmooth: 0
+    - _DepthPower1: 0
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _Emission: 0
+    - _EmissionLight: -2.5
+    - _EmissionLight1: 0
+    - _EmissionSmooth: -1
+    - _FresnelPower: 5
+    - _FresnelScale: 1
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _LightAttenSmooth: 1
+    - _LightColorAmout: 1
+    - _MaskIntensity: 0
+    - _MaskIntensity1: 0
+    - _MaskY: 0
+    - _MaskYpower: 1
+    - _Metallic: 0
+    - _Mode: 0
+    - _NoiseRollX: 0
+    - _NoiseRollX1: 0
+    - _NoiseRollY: -0.35
+    - _NoiseRollY1: 0
+    - _NoiseScale: 5
+    - _NoiseScale1: 10
+    - _NoiseScale2: 5
+    - _OcclusionStrength: 1
+    - _OpacityClip: 0
+    - _Parallax: 0.02
+    - _Smooth: 0
+    - _SmoothnessTextureChannel: 0
+    - _Specular: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _TexChange: 0
+    - _TexMask: 0
+    - _TexMask1: 0
+    - _UVSec: 0
+    - _UseTex: 1
+    - _VertexOffsetIntensity: 0.1
+    - _VertexOffsetIntensity1: 0
+    - _VertexOffsetIntensity3: 1
+    - _VertexOffsetX: 0
+    - _VertexOffsetX2: 0
+    - _VertexOffsetY: 0.5
+    - _VertexOffsetY2: 0
+    - _VertexOffsetZ: 0
+    - _Wind: 0
+    - _Wind2: 0
+    - _WindY: 0
+    - _WindY2: 0
+    - _WorldY1: 0.02
+    - _ZWrite: 1
+    - __dirty: 0
+    m_Colors:
+    - _ASEOutlineColor: {r: 0, g: 0, b: 0, a: 0}
+    - _BlinnDarkColor: {r: 0, g: 0, b: 0, a: 0}
+    - _BlinnLightColor: {r: 0, g: 0, b: 0, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _EmissionColor1: {r: 1, g: 1, b: 1, a: 0}
+    - _FresnelColor: {r: 0, g: 0, b: 0, a: 0}
+    - _MaskColor: {r: 1, g: 1, b: 1, a: 0}
+    - _MaskColor1: {r: 1, g: 1, b: 1, a: 0}
+    - _NoTexColor1: {r: 1, g: 1, b: 1, a: 0}
+    - _ShadowColor: {r: 0.5882353, g: 0.5882353, b: 0.5882353, a: 0}
+    - _TexColor: {r: 1, g: 1, b: 1, a: 0}

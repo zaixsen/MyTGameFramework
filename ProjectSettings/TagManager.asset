@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Character
+  - Object
+  - SceneSetting
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Monster
+  - Ragdoll
+  - 
+  - 
+  - Bullet
+  - SpellField
+  - Terrain
+  - Obstacle
+  - Wall
+  - Tree
+  - Grass
+  - InteractiveObject
+  - Prop
+  - Object
+  - ObjectFragment
+  - 
+  - Trigger
+  - VCamera
+  - InvisibleCharacter
+  - Invisible
+  - Mask
+  - UIPostProcessing
+  - MainPostProcessing
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: NormalUI
+    uniqueID: 1118792955
+    locked: 0
+  - name: ModalUI
+    uniqueID: 1319197179
+    locked: 0

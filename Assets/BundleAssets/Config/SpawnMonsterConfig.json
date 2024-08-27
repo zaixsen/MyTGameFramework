@@ -1,0 +1,488 @@
+[
+  {
+    "ID": 30021,
+    "Description": "蘑菇蛇将军-蘑菇蛇2",
+    "Group": 30021,
+    "Weight": 100,
+    "MinCount": 2,
+    "MaxCount": 2,
+    "MonsterID": 2008
+  },
+  {
+    "ID": 30022,
+    "Description": "蘑菇蛇将军-蘑菇蛇2",
+    "Group": 30022,
+    "Weight": 100,
+    "MinCount": 2,
+    "MaxCount": 2,
+    "MonsterID": 2008
+  },
+  {
+    "ID": 30023,
+    "Description": "蘑菇蛇将军-蘑菇巨蛇1",
+    "Group": 30022,
+    "Weight": 0,
+    "MinCount": 1,
+    "MaxCount": 1,
+    "MonsterID": 2009
+  },
+  {
+    "ID": 40011,
+    "Description": "格雷恩-暗影狼",
+    "Group": 40011,
+    "Weight": 100,
+    "MinCount": 4,
+    "MaxCount": 4,
+    "MonsterID": 2012
+  },
+  {
+    "ID": 10011001,
+    "Description": "亡语者之森-蛤蟆1",
+    "Group": 11010011,
+    "Weight": 100,
+    "MinCount": 1,
+    "MaxCount": 1,
+    "MonsterID": 2001
+  },
+  {
+    "ID": 10011002,
+    "Description": "亡语者之森-豪猪1",
+    "Group": 11010011,
+    "Weight": 100,
+    "MinCount": 1,
+    "MaxCount": 1,
+    "MonsterID": 2002
+  },
+  {
+    "ID": 10011003,
+    "Description": "亡语者之森-蛤蟆2-3",
+    "Group": 11020011,
+    "Weight": 100,
+    "MinCount": 2,
+    "MaxCount": 3,
+    "MonsterID": 2001
+  },
+  {
+    "ID": 10011004,
+    "Description": "亡语者之森-豪猪2-3",
+    "Group": 11020012,
+    "Weight": 100,
+    "MinCount": 2,
+    "MaxCount": 3,
+    "MonsterID": 2002
+  },
+  {
+    "ID": 10011005,
+    "Description": "亡语者之森-蛤蟆1-2",
+    "Group": 11020013,
+    "Weight": 100,
+    "MinCount": 1,
+    "MaxCount": 2,
+    "MonsterID": 2001
+  },
+  {
+    "ID": 10011006,
+    "Description": "亡语者之森-豪猪1-2",
+    "Group": 11020013,
+    "Weight": 100,
+    "MinCount": 1,
+    "MaxCount": 2,
+    "MonsterID": 2002
+  },
+  {
+    "ID": 10011007,
+    "Description": "亡语者之森-蘑菇蛇1-2",
+    "Group": 11020013,
+    "Weight": 100,
+    "MinCount": 1,
+    "MaxCount": 2,
+    "MonsterID": 2008
+  },
+  {
+    "ID": 10011008,
+    "Description": "亡语者之森-白银豪猪1",
+    "Group": 11020014,
+    "Weight": 100,
+    "MinCount": 1,
+    "MaxCount": 1,
+    "MonsterID": 2004
+  },
+  {
+    "ID": 10011009,
+    "Description": "亡语者之森-白银蛤蟆1",
+    "Group": 11020014,
+    "Weight": 100,
+    "MinCount": 1,
+    "MaxCount": 1,
+    "MonsterID": 2003
+  },
+  {
+    "ID": 10011010,
+    "Description": "亡语者之森-普通蛤蟆2-3",
+    "Group": 11030011,
+    "Weight": 100,
+    "MinCount": 2,
+    "MaxCount": 3,
+    "MonsterID": 2001
+  },
+  {
+    "ID": 10011011,
+    "Description": "亡语者之森-普通豪猪2-3",
+    "Group": 11030011,
+    "Weight": 100,
+    "MinCount": 2,
+    "MaxCount": 3,
+    "MonsterID": 2002
+  },
+  {
+    "ID": 10011012,
+    "Description": "亡语者之森-普通蛤蟆（盾）1",
+    "Group": 11030012,
+    "Weight": 100,
+    "MinCount": 1,
+    "MaxCount": 1,
+    "MonsterID": 2101
+  },
+  {
+    "ID": 10011013,
+    "Description": "亡语者之森-普通豪猪（盾）1",
+    "Group": 11030012,
+    "Weight": 100,
+    "MinCount": 1,
+    "MaxCount": 1,
+    "MonsterID": 2102
+  },
+  {
+    "ID": 10011014,
+    "Description": "亡语者之森-白银蛤蟆2-3",
+    "Group": 11030013,
+    "Weight": 100,
+    "MinCount": 2,
+    "MaxCount": 3,
+    "MonsterID": 2003
+  },
+  {
+    "ID": 10011015,
+    "Description": "亡语者之森-白银豪猪2-3",
+    "Group": 11030013,
+    "Weight": 100,
+    "MinCount": 2,
+    "MaxCount": 3,
+    "MonsterID": 2004
+  },
+  {
+    "ID": 10011016,
+    "Description": "亡语者之森-豺狼1-2",
+    "Group": 11030013,
+    "Weight": 100,
+    "MinCount": 1,
+    "MaxCount": 2,
+    "MonsterID": 2007
+  },
+  {
+    "ID": 10011017,
+    "Description": "亡语者之森-白银蛤蟆（盾）1",
+    "Group": 11030014,
+    "Weight": 100,
+    "MinCount": 1,
+    "MaxCount": 2,
+    "MonsterID": 2103
+  },
+  {
+    "ID": 10011018,
+    "Description": "亡语者之森-白银豪猪（盾）1",
+    "Group": 11030014,
+    "Weight": 100,
+    "MinCount": 1,
+    "MaxCount": 2,
+    "MonsterID": 2104
+  },
+  {
+    "ID": 10011019,
+    "Description": "亡语者之森-普通蛤蟆2-3",
+    "Group": 11030015,
+    "Weight": 100,
+    "MinCount": 2,
+    "MaxCount": 3,
+    "MonsterID": 2001
+  },
+  {
+    "ID": 10011020,
+    "Description": "亡语者之森-普通豪猪2-3",
+    "Group": 11030015,
+    "Weight": 100,
+    "MinCount": 2,
+    "MaxCount": 3,
+    "MonsterID": 2002
+  },
+  {
+    "ID": 10011021,
+    "Description": "亡语者之森-蘑菇蛇2-3",
+    "Group": 11030015,
+    "Weight": 150,
+    "MinCount": 2,
+    "MaxCount": 3,
+    "MonsterID": 2008
+  },
+  {
+    "ID": 10011022,
+    "Description": "亡语者之森-黄金蛤蟆1-2",
+    "Group": 11040011,
+    "Weight": 100,
+    "MinCount": 1,
+    "MaxCount": 1,
+    "MonsterID": 2005
+  },
+  {
+    "ID": 10011023,
+    "Description": "亡语者之森-黄金豪猪1-2",
+    "Group": 11040011,
+    "Weight": 100,
+    "MinCount": 1,
+    "MaxCount": 1,
+    "MonsterID": 2006
+  },
+  {
+    "ID": 10011024,
+    "Description": "亡语者之森-白银蛤蟆（盾）2-3",
+    "Group": 11040012,
+    "Weight": 100,
+    "MinCount": 1,
+    "MaxCount": 1,
+    "MonsterID": 2103
+  },
+  {
+    "ID": 10011025,
+    "Description": "亡语者之森-白银豪猪（盾）2-3",
+    "Group": 11040012,
+    "Weight": 100,
+    "MinCount": 1,
+    "MaxCount": 1,
+    "MonsterID": 2104
+  },
+  {
+    "ID": 10011026,
+    "Description": "亡语者之森-蘑菇巨蛇（盾）2-3",
+    "Group": 11040012,
+    "Weight": 100,
+    "MinCount": 1,
+    "MaxCount": 1,
+    "MonsterID": 2109
+  },
+  {
+    "ID": 10011027,
+    "Description": "亡语者之森-豺狼（盾）2-3",
+    "Group": 11040012,
+    "Weight": 100,
+    "MinCount": 1,
+    "MaxCount": 1,
+    "MonsterID": 2107
+  },
+  {
+    "ID": 10011028,
+    "Description": "亡语者之森-蘑菇蛇3-5",
+    "Group": 11040013,
+    "Weight": 100,
+    "MinCount": 1,
+    "MaxCount": 2,
+    "MonsterID": 2008
+  },
+  {
+    "ID": 10011029,
+    "Description": "亡语者之森-普通蛤蟆3-5",
+    "Group": 11040013,
+    "Weight": 100,
+    "MinCount": 1,
+    "MaxCount": 2,
+    "MonsterID": 2001
+  },
+  {
+    "ID": 10011030,
+    "Description": "亡语者之森-普通豪猪3-5",
+    "Group": 11040013,
+    "Weight": 100,
+    "MinCount": 1,
+    "MaxCount": 2,
+    "MonsterID": 2002
+  },
+  {
+    "ID": 10011031,
+    "Description": "亡语者之森-精英-领主",
+    "Group": 12010011,
+    "Weight": 100,
+    "MinCount": 1,
+    "MaxCount": 1,
+    "MonsterID": 3001
+  },
+  {
+    "ID": 10011032,
+    "Description": "亡语者之森-精英-蘑菇蛇将军",
+    "Group": 12010021,
+    "Weight": 100,
+    "MinCount": 1,
+    "MaxCount": 1,
+    "MonsterID": 3002
+  },
+  {
+    "ID": 10011033,
+    "Description": "亡语者之森-黄金蛤蟆（盾）1",
+    "Group": 12010031,
+    "Weight": 100,
+    "MinCount": 1,
+    "MaxCount": 1,
+    "MonsterID": 2105
+  },
+  {
+    "ID": 10011034,
+    "Description": "亡语者之森-黄金豪猪（盾）1",
+    "Group": 12010032,
+    "Weight": 100,
+    "MinCount": 1,
+    "MaxCount": 1,
+    "MonsterID": 2106
+  },
+  {
+    "ID": 10011035,
+    "Description": "亡语者之森-豺狼（盾）1",
+    "Group": 12010033,
+    "Weight": 100,
+    "MinCount": 1,
+    "MaxCount": 1,
+    "MonsterID": 2107
+  },
+  {
+    "ID": 10011036,
+    "Description": "亡语者之森-蛤蟆3-4",
+    "Group": 12010041,
+    "Weight": 100,
+    "MinCount": 3,
+    "MaxCount": 4,
+    "MonsterID": 2001
+  },
+  {
+    "ID": 10011037,
+    "Description": "亡语者之森-豪猪3-4",
+    "Group": 12010042,
+    "Weight": 100,
+    "MinCount": 3,
+    "MaxCount": 4,
+    "MonsterID": 2002
+  },
+  {
+    "ID": 10011038,
+    "Description": "亡语者之森-豺狼2-3",
+    "Group": 12010043,
+    "Weight": 100,
+    "MinCount": 1,
+    "MaxCount": 1,
+    "MonsterID": 2007
+  },
+  {
+    "ID": 10011039,
+    "Description": "亡语者之森-蘑菇巨蛇2-3",
+    "Group": 12010043,
+    "Weight": 100,
+    "MinCount": 1,
+    "MaxCount": 1,
+    "MonsterID": 2009
+  },
+  {
+    "ID": 10011040,
+    "Description": "亡语者之森-蛤蟆1-2",
+    "Group": 12010051,
+    "Weight": 100,
+    "MinCount": 1,
+    "MaxCount": 1,
+    "MonsterID": 2001
+  },
+  {
+    "ID": 10011041,
+    "Description": "亡语者之森-豪猪1-2",
+    "Group": 12010051,
+    "Weight": 100,
+    "MinCount": 1,
+    "MaxCount": 1,
+    "MonsterID": 2002
+  },
+  {
+    "ID": 10011042,
+    "Description": "亡语者之森-蘑菇蛇1-2",
+    "Group": 12010051,
+    "Weight": 100,
+    "MinCount": 1,
+    "MaxCount": 1,
+    "MonsterID": 2008
+  },
+  {
+    "ID": 10011043,
+    "Description": "亡语者之森-白银蛤蟆1",
+    "Group": 12010052,
+    "Weight": 100,
+    "MinCount": 1,
+    "MaxCount": 1,
+    "MonsterID": 2003
+  },
+  {
+    "ID": 10011044,
+    "Description": "亡语者之森-白银豪猪1",
+    "Group": 12010052,
+    "Weight": 100,
+    "MinCount": 1,
+    "MaxCount": 1,
+    "MonsterID": 2004
+  },
+  {
+    "ID": 10011045,
+    "Description": "亡语者之森-豺狼1",
+    "Group": 12010052,
+    "Weight": 60,
+    "MinCount": 1,
+    "MaxCount": 1,
+    "MonsterID": 2007
+  },
+  {
+    "ID": 10011046,
+    "Description": "亡语者之森-蘑菇巨蛇1",
+    "Group": 12010052,
+    "Weight": 60,
+    "MinCount": 1,
+    "MaxCount": 1,
+    "MonsterID": 2009
+  },
+  {
+    "ID": 10011047,
+    "Description": "亡语者之森-白银蛤蟆（盾）1",
+    "Group": 12010053,
+    "Weight": 100,
+    "MinCount": 1,
+    "MaxCount": 1,
+    "MonsterID": 2103
+  },
+  {
+    "ID": 10011048,
+    "Description": "亡语者之森-白银豪猪（盾）1",
+    "Group": 12010053,
+    "Weight": 100,
+    "MinCount": 1,
+    "MaxCount": 1,
+    "MonsterID": 2104
+  },
+  {
+    "ID": 10011049,
+    "Description": "亡语者之森-蘑菇巨蛇（盾）1",
+    "Group": 12010053,
+    "Weight": 60,
+    "MinCount": 1,
+    "MaxCount": 1,
+    "MonsterID": 2109
+  },
+  {
+    "ID": 10011050,
+    "Description": "亡语者之森-豺狼（盾）1",
+    "Group": 12010053,
+    "Weight": 60,
+    "MinCount": 1,
+    "MaxCount": 1,
+    "MonsterID": 2107
+  }
+]

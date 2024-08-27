@@ -1,0 +1,242 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Water
+  m_Shader: {fileID: 4800000, guid: e07d32c39e30ce74186ceda4e5b7e4de, type: 3}
+  m_ShaderKeywords: _EDGENOISE_ON
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskEmissionTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture1:
+        m_Texture: {fileID: 2800000, guid: 86028796ca3259940a78be9a574fc9b1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample0:
+        m_Texture: {fileID: 8400000, guid: d9d2d792ae57d7b4295bfc328e0f1bbb, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _VertexOffsetTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AODirection: 0
+    - _AOIntensity: 0
+    - _AOposition: 0
+    - _AOsmooth: 1
+    - _BlinnLightDir: 0
+    - _BlinnSmooth: 0
+    - _BumpScale: 1
+    - _CastShadowSmooth: 0
+    - _CastShadowSmooth1: 1
+    - _ChromaticAberration: 0.1
+    - _Cull_Mode: 2
+    - _Cull_Mode1: 2
+    - _Cutoff: 0.5
+    - _DeepColor: 0.75
+    - _DeepWaterColor: 0.75
+    - _DepthAmout: -1.13
+    - _DepthFadeDistance: 0.5
+    - _DepthPower: 1
+    - _DepthStep: 1.42
+    - _Desaturate: 0
+    - _DetailNormalMapScale: 1
+    - _Dissolve: 0
+    - _DissolveTexDir: 1
+    - _DissolveTexDirMinus: 0
+    - _DstBlend: 0
+    - _EdgeColorIntensity: 0.1
+    - _EdgeEmission: -0.9
+    - _EdgeLength: 15
+    - _EdgeNoise: 1
+    - _EdgeNoiseScale: 1.55
+    - _EdgeNoiseSmooth: 0.09
+    - _EdgeSmooth: 1
+    - _EdgeWidth: 0.75
+    - _EdgeX: 0.15
+    - _EdgeY: 0.15
+    - _FadeDistance: 0.129
+    - _Float0: 1
+    - _Floatq1: 0
+    - _FrenelPower: 5
+    - _FrenelScale: 2
+    - _FresnelPower: 5
+    - _FresnelScale: 5
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _LightAttenuationSmooth: 0.5
+    - _LightDir: 0
+    - _LightIntensity: 1
+    - _MaskColorHDR: 1
+    - _MaskEmissionNoiseRollX: 0
+    - _MaskEmissionNoiseRollY: 0
+    - _MaskEmissionNoiseScale: 5
+    - _Metallic: 0
+    - _Mode: 0
+    - _NoiseAngle: 1
+    - _NoiseRollX: 0.1
+    - _NoiseRollY: -0.15
+    - _NoiseRoll_X: 0
+    - _NoiseRoll_Y: 0
+    - _NoiseRoll_Z: 0
+    - _NoiseScale: 5
+    - _NoiseScaleY: 2
+    - _NoiseScalelX: 2
+    - _NoiseStep: 0.9
+    - _NoiseStrangh: 0.1
+    - _NoiseVorAngle: 1
+    - _NoiseX: 0.05
+    - _NoiseY: -0.05
+    - _NoiseZ: 0.025
+    - _OcclusionStrength: 1
+    - _OnHitRange: 0
+    - _Opacity: 1
+    - _Parallax: 0.02
+    - _Ref_X: -1
+    - _Ref_Y: -0.5
+    - _ReflactDepth: 1.35
+    - _ReflactDistort: 0.035
+    - _ReflactIntensity: 0.143
+    - _ReflactPower: 5
+    - _RefractDepth: 5
+    - _RefractIntensity: 0.05
+    - _RefractPower: 1
+    - _Refraction: 1
+    - _RefractionMinus: 0
+    - _Roughness: 0.8
+    - _ShadowIntensity: 0.65
+    - _ShadowSmooth: 0
+    - _Smooth: 0
+    - _SmoothnessTextureChannel: 0
+    - _Specular: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _TexClipStyle: 0
+    - _UVSec: 0
+    - _UseAO: 0
+    - _UseCustomTexture: 0
+    - _UseMainTexWorldUV: 0
+    - _UseMainTexture: 1
+    - _UseMaskEmissionTexture: 0
+    - _UseTextureDissolve: 0
+    - _UseTexturedEdgeLight: 0
+    - _UseVertexOffset: 0
+    - _VertexOffsetIntensity: 0.25
+    - _VertexOffsetMove_X: 0
+    - _VertexOffsetMove_Y: 0
+    - _VertexOffsetMove_Z: 0
+    - _VertexOffsetScale: 5
+    - _VertexOffsetStyle: 0
+    - _VoronoiAngle: 1
+    - _VoronoiAngleSpeed: 1
+    - _VoronoiEdgeX: 0.1
+    - _VoronoiEdgeY: -0.15
+    - _VoronoiScale: 3
+    - _WaterColorBlend: 0.85
+    - _WaterDeep: 0.488
+    - _WaterDistortOverlap: 1.94
+    - _WaveAngleSpeed: 0.1
+    - _WaveColor1: -0.935
+    - _WaveColor_B: 0
+    - _WaveColor_G: 0
+    - _WaveColor_R: -0.999
+    - _WaveHDR: 1
+    - _WaveScale: 0.5
+    - _WaveScaleX: 0.35
+    - _WaveScaleY: 0.35
+    - _WaveStep: 0.6
+    - _WaverollX: -0.05
+    - _WaverollY: -0.1
+    - _WorldMainTexTiling: 1
+    - _WorldMainTextureRollX: 0
+    - _WorldMainTextureRollY: 0
+    - _ZWrite: 1
+    - _Z_Test: 4
+    - _Z_Test1: 4
+    - _Z_Write: 1
+    - _Z_Write1: 0
+    - __dirty: 0
+    m_Colors:
+    - _BlinnLightColor: {r: 0, g: 0, b: 0, a: 0}
+    - _CastShadowColor: {r: 0.5283019, g: 0.5283019, b: 0.5283019, a: 0}
+    - _CastShadowColor1: {r: 1, g: 0.021099018, b: 0, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _DeepColor: {r: 0.9215687, g: 1, b: 0.8235295, a: 1}
+    - _DeepWaterColor: {r: 0.7254902, g: 0.7254902, b: 0.7254902, a: 0}
+    - _EdgeColor: {r: 0.09803922, g: 0.09803922, b: 0.09803922, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _FresnelColor: {r: 0, g: 0, b: 0, a: 0}
+    - _MainTexColor: {r: 0.4901961, g: 0.4901961, b: 0.4901961, a: 1}
+    - _MaskEmissionTexColor: {r: 0.6862745, g: 0.6862745, b: 0.6862745, a: 1}
+    - _PannerSpeed: {r: 0, g: -1, b: 0, a: 0}
+    - _RefractionColor: {r: 0.59131366, g: 0.6799092, b: 0.8301887, a: 0}
+    - _ShadowColor: {r: 0.10377356, g: 0.10377356, b: 0.10377356, a: 0}
+    - _Tiling: {r: 1, g: 1, b: 0, a: 0}
+    - _WaterColor: {r: 0.88235295, g: 1, b: 0.8820755, a: 0}
+    - _WaterColor1: {r: 0, g: 0.23367424, b: 0.46226418, a: 0}
+    - _WaterColor2: {r: 0.19723602, g: 0, b: 0.254717, a: 0}
+    - _WaterColor_Deep: {r: 1, g: 1, b: 1, a: 0}
+    - _WaterColor_Surface: {r: 0.0627451, g: 0.20784315, b: 0, a: 0}
+    - _WaveColor: {r: 0.019607844, g: 0.039215688, b: 0.09803922, a: 0}
+  m_BuildTextureStacks: []

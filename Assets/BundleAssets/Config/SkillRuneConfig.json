@@ -1,0 +1,404 @@
+[
+  {
+    "ID": 1,
+    "Description": "伤害增加",
+    "Name": "增伤",
+    "Icon": 20010001,
+    "RuneLimit": {
+      "SkillElementRequire": 0
+    },
+    "SkillAttrAdditions": [
+      {
+        "Type": 1,
+        "Value": 8.0
+      },
+      {
+        "Type": 0,
+        "Value": 0.0
+      },
+      {
+        "Type": 0,
+        "Value": 0.0
+      }
+    ],
+    "TriggerType": 0,
+    "TriggerValue": [],
+    "TriggerProbability": [],
+    "SkillEffects": [
+      "",
+      ""
+    ],
+    "TriggerHits": [
+      {
+        "DetectType": 0,
+        "DetectArgs": [],
+        "TargetRelation": 0,
+        "Effect": ""
+      },
+      {
+        "DetectType": 0,
+        "DetectArgs": [],
+        "TargetRelation": 0,
+        "Effect": ""
+      }
+    ]
+  },
+  {
+    "ID": 2,
+    "Description": "暴击率增加",
+    "Name": "暴击",
+    "Icon": 20010002,
+    "RuneLimit": {
+      "SkillElementRequire": 0
+    },
+    "SkillAttrAdditions": [
+      {
+        "Type": 2,
+        "Value": 0.5
+      },
+      {
+        "Type": 0,
+        "Value": 0.0
+      },
+      {
+        "Type": 0,
+        "Value": 0.0
+      }
+    ],
+    "TriggerType": 0,
+    "TriggerValue": [],
+    "TriggerProbability": [],
+    "SkillEffects": [
+      "",
+      ""
+    ],
+    "TriggerHits": [
+      {
+        "DetectType": 0,
+        "DetectArgs": [],
+        "TargetRelation": 0,
+        "Effect": ""
+      },
+      {
+        "DetectType": 0,
+        "DetectArgs": [],
+        "TargetRelation": 0,
+        "Effect": ""
+      }
+    ]
+  },
+  {
+    "ID": 3,
+    "Description": "暴击伤害提升",
+    "Name": "暴伤",
+    "Icon": 20010003,
+    "RuneLimit": {
+      "SkillElementRequire": 0
+    },
+    "SkillAttrAdditions": [
+      {
+        "Type": 3,
+        "Value": 0.5
+      },
+      {
+        "Type": 0,
+        "Value": 0.0
+      },
+      {
+        "Type": 0,
+        "Value": 0.0
+      }
+    ],
+    "TriggerType": 0,
+    "TriggerValue": [],
+    "TriggerProbability": [],
+    "SkillEffects": [
+      "",
+      ""
+    ],
+    "TriggerHits": [
+      {
+        "DetectType": 0,
+        "DetectArgs": [],
+        "TargetRelation": 0,
+        "Effect": ""
+      },
+      {
+        "DetectType": 0,
+        "DetectArgs": [],
+        "TargetRelation": 0,
+        "Effect": ""
+      }
+    ]
+  },
+  {
+    "ID": 4,
+    "Description": "冷却降低",
+    "Name": "冷却",
+    "Icon": 20010004,
+    "RuneLimit": {
+      "SkillElementRequire": 0
+    },
+    "SkillAttrAdditions": [
+      {
+        "Type": 4,
+        "Value": 4.0
+      },
+      {
+        "Type": 0,
+        "Value": 0.0
+      },
+      {
+        "Type": 0,
+        "Value": 0.0
+      }
+    ],
+    "TriggerType": 0,
+    "TriggerValue": [],
+    "TriggerProbability": [],
+    "SkillEffects": [
+      "",
+      ""
+    ],
+    "TriggerHits": [
+      {
+        "DetectType": 0,
+        "DetectArgs": [],
+        "TargetRelation": 0,
+        "Effect": ""
+      },
+      {
+        "DetectType": 0,
+        "DetectArgs": [],
+        "TargetRelation": 0,
+        "Effect": ""
+      }
+    ]
+  },
+  {
+    "ID": 5,
+    "Description": "命中后有概率使目标中毒",
+    "Name": "淬毒",
+    "Icon": 20010005,
+    "RuneLimit": {
+      "SkillElementRequire": 0
+    },
+    "SkillAttrAdditions": [
+      {
+        "Type": 0,
+        "Value": 0.0
+      },
+      {
+        "Type": 0,
+        "Value": 0.0
+      },
+      {
+        "Type": 0,
+        "Value": 0.0
+      }
+    ],
+    "TriggerType": 2,
+    "TriggerValue": [],
+    "TriggerProbability": [
+      0.3
+    ],
+    "SkillEffects": [
+      "",
+      ""
+    ],
+    "TriggerHits": [
+      {
+        "DetectType": 4,
+        "DetectArgs": [],
+        "TargetRelation": 1,
+        "Effect": "add_buff;10002"
+      },
+      {
+        "DetectType": 0,
+        "DetectArgs": [],
+        "TargetRelation": 0,
+        "Effect": ""
+      }
+    ]
+  },
+  {
+    "ID": 6,
+    "Description": "击杀敌人后降低技能冷却",
+    "Name": "屠戮",
+    "Icon": 20010006,
+    "RuneLimit": {
+      "SkillElementRequire": 0
+    },
+    "SkillAttrAdditions": [
+      {
+        "Type": 0,
+        "Value": 0.0
+      },
+      {
+        "Type": 0,
+        "Value": 0.0
+      },
+      {
+        "Type": 0,
+        "Value": 0.0
+      }
+    ],
+    "TriggerType": 3,
+    "TriggerValue": [],
+    "TriggerProbability": [
+      1.0
+    ],
+    "SkillEffects": [
+      "reduce_skill_cd;3",
+      ""
+    ],
+    "TriggerHits": [
+      {
+        "DetectType": 0,
+        "DetectArgs": [],
+        "TargetRelation": 0,
+        "Effect": ""
+      },
+      {
+        "DetectType": 0,
+        "DetectArgs": [],
+        "TargetRelation": 0,
+        "Effect": ""
+      }
+    ]
+  },
+  {
+    "ID": 7,
+    "Description": "火系技能命中后有概率使目标燃烧",
+    "Name": "灼烧",
+    "Icon": 20010007,
+    "RuneLimit": {
+      "SkillElementRequire": 1
+    },
+    "SkillAttrAdditions": [
+      {
+        "Type": 0,
+        "Value": 0.0
+      },
+      {
+        "Type": 0,
+        "Value": 0.0
+      },
+      {
+        "Type": 0,
+        "Value": 0.0
+      }
+    ],
+    "TriggerType": 2,
+    "TriggerValue": [],
+    "TriggerProbability": [
+      1.0
+    ],
+    "SkillEffects": [
+      "",
+      ""
+    ],
+    "TriggerHits": [
+      {
+        "DetectType": 4,
+        "DetectArgs": [],
+        "TargetRelation": 1,
+        "Effect": "add_buff;10001"
+      },
+      {
+        "DetectType": 0,
+        "DetectArgs": [],
+        "TargetRelation": 0,
+        "Effect": ""
+      }
+    ]
+  },
+  {
+    "ID": 8,
+    "Description": "释放投掷技能时额外创建一个",
+    "Name": "杂耍大师",
+    "Icon": 20010008,
+    "RuneLimit": {
+      "SkillElementRequire": 0
+    },
+    "SkillAttrAdditions": [
+      {
+        "Type": 5,
+        "Value": 1.0
+      },
+      {
+        "Type": 0,
+        "Value": 0.0
+      },
+      {
+        "Type": 0,
+        "Value": 0.0
+      }
+    ],
+    "TriggerType": 0,
+    "TriggerValue": [],
+    "TriggerProbability": [],
+    "SkillEffects": [
+      "",
+      ""
+    ],
+    "TriggerHits": [
+      {
+        "DetectType": 0,
+        "DetectArgs": [],
+        "TargetRelation": 0,
+        "Effect": ""
+      },
+      {
+        "DetectType": 0,
+        "DetectArgs": [],
+        "TargetRelation": 0,
+        "Effect": ""
+      }
+    ]
+  },
+  {
+    "ID": 9,
+    "Description": "投掷物命中目标会进行弹射",
+    "Name": "弹射",
+    "Icon": 20010009,
+    "RuneLimit": {
+      "SkillElementRequire": 0
+    },
+    "SkillAttrAdditions": [
+      {
+        "Type": 6,
+        "Value": 1.0
+      },
+      {
+        "Type": 0,
+        "Value": 0.0
+      },
+      {
+        "Type": 0,
+        "Value": 0.0
+      }
+    ],
+    "TriggerType": 0,
+    "TriggerValue": [],
+    "TriggerProbability": [],
+    "SkillEffects": [
+      "",
+      ""
+    ],
+    "TriggerHits": [
+      {
+        "DetectType": 0,
+        "DetectArgs": [],
+        "TargetRelation": 0,
+        "Effect": ""
+      },
+      {
+        "DetectType": 0,
+        "DetectArgs": [],
+        "TargetRelation": 0,
+        "Effect": ""
+      }
+    ]
+  }
+]

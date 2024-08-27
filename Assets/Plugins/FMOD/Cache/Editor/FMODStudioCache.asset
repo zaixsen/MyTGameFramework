@@ -1,0 +1,5709 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9175499464831788461
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u708E\xB7\u666E\u653B2\u6BB5"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u708E\xB7\u666E\u653B2\u6BB5"
+  Guid:
+    Data1: -952940919
+    Data2: 1196827784
+    Data3: -1963302999
+    Data4: -1549077958
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 908
+--- !u!114 &-9123087068840726816
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/UI/main menu/UI-\u4E3B\u754C\u9762-\u5F00\u59CB\u6E38\u620F"
+  m_EditorClassIdentifier: 
+  Path: "event:/UI/main menu/UI-\u4E3B\u754C\u9762-\u5F00\u59CB\u6E38\u620F"
+  Guid:
+    Data1: 352326924
+    Data2: 1261529833
+    Data3: -441197181
+    Data4: 1229439583
+  Banks:
+  - {fileID: 2063027532728258528}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2424
+--- !u!114 &-9103323444723480445
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/reaper/\u6B7B\u795E-\u6B7B\u795E\u964D\u4E34-\u9AB7\u9AC5\u547D\u4E2D"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/reaper/\u6B7B\u795E-\u6B7B\u795E\u964D\u4E34-\u9AB7\u9AC5\u547D\u4E2D"
+  Guid:
+    Data1: 118050719
+    Data2: 1277545740
+    Data3: 1272621203
+    Data4: -1797868606
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 1024
+--- !u!114 &-9091692256356604216
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/UI/map/UI-\u5730\u56FE-\u754C\u9762\u6253\u5F00"
+  m_EditorClassIdentifier: 
+  Path: "event:/UI/map/UI-\u5730\u56FE-\u754C\u9762\u6253\u5F00"
+  Guid:
+    Data1: -1975084551
+    Data2: 1299384859
+    Data3: 2098576045
+    Data4: 1925862215
+  Banks:
+  - {fileID: 2063027532728258528}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 794
+--- !u!114 &-9029750206794005391
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u96F7\u7CFB-\u666E\u653B3\u6BB5"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u96F7\u7CFB-\u666E\u653B3\u6BB5"
+  Guid:
+    Data1: 1693399197
+    Data2: 1316092015
+    Data3: -1029465179
+    Data4: 1690005801
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1200
+--- !u!114 &-9005034887881036311
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/reaper/\u6B7B\u795E-\u6B7B\u795E\u964D\u4E34-\u4F4E\u8BED"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/reaper/\u6B7B\u795E-\u6B7B\u795E\u964D\u4E34-\u4F4E\u8BED"
+  Guid:
+    Data1: 1256630108
+    Data2: 1081348627
+    Data3: 1829665162
+    Data4: -229851220
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 3583
+--- !u!114 &-8991523780084979876
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/\u602A\u7269-\u751F\u5B58\u5173\u5361\u602A\u7269\u9500\u6BC1"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/\u602A\u7269-\u751F\u5B58\u5173\u5361\u602A\u7269\u9500\u6BC1"
+  Guid:
+    Data1: 270700106
+    Data2: 1295956185
+    Data3: 1993854394
+    Data4: -1856180526
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1885
+--- !u!114 &-8957470406077115942
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Environment & Object/gate/\u7269\u4F53-\u623F\u95F4\u5927\u95E8-\u5F00\u542F"
+  m_EditorClassIdentifier: 
+  Path: "event:/Environment & Object/gate/\u7269\u4F53-\u623F\u95F4\u5927\u95E8-\u5F00\u542F"
+  Guid:
+    Data1: -54567303
+    Data2: 1321514963
+    Data3: -335786112
+    Data4: -747843518
+  Banks:
+  - {fileID: -6029701677394458280}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2225
+--- !u!114 &-8771785059356226604
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u6280\u80FD"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u6280\u80FD"
+  Guid:
+    Data1: 1460919287
+    Data2: 1302428901
+    Data3: 1212088748
+    Data4: 117139704
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1333
+--- !u!114 &-8585249522902736669
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u540E\u8DF3"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u540E\u8DF3"
+  Guid:
+    Data1: -564387001
+    Data2: 1103037283
+    Data3: -827889521
+    Data4: 187235157
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 784
+--- !u!114 &-8382316051516869918
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/reaper/\u6B7B\u795E-\u6B7B\u4EA1\u4E4B\u821E\u653B\u51FB"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/reaper/\u6B7B\u795E-\u6B7B\u4EA1\u4E4B\u821E\u653B\u51FB"
+  Guid:
+    Data1: -79816230
+    Data2: 1281907105
+    Data3: -1266666877
+    Data4: 1573476618
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 2253
+--- !u!114 &-8310864993309752596
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u53D7\u51FB-\u6280\u80FD"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u53D7\u51FB-\u6280\u80FD"
+  Guid:
+    Data1: 21766315
+    Data2: 1264019726
+    Data3: 1525083830
+    Data4: -1779687464
+  Banks:
+  - {fileID: 3599026335026385508}
+  - {fileID: -1169233253445439864}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1386
+--- !u!114 &-8115601132308140492
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Grane/\u683C\u96F7\uFFFD\uFFFD\u666E\u653B\u84C4\u529B-\u5B8C\u7F8E\u84C4\u529B\u63D0\u793A"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Grane/\u683C\u96F7\uFFFD\uFFFD\u666E\u653B\u84C4\u529B-\u5B8C\u7F8E\u84C4\u529B\u63D0\u793A"
+  Guid:
+    Data1: 766026662
+    Data2: 1231915501
+    Data3: 37165440
+    Data4: -1850056248
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 2287
+--- !u!114 &-8096111614048110331
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environment & Object/ambience-forest
+  m_EditorClassIdentifier: 
+  Path: event:/Environment & Object/ambience-forest
+  Guid:
+    Data1: 57239699
+    Data2: 1135373484
+    Data3: 1352966796
+    Data4: 1045268782
+  Banks:
+  - {fileID: -6029701677394458280}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 83008
+--- !u!114 &-7963356466011799504
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/UI/main menu/UI-\u4E3B\u754C\uFFFD\uFFFD\u6309\u94AE\u9AD8\u4EAE"
+  m_EditorClassIdentifier: 
+  Path: "event:/UI/main menu/UI-\u4E3B\u754C\uFFFD\uFFFD\u6309\u94AE\u9AD8\u4EAE"
+  Guid:
+    Data1: -1645473706
+    Data2: 1338114720
+    Data3: -941345864
+    Data4: -1863765741
+  Banks:
+  - {fileID: 2063027532728258528}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 950
+--- !u!114 &-7900050387331493857
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u53D7\u51FB-\u96F7\u7CFB\u5315\u9996"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u53D7\u51FB-\u96F7\u7CFB\u5315\u9996"
+  Guid:
+    Data1: 631901852
+    Data2: 1306642204
+    Data3: 1235587476
+    Data4: -1354846654
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 1006
+--- !u!114 &-7710381475131805458
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u98CE\u7CFB-\u51B2\u523A"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u98CE\u7CFB-\u51B2\u523A"
+  Guid:
+    Data1: 432614920
+    Data2: 1210301436
+    Data3: 1059294105
+    Data4: 679525565
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 1146
+--- !u!114 &-7558610765142015570
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Character/Grane/Grane-attack-1
+  m_EditorClassIdentifier: 
+  Path: event:/Character/Grane/Grane-attack-1
+  Guid:
+    Data1: -1340886748
+    Data2: 1179445794
+    Data3: -1712220492
+    Data4: -253874058
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 1044
+--- !u!114 &-7381216860588567537
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Forest-theme
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Forest-theme
+  Guid:
+    Data1: -1671584918
+    Data2: 1222474586
+    Data3: -491308373
+    Data4: 503519422
+  Banks:
+  - {fileID: 2721850151131351441}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 450000
+--- !u!114 &-7373072382022140502
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/boss Grane/\u602A\u7269-\u683C\u96F7\uFFFD\uFFFD\u72FC\u5F71\u51B2\u950B"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/boss Grane/\u602A\u7269-\u683C\u96F7\uFFFD\uFFFD\u72FC\u5F71\u51B2\u950B"
+  Guid:
+    Data1: -1292473134
+    Data2: 1150922858
+    Data3: -1818770528
+    Data4: -930040230
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 12826
+--- !u!114 &-7286260422939290043
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/\u89D2\u8272-\u5BA0\u7269\u732E\u796D-\u7075\u9B42\u98DE\u884C"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/\u89D2\u8272-\u5BA0\u7269\u732E\u796D-\u7075\u9B42\u98DE\u884C"
+  Guid:
+    Data1: -239778945
+    Data2: 1209685042
+    Data3: -1342593354
+    Data4: -2075175729
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 5897
+--- !u!114 &-7179430987173850751
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Environment & Object/magic circle room/\u7269\u4F53-\u6CD5\u9635\u623F\u95F4-\u6FC0\u6D3B"
+  m_EditorClassIdentifier: 
+  Path: "event:/Environment & Object/magic circle room/\u7269\u4F53-\u6CD5\u9635\u623F\u95F4-\u6FC0\u6D3B"
+  Guid:
+    Data1: -228652687
+    Data2: 1080769359
+    Data3: 1244956294
+    Data4: 1545379574
+  Banks:
+  - {fileID: -6029701677394458280}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 8376
+--- !u!114 &-6935776199978022832
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/boss Grane/\u602A\u7269-\u683C\u96F7\uFFFD\uFFFD\u7529\u5C3E\u653B\u51FB"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/boss Grane/\u602A\u7269-\u683C\u96F7\uFFFD\uFFFD\u7529\u5C3E\u653B\u51FB"
+  Guid:
+    Data1: 1055997653
+    Data2: 1093106762
+    Data3: -887481959
+    Data4: 1864130782
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 1376
+--- !u!114 &-6794537005820380994
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u53D7\u51FB-\u708E\xB7\u6280\u80FD"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u53D7\u51FB-\u708E\xB7\u6280\u80FD"
+  Guid:
+    Data1: -1283939128
+    Data2: 1168814198
+    Data3: -308090480
+    Data4: 2034832784
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2060
+--- !u!114 &-6785159350671342700
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/great mushroom snake/\u602A\u7269-\u8611\u83C7\u5DE8\u86C7-\u6B7B\u4EA1"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/great mushroom snake/\u602A\u7269-\u8611\u83C7\u5DE8\u86C7-\u6B7B\u4EA1"
+  Guid:
+    Data1: 1960296397
+    Data2: 1187911372
+    Data3: -339439701
+    Data4: 1221010268
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 1623
+--- !u!114 &-6779758322421794399
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Monster/frog/frog-dead
+  m_EditorClassIdentifier: 
+  Path: event:/Monster/frog/frog-dead
+  Guid:
+    Data1: 1738766466
+    Data2: 1200232649
+    Data3: -1679190911
+    Data4: 1314832327
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1143
+--- !u!114 &-6715629227526782319
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Environment & Object/magic circle room/\u7269\u4F53-\u6CD5\u9635\u623F\u95F4-\u6062\u590D\u751F\u547D"
+  m_EditorClassIdentifier: 
+  Path: "event:/Environment & Object/magic circle room/\u7269\u4F53-\u6CD5\u9635\u623F\u95F4-\u6062\u590D\u751F\u547D"
+  Guid:
+    Data1: 1451343863
+    Data2: 1239134176
+    Data3: 1089289102
+    Data4: -374365734
+  Banks:
+  - {fileID: -6029701677394458280}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 988
+--- !u!114 &-6678167922694543493
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Character/Grane/Grane-steps
+  m_EditorClassIdentifier: 
+  Path: event:/Character/Grane/Grane-steps
+  Guid:
+    Data1: 685899428
+    Data2: 1322126413
+    Data3: -382775150
+    Data4: -1290751561
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 542
+--- !u!114 &-6544663560915138252
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Grane/\u708E\u7CFB/\u683C\u96F7\u6069-\u708E\u7CFB-\u666E\u653B2\u6BB5"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Grane/\u708E\u7CFB/\u683C\u96F7\u6069-\u708E\u7CFB-\u666E\u653B2\u6BB5"
+  Guid:
+    Data1: -1124577280
+    Data2: 1274064442
+    Data3: 425206163
+    Data4: 382998769
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1077
+--- !u!114 &-6366487612853253269
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Grane/\u98CE\u7CFB/\u683C\u96F7\uFFFD\uFFFD\u98CE\u7CFB-\u62FE\u53D6\u6B66\u5668"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Grane/\u98CE\u7CFB/\u683C\u96F7\uFFFD\uFFFD\u98CE\u7CFB-\u62FE\u53D6\u6B66\u5668"
+  Guid:
+    Data1: -884380331
+    Data2: 1305350102
+    Data3: 1784402599
+    Data4: -838758624
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 1649
+--- !u!114 &-6322530153338449924
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u96F7\u7CFB-\u95EA\u7535\u94FE\u98DE\u884C"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u96F7\u7CFB-\u95EA\u7535\u94FE\u98DE\u884C"
+  Guid:
+    Data1: 268052823
+    Data2: 1333501640
+    Data3: -2030798412
+    Data4: -88187976
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2534
+--- !u!114 &-6255773721889371795
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Menu-01
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Menu-01
+  Guid:
+    Data1: 1467418378
+    Data2: 1164011903
+    Data3: 1541640878
+    Data4: -1063681334
+  Banks:
+  - {fileID: 2721850151131351441}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 140000
+--- !u!114 &-6146037069839868169
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u98CE\u7CFB-\u98CE\u5203-buff"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u98CE\u7CFB-\u98CE\u5203-buff"
+  Guid:
+    Data1: 100257338
+    Data2: 1143525456
+    Data3: 1550380967
+    Data4: -1382579137
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 2543
+--- !u!114 &-6029701677394458280
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Environment & Object.bank
+  m_EditorClassIdentifier: 
+  Path: Banks/Desktop/Environment & Object.bank
+  Name: Environment & Object
+  StudioPath: bank:/Environment & Object
+  lastModified: 637840996783509680
+  FileSizes:
+  - Name: Desktop
+    Value: 6859392
+  Exists: 1
+--- !u!114 &-5894368230973717653
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u98DE\u5200\xB7\u666E\u653B1&2\u6BB5"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u98DE\u5200\xB7\u666E\u653B1&2\u6BB5"
+  Guid:
+    Data1: 1883838211
+    Data2: 1239441538
+    Data3: -679333754
+    Data4: 486096825
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 561
+--- !u!114 &-5703699617620179811
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u53D7\u51FB-\u706B\u7130\u5315\u9996"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u53D7\u51FB-\u706B\u7130\u5315\u9996"
+  Guid:
+    Data1: 1836046762
+    Data2: 1157574680
+    Data3: -657882481
+    Data4: -1552492581
+  Banks:
+  - {fileID: -1169233253445439864}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 935
+--- !u!114 &-5589748795983472463
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/little purple/\u602A\u7269-\u5C0F\u7D2B-\u53D1\u73B0\u654C\u4EBA"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/little purple/\u602A\u7269-\u5C0F\u7D2B-\u53D1\u73B0\u654C\u4EBA"
+  Guid:
+    Data1: 123176590
+    Data2: 1165340444
+    Data3: 542741891
+    Data4: 830844294
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 902
+--- !u!114 &-5476617687820087546
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/reaper/\u6B7B\u795E-\u95EA\u73B0"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/reaper/\u6B7B\u795E-\u95EA\u73B0"
+  Guid:
+    Data1: 58930765
+    Data2: 1128194087
+    Data3: 1675616445
+    Data4: 341934090
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 984
+--- !u!114 &-5381443507972652115
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u98DE\u5200\u98DE\u884C"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u98DE\u5200\u98DE\u884C"
+  Guid:
+    Data1: 2004233249
+    Data2: 1200556492
+    Data3: -1347009624
+    Data4: 1887104351
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 1056
+--- !u!114 &-5335407403906066690
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u51B2\u523A"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u51B2\u523A"
+  Guid:
+    Data1: -1751029985
+    Data2: 1105717065
+    Data3: -705201488
+    Data4: 1374558370
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 841
+--- !u!114 &-5323097366631664156
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u708E\xB7\u666E\u653B3\u6BB5"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u708E\xB7\u666E\u653B3\u6BB5"
+  Guid:
+    Data1: 1158267918
+    Data2: 1312902613
+    Data3: 1632977291
+    Data4: 882057607
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2385
+--- !u!114 &-5300861999909694029
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u98CE\u7CFB-\u72C2\u98CE\u9AA4\u96E8"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u98CE\u7CFB-\u72C2\u98CE\u9AA4\u96E8"
+  Guid:
+    Data1: -1171973690
+    Data2: 1292809511
+    Data3: -969142082
+    Data4: 494329375
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 46522
+--- !u!114 &-5270523488418296849
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Monster/spear-wolf/spear-wolf-dead
+  m_EditorClassIdentifier: 
+  Path: event:/Monster/spear-wolf/spear-wolf-dead
+  Guid:
+    Data1: -324911714
+    Data2: 1104025528
+    Data3: 1805093543
+    Data4: 476594804
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 1229
+--- !u!114 &-5192301063292729736
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environment & Object/object-shining door
+  m_EditorClassIdentifier: 
+  Path: event:/Environment & Object/object-shining door
+  Guid:
+    Data1: -1035088412
+    Data2: 1303771736
+    Data3: 197001393
+    Data4: 41672346
+  Banks:
+  - {fileID: -6029701677394458280}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 10434
+--- !u!114 &-5090792519381118725
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/UI/general/UI-\u754C\u9762\u901A\u7528-\u5173\u95ED\u9762\u677F"
+  m_EditorClassIdentifier: 
+  Path: "event:/UI/general/UI-\u754C\u9762\u901A\u7528-\u5173\u95ED\u9762\u677F"
+  Guid:
+    Data1: 363442057
+    Data2: 1306243555
+    Data3: 1429699990
+    Data4: 1627679274
+  Banks:
+  - {fileID: 2063027532728258528}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 229
+--- !u!114 &-5037187898408782412
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u98CE\u7CFB-\u6280\u80FD"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u98CE\u7CFB-\u6280\u80FD"
+  Guid:
+    Data1: -252043788
+    Data2: 1249086162
+    Data3: -615348289
+    Data4: 240237673
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1496
+--- !u!114 &-4938570929231579621
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u53D8\u8EAB-\u8DD1\u6B65"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u53D8\u8EAB-\u8DD1\u6B65"
+  Guid:
+    Data1: 562442298
+    Data2: 1169320895
+    Data3: -1907826816
+    Data4: -1860890536
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 640
+--- !u!114 &-4729346853152624627
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Grane/\u683C\u96F7\uFFFD\uFFFD\u53D8\u8EAB-\u6280\uFFFD\uFFFD\u5B99\u8FD4"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Grane/\u683C\u96F7\uFFFD\uFFFD\u53D8\u8EAB-\u6280\uFFFD\uFFFD\u5B99\u8FD4"
+  Guid:
+    Data1: -1163620483
+    Data2: 1137104219
+    Data3: 419394447
+    Data4: 97039111
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 650
+--- !u!114 &-4719896637516673461
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/\u602A\u7269-\u5C0F\u602A\u5C38\u4F53\u6D88\u5931"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/\u602A\u7269-\u5C0F\u602A\u5C38\u4F53\u6D88\u5931"
+  Guid:
+    Data1: 528160412
+    Data2: 1221349462
+    Data3: -722482497
+    Data4: 1793109136
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 3585
+--- !u!114 &-4466088417425436074
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/reaper/\u6B7B\u795E-\u5E7D\u51A5\u7206\u8F70-\u5F15\u5BFC"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/reaper/\u6B7B\u795E-\u5E7D\u51A5\u7206\u8F70-\u5F15\u5BFC"
+  Guid:
+    Data1: 917257704
+    Data2: 1202498872
+    Data3: -65396051
+    Data4: 1458951866
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 6314
+--- !u!114 &-4370104274891240272
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/mushroom snake/\u602A\u7269-\u8611\u83C7\uFFFD\uFFFD\u653B\u51FB"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/mushroom snake/\u602A\u7269-\u8611\u83C7\uFFFD\uFFFD\u653B\u51FB"
+  Guid:
+    Data1: 519616003
+    Data2: 1099403385
+    Data3: 2077823622
+    Data4: -1454322825
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 832
+--- !u!114 &-4347580149589574509
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Monster/frog/frog-attack
+  m_EditorClassIdentifier: 
+  Path: event:/Monster/frog/frog-attack
+  Guid:
+    Data1: -1209343339
+    Data2: 1232279075
+    Data3: -680812892
+    Data4: -1816894399
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 2156
+--- !u!114 &-4333568157215482560
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Grane/\u683C\u96F7\u6069-\u786C\u571F\u5730\u811A\u6B65"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Grane/\u683C\u96F7\u6069-\u786C\u571F\u5730\u811A\u6B65"
+  Guid:
+    Data1: -235666088
+    Data2: 1191038322
+    Data3: 1543455360
+    Data4: -797099871
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 391
+--- !u!114 &-4321219194397375657
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/\u602A\u7269-\u91D1\u5E01\u6389\u843D-\u5927\u91CF"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/\u602A\u7269-\u91D1\u5E01\u6389\u843D-\u5927\u91CF"
+  Guid:
+    Data1: 1435946638
+    Data2: 1175404620
+    Data3: -244459631
+    Data4: 1233288561
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 2490
+--- !u!114 &-4289910201390844800
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Grane/\u708E\u7CFB/\u683C\u96F7\uFFFD\uFFFD\u708E\u7CFB-\u6280\uFFFD\uFFFD\u6B66\u5668\u672F\u573A\u653B\u51FB"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Grane/\u708E\u7CFB/\u683C\u96F7\uFFFD\uFFFD\u708E\u7CFB-\u6280\uFFFD\uFFFD\u6B66\u5668\u672F\u573A\u653B\u51FB"
+  Guid:
+    Data1: -1505704679
+    Data2: 1192969592
+    Data3: -1033659513
+    Data4: 1482824392
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 2256
+--- !u!114 &-4277233063816859277
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/UI/blessing/UI-\u795D\u798F\u754C\u9762-\u9AD8\u4EAE"
+  m_EditorClassIdentifier: 
+  Path: "event:/UI/blessing/UI-\u795D\u798F\u754C\u9762-\u9AD8\u4EAE"
+  Guid:
+    Data1: 698351105
+    Data2: 1086365259
+    Data3: 691480986
+    Data4: 395448273
+  Banks:
+  - {fileID: 2063027532728258528}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 19
+--- !u!114 &-4252359442262382438
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Character/Grane/Grane-attack-2
+  m_EditorClassIdentifier: 
+  Path: event:/Character/Grane/Grane-attack-2
+  Guid:
+    Data1: 1823222835
+    Data2: 1242588878
+    Data3: -1758503778
+    Data4: 1288890107
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 580
+--- !u!114 &-4081621882845402353
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u96F7\u7CFB-\u666E\u653B2\u6BB5"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u96F7\u7CFB-\u666E\u653B2\u6BB5"
+  Guid:
+    Data1: 1605946863
+    Data2: 1286853123
+    Data3: -1676023626
+    Data4: -2108599831
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1060
+--- !u!114 &-4058677143342495497
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Grane/\u683C\u96F7\uFFFD\uFFFD\u53D8\u8EAB-\u53D8\u8EAB\u8FC7\u7A0B"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Grane/\u683C\u96F7\uFFFD\uFFFD\u53D8\u8EAB-\u53D8\u8EAB\u8FC7\u7A0B"
+  Guid:
+    Data1: 1459071721
+    Data2: 1133894527
+    Data3: 202117311
+    Data4: 1331266172
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 3529
+--- !u!114 &-4002288477336672836
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u666E\u653B3\u6BB5"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u666E\u653B3\u6BB5"
+  Guid:
+    Data1: -1431616929
+    Data2: 1104463645
+    Data3: -1690793539
+    Data4: -687304299
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 550
+--- !u!114 &-3937929266681930902
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/\u602A\u7269-\u80FD\u91CF\u7403\u6389\u843D"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/\u602A\u7269-\u80FD\u91CF\u7403\u6389\u843D"
+  Guid:
+    Data1: 1383156878
+    Data2: 1261105479
+    Data3: -1848142971
+    Data4: -303306334
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 880
+--- !u!114 &-3862055572429692852
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/mushroom snake/\u602A\u7269-\u8611\u83C7\uFFFD\uFFFD\u6B7B\u4EA1"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/mushroom snake/\u602A\u7269-\u8611\u83C7\uFFFD\uFFFD\u6B7B\u4EA1"
+  Guid:
+    Data1: -1498771627
+    Data2: 1137731304
+    Data3: 827206838
+    Data4: 2008803869
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 1661
+--- !u!114 &-3860614379241677879
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/shadow wolf/\u602A\u7269-\u6697\u5F71\uFFFD\uFFFD\u6B7B\u4EA1"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/shadow wolf/\u602A\u7269-\u6697\u5F71\uFFFD\uFFFD\u6B7B\u4EA1"
+  Guid:
+    Data1: -311533756
+    Data2: 1182975073
+    Data3: 931993247
+    Data4: 1087347259
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 631
+--- !u!114 &-3851878901376239018
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Grane/\u96F7\u7CFB/\u683C\u96F7\uFFFD\uFFFD\u96F7\u7CFB-\u62FE\u53D6\u6B66\u5668"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Grane/\u96F7\u7CFB/\u683C\u96F7\uFFFD\uFFFD\u96F7\u7CFB-\u62FE\u53D6\u6B66\u5668"
+  Guid:
+    Data1: 1555928041
+    Data2: 1147362021
+    Data3: 144154555
+    Data4: 1883182815
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 1375
+--- !u!114 &-3805955223050279269
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/shadow wolf/\u602A\u7269-\u6697\u5F71\uFFFD\uFFFD\u72FC\u5F71\u51B2\u950B"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/shadow wolf/\u602A\u7269-\u6697\u5F71\uFFFD\uFFFD\u72FC\u5F71\u51B2\u950B"
+  Guid:
+    Data1: 1926001780
+    Data2: 1246928291
+    Data3: -55339873
+    Data4: -398438823
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 11875
+--- !u!114 &-3799861569308478889
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Grane/\u683C\u96F7\uFFFD\uFFFD\u666E\u653B2\uFFFD\uFFFD\u91CA\u653E"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Grane/\u683C\u96F7\uFFFD\uFFFD\u666E\u653B2\uFFFD\uFFFD\u91CA\u653E"
+  Guid:
+    Data1: -1861682458
+    Data2: 1299590493
+    Data3: -538799685
+    Data4: -856757137
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 653
+--- !u!114 &-3433285644127070190
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u96F7\u7CFB-\u6280\u80FD"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u96F7\u7CFB-\u6280\u80FD"
+  Guid:
+    Data1: -423207148
+    Data2: 1271330424
+    Data3: 1538273431
+    Data4: 1188342592
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2262
+--- !u!114 &-3370608964729005275
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Character/level-up
+  m_EditorClassIdentifier: 
+  Path: event:/Character/level-up
+  Guid:
+    Data1: 1203213219
+    Data2: 1322257932
+    Data3: 1424105887
+    Data4: -346138555
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 1558
+--- !u!114 &-3357953736153814349
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/reaper/\u6B7B\u795E-\u9570\u5200\u91CD\u5236"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/reaper/\u6B7B\u795E-\u9570\u5200\u91CD\u5236"
+  Guid:
+    Data1: -1130086866
+    Data2: 1305351048
+    Data3: -1260864638
+    Data4: -1939687076
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 3659
+--- !u!114 &-3328927525643807668
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u53D7\u51FB-\u98DE\u5200"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u53D7\u51FB-\u98DE\u5200"
+  Guid:
+    Data1: 1591852639
+    Data2: 1158948679
+    Data3: -457056585
+    Data4: 2147316943
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 433
+--- !u!114 &-3221433984377610832
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Grane/\u89D2\u8272-\u683C\u96F7\uFFFD\uFFFD\u89D2\u8272\u6B7B\u4EA1"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Grane/\u89D2\u8272-\u683C\u96F7\uFFFD\uFFFD\u89D2\u8272\u6B7B\u4EA1"
+  Guid:
+    Data1: -969419756
+    Data2: 1082534346
+    Data3: -1954442357
+    Data4: -1277468448
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 4697
+--- !u!114 &-3183407887556580737
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u53D8\u8EAB-\u51B2\u523A\u653B\u51FB"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u53D8\u8EAB-\u51B2\u523A\u653B\u51FB"
+  Guid:
+    Data1: -1502754237
+    Data2: 1083151600
+    Data3: 1869175222
+    Data4: -1453710527
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 1352
+--- !u!114 &-3174825151232152571
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/\u602A\u7269-\u91D1\u5E01\u6389\u843D-\u5C11"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/\u602A\u7269-\u91D1\u5E01\u6389\u843D-\u5C11"
+  Guid:
+    Data1: 1566699209
+    Data2: 1114149856
+    Data3: 336311180
+    Data4: -1307504118
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 691
+--- !u!114 &-3077018338017031180
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/UI/level/UI-\u5173\u5361-\u573A\u666F\u53D8\u9ED1"
+  m_EditorClassIdentifier: 
+  Path: "event:/UI/level/UI-\u5173\u5361-\u573A\u666F\u53D8\u9ED1"
+  Guid:
+    Data1: 1369867964
+    Data2: 1126250764
+    Data3: 397765792
+    Data4: 109828058
+  Banks:
+  - {fileID: 2063027532728258528}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1743
+--- !u!114 &-3053615856853897808
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u98CE\u7CFB-\u666E\u653B1\u6BB5"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u98CE\u7CFB-\u666E\u653B1\u6BB5"
+  Guid:
+    Data1: 693038510
+    Data2: 1272823282
+    Data3: 438010794
+    Data4: -1837294010
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1769
+--- !u!114 &-2930409846998373622
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u98DE\u5200\xB7\u666E\u653B3\uFFFD\uFFFD\u8865\u5145\u98DE\u5200"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u98DE\u5200\xB7\u666E\u653B3\uFFFD\uFFFD\u8865\u5145\u98DE\u5200"
+  Guid:
+    Data1: 1375407327
+    Data2: 1077222087
+    Data3: -1554993732
+    Data4: 1359479584
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 714
+--- !u!114 &-2903979807237464008
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: snapshot:/cave
+  m_EditorClassIdentifier: 
+  Path: snapshot:/cave
+  Guid:
+    Data1: -1384327294
+    Data2: 1133571856
+    Data3: -2079263045
+    Data4: 292417855
+  Banks:
+  - {fileID: 7786235965872742157}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 0
+--- !u!114 &-2881480614889377714
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/reaper/\u6B7B\u795E-\u9570\u5200\u7834\u788E"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/reaper/\u6B7B\u795E-\u9570\u5200\u7834\u788E"
+  Guid:
+    Data1: -733811932
+    Data2: 1102467742
+    Data3: 1704863911
+    Data4: 941172715
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 1193
+--- !u!114 &-2765623568971275644
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Grane/\u98CE\u7CFB/\u683C\u96F7\uFFFD\uFFFD\u98CE\u7CFB-\u6280\uFFFD\uFFFD\u6B66\u5668\u672F\u573A\u653B\u51FB"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Grane/\u98CE\u7CFB/\u683C\u96F7\uFFFD\uFFFD\u98CE\u7CFB-\u6280\uFFFD\uFFFD\u6B66\u5668\u672F\u573A\u653B\u51FB"
+  Guid:
+    Data1: -373565364
+    Data2: 1282721871
+    Data3: 1714909323
+    Data4: 160083346
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 2818
+--- !u!114 &-2619275123632996825
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/mushroom snake/\u602A\u7269-\u8611\u83C7\uFFFD\uFFFD\u8FDB\u5316"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/mushroom snake/\u602A\u7269-\u8611\u83C7\uFFFD\uFFFD\u8FDB\u5316"
+  Guid:
+    Data1: -1077642442
+    Data2: 1295764848
+    Data3: -475537527
+    Data4: 1233903385
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 1376
+--- !u!114 &-2470801768055611417
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/mushroom snake/\u602A\u7269-\u8611\u83C7\uFFFD\uFFFD\u89C5\u98DF"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/mushroom snake/\u602A\u7269-\u8611\u83C7\uFFFD\uFFFD\u89C5\u98DF"
+  Guid:
+    Data1: -473674155
+    Data2: 1316429562
+    Data3: 895815605
+    Data4: -1131924403
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 2400
+--- !u!114 &-2319363979274611228
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/little purple/\u602A\u7269-\u5C0F\u7D2B-\u7206\u70B8"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/little purple/\u602A\u7269-\u5C0F\u7D2B-\u7206\u70B8"
+  Guid:
+    Data1: 611807116
+    Data2: 1321865293
+    Data3: -1300475713
+    Data4: 1798892910
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 2408
+--- !u!114 &-2268948010030399768
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/lord/\u9886\u4E3B-\u8DF3\u8DC3"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/lord/\u9886\u4E3B-\u8DF3\u8DC3"
+  Guid:
+    Data1: 1611485797
+    Data2: 1181753852
+    Data3: -1386759512
+    Data4: -1474152683
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 3754
+--- !u!114 &-2249524582990705450
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/\u89D2\u8272-\u642C\u8FD0\u5DE5\u6551\u4EBA"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/\u89D2\u8272-\u642C\u8FD0\u5DE5\u6551\u4EBA"
+  Guid:
+    Data1: 686084558
+    Data2: 1166239951
+    Data3: -355069262
+    Data4: -663146338
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 10059
+--- !u!114 &-2086739110680178569
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Monsters.bank
+  m_EditorClassIdentifier: 
+  Path: Banks/Desktop/Monsters.bank
+  Name: Monsters
+  StudioPath: bank:/Monsters
+  lastModified: 637840996923123187
+  FileSizes:
+  - Name: Desktop
+    Value: 4011744
+  Exists: 1
+--- !u!114 &-2047907600686158066
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u96F7\u7CFB-\u666E\u653B1\u6BB5"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u96F7\u7CFB-\u666E\u653B1\u6BB5"
+  Guid:
+    Data1: -1951636000
+    Data2: 1190889019
+    Data3: 1162627989
+    Data4: -743856567
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1060
+--- !u!114 &-1934072976331073041
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Grane/\u96F7\u7CFB/\u683C\u96F7\uFFFD\uFFFD\u96F7\u7CFB-\u6280\uFFFD\uFFFD\u6B66\u5668\u672F\u573A\u653B\u51FB"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Grane/\u96F7\u7CFB/\u683C\u96F7\uFFFD\uFFFD\u96F7\u7CFB-\u6280\uFFFD\uFFFD\u6B66\u5668\u672F\u573A\u653B\u51FB"
+  Guid:
+    Data1: 666734704
+    Data2: 1219037363
+    Data3: -1145133158
+    Data4: -215452146
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 3047
+--- !u!114 &-1927775542727358052
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u786C\u571F\u5730\u8DD1\u6B65"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u786C\u571F\u5730\u8DD1\u6B65"
+  Guid:
+    Data1: 1369750451
+    Data2: 1089472812
+    Data3: -1272349785
+    Data4: -1905741153
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 297
+--- !u!114 &-1794149333396440330
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/UI/blessing/UI-\u795D\u798F\u754C\u9762-\u795D\u798F\u83B7\u5F97"
+  m_EditorClassIdentifier: 
+  Path: "event:/UI/blessing/UI-\u795D\u798F\u754C\u9762-\u795D\u798F\u83B7\u5F97"
+  Guid:
+    Data1: 1594784270
+    Data2: 1277240080
+    Data3: -1815202644
+    Data4: -1870245498
+  Banks:
+  - {fileID: 2063027532728258528}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1457
+--- !u!114 &-1727659848073421061
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u53D8\u8EAB-\u653B\u51FB1&2\u6BB5"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u53D8\u8EAB-\u653B\u51FB1&2\u6BB5"
+  Guid:
+    Data1: 1060801437
+    Data2: 1173081813
+    Data3: 1960006060
+    Data4: 1434522951
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 938
+--- !u!114 &-1704994427084729961
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Grane/\u98CE\u7CFB/\u683C\u96F7\u6069-\u98CE\u7CFB-\u666E\u653B2\u6BB5"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Grane/\u98CE\u7CFB/\u683C\u96F7\u6069-\u98CE\u7CFB-\u666E\u653B2\u6BB5"
+  Guid:
+    Data1: 1401478864
+    Data2: 1259934800
+    Data3: 399262113
+    Data4: -685234502
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 905
+--- !u!114 &-1660383664629026432
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Main-Theme
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Main-Theme
+  Guid:
+    Data1: 878923620
+    Data2: 1218517937
+    Data3: -1669066353
+    Data4: 1781760622
+  Banks:
+  - {fileID: 2721850151131351441}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 178818
+--- !u!114 &-1658139121544792998
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/boss Grane/\u602A\u7269-\u683C\u96F7\u6069-\u53EC\u5524\u6697\u5F71\u72FC"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/boss Grane/\u602A\u7269-\u683C\u96F7\u6069-\u53EC\u5524\u6697\u5F71\u72FC"
+  Guid:
+    Data1: 320727842
+    Data2: 1311231036
+    Data3: -1575485254
+    Data4: 1467650038
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 3929
+--- !u!114 &-1653446866675342265
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u98DE\u5200\xB7\u666E\u653B1&2\uFFFD\uFFFD\u8865\u5145\u98DE\u5200"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u98DE\u5200\xB7\u666E\u653B1&2\uFFFD\uFFFD\u8865\u5145\u98DE\u5200"
+  Guid:
+    Data1: -1961851738
+    Data2: 1150177243
+    Data3: 1128477066
+    Data4: -1967271394
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 548
+--- !u!114 &-1558627401711668505
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Grane/\u683C\u96F7\uFFFD\uFFFD\u6280\uFFFD\uFFFD\u91CA\u653E"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Grane/\u683C\u96F7\uFFFD\uFFFD\u6280\uFFFD\uFFFD\u91CA\u653E"
+  Guid:
+    Data1: 1526452495
+    Data2: 1081204716
+    Data3: -1570854722
+    Data4: 1640087919
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 817
+--- !u!114 &-1556377048693131537
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/mushroom snake shogun/\u602A\u7269-\u8611\u83C7\u86C7\u5C06\uFFFD\uFFFD\u86C7\u5C3E\u7529\u51FB"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/mushroom snake shogun/\u602A\u7269-\u8611\u83C7\u86C7\u5C06\uFFFD\uFFFD\u86C7\u5C3E\u7529\u51FB"
+  Guid:
+    Data1: -1869797770
+    Data2: 1253480537
+    Data3: -698672748
+    Data4: 1531517681
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 2817
+--- !u!114 &-1545651375313320333
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/UI/gem choose/UI-\u5B9D\u77F3\u9009\u62E9-\u5B9D\u77F3\u6D88\u5931 "
+  m_EditorClassIdentifier: 
+  Path: "event:/UI/gem choose/UI-\u5B9D\u77F3\u9009\u62E9-\u5B9D\u77F3\u6D88\u5931 "
+  Guid:
+    Data1: 1707846360
+    Data2: 1165407937
+    Data3: -1559084922
+    Data4: -1266492656
+  Banks:
+  - {fileID: 2063027532728258528}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1007
+--- !u!114 &-1543320877823148264
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u96F7\u7CFB-\u51B2\u523A"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u96F7\u7CFB-\u51B2\u523A"
+  Guid:
+    Data1: 1240876587
+    Data2: 1202198711
+    Data3: 293364385
+    Data4: -2045212331
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 1134
+--- !u!114 &-1467976725441012560
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Character/Grane/Grane-underattack-attack
+  m_EditorClassIdentifier: 
+  Path: event:/Character/Grane/Grane-underattack-attack
+  Guid:
+    Data1: 1693759017
+    Data2: 1182947566
+    Data3: -975170115
+    Data4: -1367996420
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 521
+--- !u!114 &-1442181252115828220
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Grane/\u683C\u96F7\uFFFD\uFFFD\u666E\u653B\u84C4\u529B-\u5FAA\u73AF"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Grane/\u683C\u96F7\uFFFD\uFFFD\u666E\u653B\u84C4\u529B-\u5FAA\u73AF"
+  Guid:
+    Data1: 266737254
+    Data2: 1123066092
+    Data3: -1620557640
+    Data4: -2044139392
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 13569
+--- !u!114 &-1294426408919304494
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Grane/\u98CE\u7CFB/\u683C\u96F7\uFFFD\uFFFD\u53D7\u51FB-\u98CE\u7CFB\u666E\u653B"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Grane/\u98CE\u7CFB/\u683C\u96F7\uFFFD\uFFFD\u53D7\u51FB-\u98CE\u7CFB\u666E\u653B"
+  Guid:
+    Data1: 1988770984
+    Data2: 1305583861
+    Data3: -1718530918
+    Data4: -1247367334
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 570
+--- !u!114 &-1263747451367233253
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/mushroom snake shogun/\u602A\u7269-\u8611\u83C7\u86C7\u5C06\uFFFD\uFFFD\u6B7B\u4EA1"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/mushroom snake shogun/\u602A\u7269-\u8611\u83C7\u86C7\u5C06\uFFFD\uFFFD\u6B7B\u4EA1"
+  Guid:
+    Data1: -1386398246
+    Data2: 1242009161
+    Data3: -1877129059
+    Data4: 612327834
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 1916
+--- !u!114 &-1169233253445439864
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Common.bank
+  m_EditorClassIdentifier: 
+  Path: Banks/Desktop/Common.bank
+  Name: Common
+  StudioPath: bank:/Common
+  lastModified: 637840996933843222
+  FileSizes:
+  - Name: Desktop
+    Value: 138144
+  Exists: 1
+--- !u!114 &-1121733885610353109
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Grane/\u683C\u96F7\uFFFD\uFFFD\u6280\uFFFD\uFFFD\u6B66\u5668\u63A5\u89E6\u5730\u9762"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Grane/\u683C\u96F7\uFFFD\uFFFD\u6280\uFFFD\uFFFD\u6B66\u5668\u63A5\u89E6\u5730\u9762"
+  Guid:
+    Data1: -1432995353
+    Data2: 1277899663
+    Data3: -1850341494
+    Data4: -617745493
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 1042
+--- !u!114 &-1063325242580431060
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Grane/\u96F7\u7CFB/\u683C\u96F7\u6069-\u96F7\u7CFB-\u666E\u653B2\u6BB5"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Grane/\u96F7\u7CFB/\u683C\u96F7\u6069-\u96F7\u7CFB-\u666E\u653B2\u6BB5"
+  Guid:
+    Data1: 30055839
+    Data2: 1219818053
+    Data3: -1126258762
+    Data4: -1423440883
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1216
+--- !u!114 &-951045338357396615
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/reaper/\u6B7B\u795E-\u5E7D\u51A5\u7206\u8F70-\u7206\u70B8"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/reaper/\u6B7B\u795E-\u5E7D\u51A5\u7206\u8F70-\u7206\u70B8"
+  Guid:
+    Data1: 1346054996
+    Data2: 1210084730
+    Data3: 1094236094
+    Data4: 193163315
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 2944
+--- !u!114 &-686446262520842953
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/UI/blessing/UI-\u795D\u798F\u754C\u9762-\u6253\u5F00"
+  m_EditorClassIdentifier: 
+  Path: "event:/UI/blessing/UI-\u795D\u798F\u754C\u9762-\u6253\u5F00"
+  Guid:
+    Data1: 328763262
+    Data2: 1180230102
+    Data3: -385637454
+    Data4: -1817387584
+  Banks:
+  - {fileID: 2063027532728258528}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1250
+--- !u!114 &-581705788292882862
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u96F7\u7CFB-\u843D\u96F7"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u96F7\u7CFB-\u843D\u96F7"
+  Guid:
+    Data1: 1064857810
+    Data2: 1316419820
+    Data3: -424024912
+    Data4: -714467200
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 2258
+--- !u!114 &-14934337874980729
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/little green/\u602A\u7269-\u5C0F\u7EFF-\u547D\u4E2D"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/little green/\u602A\u7269-\u5C0F\u7EFF-\u547D\u4E2D"
+  Guid:
+    Data1: -1535106883
+    Data2: 1256662063
+    Data3: 1171299759
+    Data4: -1817401063
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 469
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: 8736435537456112818}
+  - {fileID: 3599026335026385508}
+  - {fileID: -1169233253445439864}
+  - {fileID: -6029701677394458280}
+  - {fileID: 7786235965872742157}
+  - {fileID: -2086739110680178569}
+  - {fileID: 2721850151131351441}
+  - {fileID: 2063027532728258528}
+  EditorEvents:
+  - {fileID: -6544663560915138252}
+  - {fileID: 8574910737684528044}
+  - {fileID: -5894368230973717653}
+  - {fileID: 9039317230801159526}
+  - {fileID: -5323097366631664156}
+  - {fileID: -1558627401711668505}
+  - {fileID: 5127179692506965069}
+  - {fileID: -3433285644127070190}
+  - {fileID: -3221433984377610832}
+  - {fileID: -4289910201390844800}
+  - {fileID: -5335407403906066690}
+  - {fileID: -5381443507972652115}
+  - {fileID: 4797632950506481138}
+  - {fileID: -7558610765142015570}
+  - {fileID: 3215954077161781107}
+  - {fileID: 970691545886849040}
+  - {fileID: -1467976725441012560}
+  - {fileID: 6450574434950477904}
+  - {fileID: -1543320877823148264}
+  - {fileID: -4252359442262382438}
+  - {fileID: 8946761763248137652}
+  - {fileID: -4938570929231579621}
+  - {fileID: 8824603529095806452}
+  - {fileID: -3183407887556580737}
+  - {fileID: -8585249522902736669}
+  - {fileID: 374681322111024542}
+  - {fileID: -2765623568971275644}
+  - {fileID: -6366487612853253269}
+  - {fileID: -6322530153338449924}
+  - {fileID: -4333568157215482560}
+  - {fileID: 5568286349944248197}
+  - {fileID: 6453727819545548111}
+  - {fileID: -4002288477336672836}
+  - {fileID: -3328927525643807668}
+  - {fileID: -1442181252115828220}
+  - {fileID: 3761555718712013429}
+  - {fileID: -1934072976331073041}
+  - {fileID: 287548982916201807}
+  - {fileID: -4729346853152624627}
+  - {fileID: -7286260422939290043}
+  - {fileID: 5464004654492049857}
+  - {fileID: 3210241615992641825}
+  - {fileID: 3710829368508759434}
+  - {fileID: -9175499464831788461}
+  - {fileID: 7334469443216403256}
+  - {fileID: 1042617145915419518}
+  - {fileID: -7900050387331493857}
+  - {fileID: -9029750206794005391}
+  - {fileID: -1727659848073421061}
+  - {fileID: 9101213724505386005}
+  - {fileID: -1063325242580431060}
+  - {fileID: -3370608964729005275}
+  - {fileID: -6678167922694543493}
+  - {fileID: 5008808915471910614}
+  - {fileID: -1653446866675342265}
+  - {fileID: -8115601132308140492}
+  - {fileID: 7211714878798719463}
+  - {fileID: -1294426408919304494}
+  - {fileID: 9051531474456706975}
+  - {fileID: -8310864993309752596}
+  - {fileID: 7606875670898442759}
+  - {fileID: -3053615856853897808}
+  - {fileID: 3255935095306749451}
+  - {fileID: -1927775542727358052}
+  - {fileID: 8801068802041138382}
+  - {fileID: 7075586949081876091}
+  - {fileID: -6794537005820380994}
+  - {fileID: 3813249821751126418}
+  - {fileID: 5898617902684487746}
+  - {fileID: 5685804738894769051}
+  - {fileID: -2249524582990705450}
+  - {fileID: -1704994427084729961}
+  - {fileID: -581705788292882862}
+  - {fileID: 4145908767524675250}
+  - {fileID: 7938614955742649612}
+  - {fileID: 7578619471927313097}
+  - {fileID: 3658512185788537946}
+  - {fileID: -2930409846998373622}
+  - {fileID: 7729873208576003236}
+  - {fileID: -2047907600686158066}
+  - {fileID: 2462828038560660333}
+  - {fileID: -3799861569308478889}
+  - {fileID: -1121733885610353109}
+  - {fileID: -3851878901376239018}
+  - {fileID: -4058677143342495497}
+  - {fileID: 909532617613253684}
+  - {fileID: -4081621882845402353}
+  - {fileID: 7510706866945565914}
+  - {fileID: 5919604861398231722}
+  - {fileID: -5037187898408782412}
+  - {fileID: 8263514118646811084}
+  - {fileID: -8771785059356226604}
+  - {fileID: 5305200545533965181}
+  - {fileID: 5419434313932914888}
+  - {fileID: -5703699617620179811}
+  - {fileID: 7914591492784512860}
+  - {fileID: 6391996535610555000}
+  - {fileID: 2633118438552035148}
+  - {fileID: -7179430987173850751}
+  - {fileID: -8957470406077115942}
+  - {fileID: 2586355321853045753}
+  - {fileID: 6289324099025362601}
+  - {fileID: -8096111614048110331}
+  - {fileID: 3330961524032310438}
+  - {fileID: 2456475072610684817}
+  - {fileID: -5192301063292729736}
+  - {fileID: 2862184951582615803}
+  - {fileID: 7620000286382655285}
+  - {fileID: -6715629227526782319}
+  - {fileID: 5577947332746981104}
+  - {fileID: -2903979807237464008}
+  - {fileID: -4370104274891240272}
+  - {fileID: -7710381475131805458}
+  - {fileID: 7091124012176678025}
+  - {fileID: 8225564900014922676}
+  - {fileID: 970095345289828127}
+  - {fileID: 1601471316201363205}
+  - {fileID: 8770720423502232441}
+  - {fileID: 8274375056531414301}
+  - {fileID: 2995682259706981078}
+  - {fileID: 6143277106927951973}
+  - {fileID: -1658139121544792998}
+  - {fileID: -2881480614889377714}
+  - {fileID: -3357953736153814349}
+  - {fileID: 3458955154858020584}
+  - {fileID: -2619275123632996825}
+  - {fileID: -6146037069839868169}
+  - {fileID: 5344663113103759227}
+  - {fileID: -3860614379241677879}
+  - {fileID: 6256859451099756061}
+  - {fileID: -8991523780084979876}
+  - {fileID: -5476617687820087546}
+  - {fileID: -951045338357396615}
+  - {fileID: -2470801768055611417}
+  - {fileID: -3862055572429692852}
+  - {fileID: -9005034887881036311}
+  - {fileID: 543796406587990005}
+  - {fileID: -2268948010030399768}
+  - {fileID: 7855813394974639818}
+  - {fileID: 8237800471684578153}
+  - {fileID: -3805955223050279269}
+  - {fileID: -1556377048693131537}
+  - {fileID: 461497669754544470}
+  - {fileID: 1839236077972431098}
+  - {fileID: 3824865189562959379}
+  - {fileID: -6779758322421794399}
+  - {fileID: 7544446907148599809}
+  - {fileID: 8875056517861830721}
+  - {fileID: -2319363979274611228}
+  - {fileID: -3937929266681930902}
+  - {fileID: -5589748795983472463}
+  - {fileID: -4321219194397375657}
+  - {fileID: -4347580149589574509}
+  - {fileID: 1452723105741620721}
+  - {fileID: -4719896637516673461}
+  - {fileID: -5270523488418296849}
+  - {fileID: -9103323444723480445}
+  - {fileID: 8852739700923932245}
+  - {fileID: 5735358405260402745}
+  - {fileID: 8934989899263158729}
+  - {fileID: 6975992600574404328}
+  - {fileID: 889387121486801087}
+  - {fileID: 4904437163782987006}
+  - {fileID: -14934337874980729}
+  - {fileID: 6168375705642828554}
+  - {fileID: -5300861999909694029}
+  - {fileID: -3174825151232152571}
+  - {fileID: -6785159350671342700}
+  - {fileID: -7373072382022140502}
+  - {fileID: 7559607858763890070}
+  - {fileID: 2570069834627338113}
+  - {fileID: -6935776199978022832}
+  - {fileID: -8382316051516869918}
+  - {fileID: -1263747451367233253}
+  - {fileID: 6205195606270570267}
+  - {fileID: -4466088417425436074}
+  - {fileID: -6255773721889371795}
+  - {fileID: -1660383664629026432}
+  - {fileID: -7381216860588567537}
+  - {fileID: 2509622073908006159}
+  - {fileID: -4277233063816859277}
+  - {fileID: -9123087068840726816}
+  - {fileID: -1794149333396440330}
+  - {fileID: 9209558340798397667}
+  - {fileID: 610122095791168496}
+  - {fileID: -7963356466011799504}
+  - {fileID: 2674445216201289954}
+  - {fileID: -686446262520842953}
+  - {fileID: -5090792519381118725}
+  - {fileID: 5164510821937063220}
+  - {fileID: 6129135400699689570}
+  - {fileID: 8472397913984665990}
+  - {fileID: 2791120545616873382}
+  - {fileID: -3077018338017031180}
+  - {fileID: -1545651375313320333}
+  - {fileID: 4013536984530327508}
+  - {fileID: -9091692256356604216}
+  EditorParameters: []
+  MasterBanks:
+  - {fileID: 7786235965872742157}
+  StringsBanks:
+  - {fileID: 8736435537456112818}
+  cacheTime: 637840996934049954
+  cacheVersion: 10
+--- !u!114 &287548982916201807
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Grane/\u96F7\u7CFB/\u683C\u96F7\uFFFD\uFFFD\u53D7\u51FB-\u96F7\u7CFB\u666E\u653B"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Grane/\u96F7\u7CFB/\u683C\u96F7\uFFFD\uFFFD\u53D7\u51FB-\u96F7\u7CFB\u666E\u653B"
+  Guid:
+    Data1: -997442699
+    Data2: 1115231149
+    Data3: -652446058
+    Data4: 993920716
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 937
+--- !u!114 &374681322111024542
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u96F7\u7CFB-\u7535\u5149\u706B\u77F3"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u96F7\u7CFB-\u7535\u5149\u706B\u77F3"
+  Guid:
+    Data1: 1598253898
+    Data2: 1178991887
+    Data3: 1686017717
+    Data4: -1096353836
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 28695
+--- !u!114 &461497669754544470
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u98CE\u7CFB-\u98D3\u98CE"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u98CE\u7CFB-\u98D3\u98CE"
+  Guid:
+    Data1: 532442489
+    Data2: 1245518135
+    Data3: 1425763463
+    Data4: -186994040
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 13049
+--- !u!114 &543796406587990005
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/great mushroom snake/\u602A\u7269-\u8611\u83C7\u5DE8\u86C7-\u51B2\u51FB"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/great mushroom snake/\u602A\u7269-\u8611\u83C7\u5DE8\u86C7-\u51B2\u51FB"
+  Guid:
+    Data1: 324609634
+    Data2: 1075056779
+    Data3: 1349165228
+    Data4: -648201376
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 970
+--- !u!114 &610122095791168496
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/UI/gem choose/UI-\u5B9D\u77F3\u9009\u62E9-\u754C\u9762\u6253\u5F00"
+  m_EditorClassIdentifier: 
+  Path: "event:/UI/gem choose/UI-\u5B9D\u77F3\u9009\u62E9-\u754C\u9762\u6253\u5F00"
+  Guid:
+    Data1: 1443160632
+    Data2: 1309258017
+    Data3: 1548534950
+    Data4: 789589591
+  Banks:
+  - {fileID: 2063027532728258528}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1250
+--- !u!114 &889387121486801087
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/lord/\u9886\u4E3B-\u811A\u6B65"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/lord/\u9886\u4E3B-\u811A\u6B65"
+  Guid:
+    Data1: -1809922389
+    Data2: 1295974080
+    Data3: -121700730
+    Data4: -1696717274
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 1987
+--- !u!114 &909532617613253684
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Character/Grane/Grane-raise-sword-hit
+  m_EditorClassIdentifier: 
+  Path: event:/Character/Grane/Grane-raise-sword-hit
+  Guid:
+    Data1: 1749874158
+    Data2: 1176073933
+    Data3: -431377480
+    Data4: 1426360437
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 776
+--- !u!114 &970095345289828127
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/mushroom snake shogun/\u602A\u7269-\u8611\u83C7\u86C7\u5C06\uFFFD\uFFFD\u5DE8\u65A7\u6325\u821E"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/mushroom snake shogun/\u602A\u7269-\u8611\u83C7\u86C7\u5C06\uFFFD\uFFFD\u5DE8\u65A7\u6325\u821E"
+  Guid:
+    Data1: -577391342
+    Data2: 1207253696
+    Data3: 1416162485
+    Data4: -1057434113
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 3586
+--- !u!114 &970691545886849040
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u666E\u653B2\u6BB5"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u666E\u653B2\u6BB5"
+  Guid:
+    Data1: 1616530217
+    Data2: 1199724701
+    Data3: -678125666
+    Data4: -266543810
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 388
+--- !u!114 &1042617145915419518
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/\u89D2\u8272-\u4F7F\u7528\u9A91\u58EB\u80FD\u91CF"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/\u89D2\u8272-\u4F7F\u7528\u9A91\u58EB\u80FD\u91CF"
+  Guid:
+    Data1: 1470110873
+    Data2: 1263009236
+    Data3: 671840151
+    Data4: -946404458
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 624
+--- !u!114 &1452723105741620721
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Monster/spear-wolf/spear-wolf-attack
+  m_EditorClassIdentifier: 
+  Path: event:/Monster/spear-wolf/spear-wolf-attack
+  Guid:
+    Data1: 1996807579
+    Data2: 1290328185
+    Data3: 86710970
+    Data4: 780621080
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 2881
+--- !u!114 &1601471316201363205
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/boss Grane/\u602A\u7269-\u683C\u96F7\uFFFD\uFFFD\u8DF3\u8DC3\u653B\u51FB"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/boss Grane/\u602A\u7269-\u683C\u96F7\uFFFD\uFFFD\u8DF3\u8DC3\u653B\u51FB"
+  Guid:
+    Data1: -1393138155
+    Data2: 1113473548
+    Data3: 625847461
+    Data4: 893068356
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 6584
+--- !u!114 &1839236077972431098
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/lord/\u9886\u4E3B-\u6B7B\u4EA1"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/lord/\u9886\u4E3B-\u6B7B\u4EA1"
+  Guid:
+    Data1: 820833404
+    Data2: 1160596279
+    Data3: 1917932672
+    Data4: 1884680996
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 5230
+--- !u!114 &2063027532728258528
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/UI.bank
+  m_EditorClassIdentifier: 
+  Path: Banks/Desktop/UI.bank
+  Name: UI
+  StudioPath: bank:/UI
+  lastModified: 637840996934049954
+  FileSizes:
+  - Name: Desktop
+    Value: 261056
+  Exists: 1
+--- !u!114 &2456475072610684817
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environment & Object/object-campfire
+  m_EditorClassIdentifier: 
+  Path: event:/Environment & Object/object-campfire
+  Guid:
+    Data1: 609966561
+    Data2: 1159942444
+    Data3: -1855340649
+    Data4: 108658180
+  Banks:
+  - {fileID: -6029701677394458280}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 25801
+--- !u!114 &2462828038560660333
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Grane/\u683C\u96F7\uFFFD\uFFFD\u666E\u653B1\uFFFD\uFFFD\u91CA\u653E"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Grane/\u683C\u96F7\uFFFD\uFFFD\u666E\u653B1\uFFFD\uFFFD\u91CA\u653E"
+  Guid:
+    Data1: 1978951654
+    Data2: 1180374002
+    Data3: 687014584
+    Data4: 591507315
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 758
+--- !u!114 &2509622073908006159
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Forest-Boss-Combat
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Forest-Boss-Combat
+  Guid:
+    Data1: 651045591
+    Data2: 1194670229
+    Data3: 1745439135
+    Data4: 1981461927
+  Banks:
+  - {fileID: 2721850151131351441}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 194166
+--- !u!114 &2570069834627338113
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/lord/\u9886\u4E3B-\u5927\u62DB"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/lord/\u9886\u4E3B-\u5927\u62DB"
+  Guid:
+    Data1: -1372896557
+    Data2: 1165150609
+    Data3: 1338840715
+    Data4: 2145630432
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 5679
+--- !u!114 &2586355321853045753
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environment & Object/object-water
+  m_EditorClassIdentifier: 
+  Path: event:/Environment & Object/object-water
+  Guid:
+    Data1: 1680427391
+    Data2: 1259855000
+    Data3: 1591132091
+    Data4: 1300424787
+  Banks:
+  - {fileID: -6029701677394458280}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 68223
+--- !u!114 &2633118438552035148
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Environment & Object/gate/\u7269\u4F53-\u623F\u95F4\u5927\u95E8-\u5173\u95ED"
+  m_EditorClassIdentifier: 
+  Path: "event:/Environment & Object/gate/\u7269\u4F53-\u623F\u95F4\u5927\u95E8-\u5173\u95ED"
+  Guid:
+    Data1: -498314404
+    Data2: 1157555637
+    Data3: -973536376
+    Data4: -306702847
+  Banks:
+  - {fileID: -6029701677394458280}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 2559
+--- !u!114 &2674445216201289954
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/UI/level/UI-\u5173\u5361-\u573A\u666F\u53D8\u4EAE"
+  m_EditorClassIdentifier: 
+  Path: "event:/UI/level/UI-\u5173\u5361-\u573A\u666F\u53D8\u4EAE"
+  Guid:
+    Data1: 1115905889
+    Data2: 1125333948
+    Data3: -1394133866
+    Data4: -1332539217
+  Banks:
+  - {fileID: 2063027532728258528}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1396
+--- !u!114 &2721850151131351441
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Music.bank
+  m_EditorClassIdentifier: 
+  Path: Banks/Desktop/Music.bank
+  Name: Music
+  StudioPath: bank:/Music
+  lastModified: 637840996750743575
+  FileSizes:
+  - Name: Desktop
+    Value: 11639072
+  Exists: 1
+--- !u!114 &2791120545616873382
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/UI/general/UI-\u754C\u9762\u901A\u7528-\u6253\u5F00\u9762\u677F-\u5199\u5B9E\u98CE\u683C"
+  m_EditorClassIdentifier: 
+  Path: "event:/UI/general/UI-\u754C\u9762\u901A\u7528-\u6253\u5F00\u9762\u677F-\u5199\u5B9E\u98CE\u683C"
+  Guid:
+    Data1: 625018810
+    Data2: 1141699526
+    Data3: 1543033277
+    Data4: 1982242674
+  Banks:
+  - {fileID: 2063027532728258528}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1226
+--- !u!114 &2862184951582615803
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environment & Object/object-torch
+  m_EditorClassIdentifier: 
+  Path: event:/Environment & Object/object-torch
+  Guid:
+    Data1: 1079793641
+    Data2: 1242517800
+    Data3: -1871775812
+    Data4: -985743567
+  Banks:
+  - {fileID: -6029701677394458280}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 18305
+--- !u!114 &2995682259706981078
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/little green/\u602A\u7269-\u5C0F\u7EFF-\u653B\u51FB"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/little green/\u602A\u7269-\u5C0F\u7EFF-\u653B\u51FB"
+  Guid:
+    Data1: -1862991329
+    Data2: 1139890110
+    Data3: -1787630973
+    Data4: 467518137
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 1020
+--- !u!114 &3210241615992641825
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u96F7\u7CFB-\u611F\u7535"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u96F7\u7CFB-\u611F\u7535"
+  Guid:
+    Data1: -784956282
+    Data2: 1198272115
+    Data3: -1504373570
+    Data4: 572909025
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 9913
+--- !u!114 &3215954077161781107
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Character/Grane/Grane-HQ
+  m_EditorClassIdentifier: 
+  Path: event:/Character/Grane/Grane-HQ
+  Guid:
+    Data1: -341715932
+    Data2: 1297323830
+    Data3: 1388042624
+    Data4: -1839102392
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 11349
+--- !u!114 &3255935095306749451
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Grane/\u683C\u96F7\u6069-\u53D8\u8EAB-\u666E\u653B1\u6BB5"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Grane/\u683C\u96F7\u6069-\u53D8\u8EAB-\u666E\u653B1\u6BB5"
+  Guid:
+    Data1: 1410486963
+    Data2: 1162122485
+    Data3: -1518889568
+    Data4: -1319732717
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 707
+--- !u!114 &3330961524032310438
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Environment & Object/\u7269\u4F53-\u8611\u83C7\u7206\u70B8"
+  m_EditorClassIdentifier: 
+  Path: "event:/Environment & Object/\u7269\u4F53-\u8611\u83C7\u7206\u70B8"
+  Guid:
+    Data1: 945299615
+    Data2: 1213495665
+    Data3: 1661867174
+    Data4: 1273601336
+  Banks:
+  - {fileID: -6029701677394458280}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 2096
+--- !u!114 &3458955154858020584
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/little green/\u602A\u7269-\u5C0F\u7EFF-\u6B7B\u4EA1"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/little green/\u602A\u7269-\u5C0F\u7EFF-\u6B7B\u4EA1"
+  Guid:
+    Data1: -1514957771
+    Data2: 1281382921
+    Data3: 2014891165
+    Data4: -1221374676
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 823
+--- !u!114 &3599026335026385508
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Characters.bank
+  m_EditorClassIdentifier: 
+  Path: Banks/Desktop/Characters.bank
+  Name: Characters
+  StudioPath: bank:/Characters
+  lastModified: 637840996834688361
+  FileSizes:
+  - Name: Desktop
+    Value: 4287008
+  Exists: 1
+--- !u!114 &3658512185788537946
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u53D8\u8EAB-\u53D8\u8EAB\u8FC7\u7A0B"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u53D8\u8EAB-\u53D8\u8EAB\u8FC7\u7A0B"
+  Guid:
+    Data1: 1573748442
+    Data2: 1325848394
+    Data3: -795890502
+    Data4: 1920540234
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 3543
+--- !u!114 &3710829368508759434
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u53D7\u51FB-\u98CE\u7CFB\u5315\u9996"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u53D7\u51FB-\u98CE\u7CFB\u5315\u9996"
+  Guid:
+    Data1: 1622438536
+    Data2: 1227160808
+    Data3: -819710025
+    Data4: 275150827
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 540
+--- !u!114 &3761555718712013429
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Grane/\u98CE\u7CFB/\u683C\u96F7\u6069-\u98CE\u7CFB-\u666E\u653B1\u6BB5"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Grane/\u98CE\u7CFB/\u683C\u96F7\u6069-\u98CE\u7CFB-\u666E\u653B1\u6BB5"
+  Guid:
+    Data1: -508101525
+    Data2: 1082295156
+    Data3: -835286106
+    Data4: -1165302750
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 881
+--- !u!114 &3813249821751126418
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u53D7\u51FB-\u95EA\u7535\u94FE"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u53D7\u51FB-\u95EA\u7535\u94FE"
+  Guid:
+    Data1: -1950242104
+    Data2: 1128857269
+    Data3: -1322300495
+    Data4: 1402069253
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 571
+--- !u!114 &3824865189562959379
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/\u602A\u7269-\u91D1\u5E01\u6389\u843D-\u4E2D"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/\u602A\u7269-\u91D1\u5E01\u6389\u843D-\u4E2D"
+  Guid:
+    Data1: -301905026
+    Data2: 1280990863
+    Data3: 849272461
+    Data4: -1170019760
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1508
+--- !u!114 &4013536984530327508
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/UI/general/UI-\u754C\u9762\u901A\u7528-\u6253\u5F00\u9762\u677F-\u62BD\u8C61\u98CE\u683C"
+  m_EditorClassIdentifier: 
+  Path: "event:/UI/general/UI-\u754C\u9762\u901A\u7528-\u6253\u5F00\u9762\u677F-\u62BD\u8C61\u98CE\u683C"
+  Guid:
+    Data1: 271599067
+    Data2: 1269648139
+    Data3: 66314417
+    Data4: 261388091
+  Banks:
+  - {fileID: 2063027532728258528}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1250
+--- !u!114 &4145908767524675250
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Grane/\u683C\u96F7\uFFFD\uFFFD\u53D8\u8EAB-\u51B2\u523A"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Grane/\u683C\u96F7\uFFFD\uFFFD\u53D8\u8EAB-\u51B2\u523A"
+  Guid:
+    Data1: -2061570349
+    Data2: 1126777648
+    Data3: 1789612448
+    Data4: 287812350
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 930
+--- !u!114 &4797632950506481138
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u98DE\u5200\xB7\u666E\u653B3\u6BB5"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u98DE\u5200\xB7\u666E\u653B3\u6BB5"
+  Guid:
+    Data1: 655003427
+    Data2: 1188919096
+    Data3: -1412756330
+    Data4: 115165203
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1328
+--- !u!114 &4904437163782987006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/reaper/\u6B7B\u795E-\u6D88\u5931"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/reaper/\u6B7B\u795E-\u6D88\u5931"
+  Guid:
+    Data1: 1215798710
+    Data2: 1166591291
+    Data3: 1434452112
+    Data4: 197121661
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 2028
+--- !u!114 &5008808915471910614
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Grane/\u683C\u96F7\uFFFD\uFFFD\u6280\uFFFD\uFFFD\u62FE\u53D6\u6B66\u5668"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Grane/\u683C\u96F7\uFFFD\uFFFD\u6280\uFFFD\uFFFD\u62FE\u53D6\u6B66\u5668"
+  Guid:
+    Data1: 1335943845
+    Data2: 1239104073
+    Data3: -854096225
+    Data4: -606553542
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 1334
+--- !u!114 &5127179692506965069
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Grane/\u683C\u96F7\uFFFD\uFFFD\u53D7\u51FB-\u53D8\u8EAB\u666E\u653B"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Grane/\u683C\u96F7\uFFFD\uFFFD\u53D7\u51FB-\u53D8\u8EAB\u666E\u653B"
+  Guid:
+    Data1: 1236610321
+    Data2: 1258253866
+    Data3: -1273200975
+    Data4: -978443825
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 500
+--- !u!114 &5164510821937063220
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/UI/map/UI-\u5730\u56FE-\u8282\u70B9\u9AD8\u4EAE"
+  m_EditorClassIdentifier: 
+  Path: "event:/UI/map/UI-\u5730\u56FE-\u8282\u70B9\u9AD8\u4EAE"
+  Guid:
+    Data1: 878453394
+    Data2: 1077055753
+    Data3: -1461399656
+    Data4: 2073366521
+  Banks:
+  - {fileID: 2063027532728258528}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 650
+--- !u!114 &5305200545533965181
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u89D2\u8272-\u51EF\u831C-\u89D2\u8272\u6B7B\u4EA1"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u89D2\u8272-\u51EF\u831C-\u89D2\u8272\u6B7B\u4EA1"
+  Guid:
+    Data1: 709525756
+    Data2: 1226472932
+    Data3: -736672110
+    Data4: -912924381
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 4345
+--- !u!114 &5344663113103759227
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/\u602A\u7269-\u80FD\u91CF\u7403\u5438\u6536"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/\u602A\u7269-\u80FD\u91CF\u7403\u5438\u6536"
+  Guid:
+    Data1: -608652992
+    Data2: 1287478080
+    Data3: 734471597
+    Data4: 192271114
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 121
+--- !u!114 &5419434313932914888
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/\u89D2\u8272-\u4E3B\u89D2\u56DE\u57CE"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/\u89D2\u8272-\u4E3B\u89D2\u56DE\u57CE"
+  Guid:
+    Data1: -1025895681
+    Data2: 1197005599
+    Data3: -334411878
+    Data4: -531768731
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 4840
+--- !u!114 &5464004654492049857
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u98DE\u5200\u6280\u80FD"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u98DE\u5200\u6280\u80FD"
+  Guid:
+    Data1: -1106722688
+    Data2: 1227913749
+    Data3: 1726732978
+    Data4: -1311881264
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 775
+--- !u!114 &5568286349944248197
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Grane/\u708E\u7CFB/\u683C\u96F7\uFFFD\uFFFD\u708E\u7CFB-\u62FE\u53D6\u6B66\u5668"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Grane/\u708E\u7CFB/\u683C\u96F7\uFFFD\uFFFD\u708E\u7CFB-\u62FE\u53D6\u6B66\u5668"
+  Guid:
+    Data1: 861079128
+    Data2: 1340005952
+    Data3: -1887113059
+    Data4: -1955441351
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 1749
+--- !u!114 &5577947332746981104
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environment & Object/object-pot
+  m_EditorClassIdentifier: 
+  Path: event:/Environment & Object/object-pot
+  Guid:
+    Data1: -2035060996
+    Data2: 1204611710
+    Data3: 1726720661
+    Data4: -1750040125
+  Banks:
+  - {fileID: -6029701677394458280}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 9071
+--- !u!114 &5685804738894769051
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u53D7\u51FB-\u5315\u9996"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u53D7\u51FB-\u5315\u9996"
+  Guid:
+    Data1: 1262634443
+    Data2: 1234369416
+    Data3: -1058173525
+    Data4: 115963285
+  Banks:
+  - {fileID: 3599026335026385508}
+  - {fileID: -1169233253445439864}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 392
+--- !u!114 &5735358405260402745
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u98CE\u7CFB-\u666E\u653B3\u6BB5"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u98CE\u7CFB-\u666E\u653B3\u6BB5"
+  Guid:
+    Data1: -545519711
+    Data2: 1133857962
+    Data3: 485985181
+    Data4: -92644337
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1200
+--- !u!114 &5898617902684487746
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Grane/\u683C\u96F7\uFFFD\uFFFD\u6280\uFFFD\uFFFD\u6B66\u5668\u672F\u573A\u653B\u51FB"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Grane/\u683C\u96F7\uFFFD\uFFFD\u6280\uFFFD\uFFFD\u6B66\u5668\u672F\u573A\u653B\u51FB"
+  Guid:
+    Data1: -473757751
+    Data2: 1194771656
+    Data3: 1433535909
+    Data4: 728354242
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 2190
+--- !u!114 &5919604861398231722
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Character/Grane/Grane-attack-3
+  m_EditorClassIdentifier: 
+  Path: event:/Character/Grane/Grane-attack-3
+  Guid:
+    Data1: 1867400945
+    Data2: 1118646406
+    Data3: 558282114
+    Data4: 998906480
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 905
+--- !u!114 &6129135400699689570
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/UI/map/UI-\u5730\u56FE-\u8282\u70B9\u9009\u62E9"
+  m_EditorClassIdentifier: 
+  Path: "event:/UI/map/UI-\u5730\u56FE-\u8282\u70B9\u9009\u62E9"
+  Guid:
+    Data1: -1540181096
+    Data2: 1181770871
+    Data3: -733058376
+    Data4: -1112306563
+  Banks:
+  - {fileID: 2063027532728258528}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1200
+--- !u!114 &6143277106927951973
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/reaper/\u6B7B\u795E-\u6B7B\u795E\u964D\u4E34-\u91CA\u653E\u9AB7\u9AC5"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/reaper/\u6B7B\u795E-\u6B7B\u795E\u964D\u4E34-\u91CA\u653E\u9AB7\u9AC5"
+  Guid:
+    Data1: -356271583
+    Data2: 1328795101
+    Data3: 1197180317
+    Data4: 1444062617
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 3254
+--- !u!114 &6168375705642828554
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/reaper/\u6B7B\u795E-\u6B7B\u795E\u964D\u4E34"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/reaper/\u6B7B\u795E-\u6B7B\u795E\u964D\u4E34"
+  Guid:
+    Data1: -1972350528
+    Data2: 1210637743
+    Data3: -2085746787
+    Data4: -1651845158
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 7213
+--- !u!114 &6205195606270570267
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/\u602A\u7269-\u5C0F\u602A\u5237\u65B0"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/\u602A\u7269-\u5C0F\u602A\u5237\u65B0"
+  Guid:
+    Data1: 1965804765
+    Data2: 1287078278
+    Data3: -528171090
+    Data4: 533907878
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2100
+--- !u!114 &6256859451099756061
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/lord/\u9886\u4E3B-\u56DB\u8FDE\u51FB"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/lord/\u9886\u4E3B-\u56DB\u8FDE\u51FB"
+  Guid:
+    Data1: -966515638
+    Data2: 1226029052
+    Data3: 1775652539
+    Data4: -1386600718
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 6549
+--- !u!114 &6289324099025362601
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Environment & Object/\u7269\u4F53-\u8611\u83C7\u88AB\u8E29"
+  m_EditorClassIdentifier: 
+  Path: "event:/Environment & Object/\u7269\u4F53-\u8611\u83C7\u88AB\u8E29"
+  Guid:
+    Data1: -1727074681
+    Data2: 1135021887
+    Data3: 943999927
+    Data4: -1769136694
+  Banks:
+  - {fileID: -6029701677394458280}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 1400
+--- !u!114 &6391996535610555000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Environment & Object/\u73AF\u5883-\u5347\u7EA7\u623F\u95F4\u4EA4\u4E92"
+  m_EditorClassIdentifier: 
+  Path: "event:/Environment & Object/\u73AF\u5883-\u5347\u7EA7\u623F\u95F4\u4EA4\u4E92"
+  Guid:
+    Data1: -1655473111
+    Data2: 1287462268
+    Data3: 715380120
+    Data4: -1107041286
+  Banks:
+  - {fileID: -6029701677394458280}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 50500
+--- !u!114 &6450574434950477904
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Grane/\u708E\u7CFB/\u683C\u96F7\u6069-\u708E\u7CFB-\u666E\u653B1\u6BB5"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Grane/\u708E\u7CFB/\u683C\u96F7\u6069-\u708E\u7CFB-\u666E\u653B1\u6BB5"
+  Guid:
+    Data1: -824586455
+    Data2: 1205741550
+    Data3: -1348114528
+    Data4: -2103898253
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1219
+--- !u!114 &6453727819545548111
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/\u89D2\u8272-\u5BA0\u7269\u732E\u796D-\u590D\u6D3B"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/\u89D2\u8272-\u5BA0\u7269\u732E\u796D-\u590D\u6D3B"
+  Guid:
+    Data1: -1493900706
+    Data2: 1236077834
+    Data3: 117952663
+    Data4: -904351206
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 3614
+--- !u!114 &6975992600574404328
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Monster/boar/boar-underattack-attack
+  m_EditorClassIdentifier: 
+  Path: event:/Monster/boar/boar-underattack-attack
+  Guid:
+    Data1: -560356188
+    Data2: 1234786925
+    Data3: 2011954323
+    Data4: -1779676750
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 949
+--- !u!114 &7075586949081876091
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Character/Grane/Grane-swirl
+  m_EditorClassIdentifier: 
+  Path: event:/Character/Grane/Grane-swirl
+  Guid:
+    Data1: -76865089
+    Data2: 1208536371
+    Data3: 741676698
+    Data4: 1771576085
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 6799
+--- !u!114 &7091124012176678025
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/boss Grane/\u602A\u7269-\u683C\u96F7\uFFFD\uFFFD\u51B2\u523A\u653B\u51FB"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/boss Grane/\u602A\u7269-\u683C\u96F7\uFFFD\uFFFD\u51B2\u523A\u653B\u51FB"
+  Guid:
+    Data1: -2068400115
+    Data2: 1305409180
+    Data3: 1037198218
+    Data4: -946283459
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 2114
+--- !u!114 &7211714878798719463
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Character/Grane/Grane-smash
+  m_EditorClassIdentifier: 
+  Path: event:/Character/Grane/Grane-smash
+  Guid:
+    Data1: 1096090536
+    Data2: 1276061312
+    Data3: 2036884914
+    Data4: -1333429769
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 1874
+--- !u!114 &7334469443216403256
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u666E\u653B1\u6BB5"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u666E\u653B1\u6BB5"
+  Guid:
+    Data1: 430842766
+    Data2: 1329673181
+    Data3: -706354772
+    Data4: 1401755373
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 354
+--- !u!114 &7510706866945565914
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u53D8\u8EAB-\u6280\u80FD"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u53D8\u8EAB-\u6280\u80FD"
+  Guid:
+    Data1: -1251263248
+    Data2: 1145952051
+    Data3: -1739730796
+    Data4: -110398802
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2142
+--- !u!114 &7544446907148599809
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Monster/boar/boar-attack
+  m_EditorClassIdentifier: 
+  Path: event:/Monster/boar/boar-attack
+  Guid:
+    Data1: -74131576
+    Data2: 1159591326
+    Data3: -1008457800
+    Data4: 1425194718
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 1954
+--- !u!114 &7559607858763890070
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/boss Grane/\u602A\u7269-\u683C\u96F7\uFFFD\uFFFD\u540E\u8DF3"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/boss Grane/\u602A\u7269-\u683C\u96F7\uFFFD\uFFFD\u540E\u8DF3"
+  Guid:
+    Data1: 260548818
+    Data2: 1276253882
+    Data3: 1766200749
+    Data4: 1780646984
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 926
+--- !u!114 &7578619471927313097
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/\u89D2\u8272-\u5BA0\u7269\u732E\u796D-\u732B\u53EB"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/\u89D2\u8272-\u5BA0\u7269\u732E\u796D-\u732B\u53EB"
+  Guid:
+    Data1: 1119451098
+    Data2: 1132686450
+    Data3: -2023206721
+    Data4: 309148920
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 4983
+--- !u!114 &7606875670898442759
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Character/Grane/Grane-leap-attack
+  m_EditorClassIdentifier: 
+  Path: event:/Character/Grane/Grane-leap-attack
+  Guid:
+    Data1: -417042004
+    Data2: 1248735424
+    Data3: 2103991223
+    Data4: 1475854713
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 1999
+--- !u!114 &7620000286382655285
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environment & Object/object-magic circle
+  m_EditorClassIdentifier: 
+  Path: event:/Environment & Object/object-magic circle
+  Guid:
+    Data1: -622795538
+    Data2: 1161986139
+    Data3: 1446586536
+    Data4: 1269099731
+  Banks:
+  - {fileID: -6029701677394458280}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 95250
+--- !u!114 &7729873208576003236
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Grane/\u683C\u96F7\u6069-\u53D8\u8EAB-\u6280\u80FD"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Grane/\u683C\u96F7\u6069-\u53D8\u8EAB-\u6280\u80FD"
+  Guid:
+    Data1: -123593761
+    Data2: 1132553249
+    Data3: 1411207838
+    Data4: 1189757180
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1487
+--- !u!114 &7786235965872742157
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: Banks/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 637840996934044869
+  FileSizes:
+  - Name: Desktop
+    Value: 8296
+  Exists: 1
+--- !u!114 &7855813394974639818
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/mushroom snake shogun/\u602A\u7269-\u8611\u83C7\u86C7\u5C06\u519B-\u6BD2\u6DB2\u6EE9"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/mushroom snake shogun/\u602A\u7269-\u8611\u83C7\u86C7\u5C06\u519B-\u6BD2\u6DB2\u6EE9"
+  Guid:
+    Data1: -487962777
+    Data2: 1217941532
+    Data3: -1893713531
+    Data4: 351745548
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 22869
+--- !u!114 &7914591492784512860
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Environment & Object/\u7269\u4F53-\u8349\u88AB\u780D\u6389"
+  m_EditorClassIdentifier: 
+  Path: "event:/Environment & Object/\u7269\u4F53-\u8349\u88AB\u780D\u6389"
+  Guid:
+    Data1: -1262139361
+    Data2: 1193603116
+    Data3: -660456518
+    Data4: 799727387
+  Banks:
+  - {fileID: -6029701677394458280}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 730
+--- !u!114 &7938614955742649612
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Grane/\u683C\u96F7\u6069-\u53D8\u8EAB-\u666E\u653B2\u6BB5"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Grane/\u683C\u96F7\u6069-\u53D8\u8EAB-\u666E\u653B2\u6BB5"
+  Guid:
+    Data1: -1741815848
+    Data2: 1324708976
+    Data3: 1949426850
+    Data4: -1653428379
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 440
+--- !u!114 &8225564900014922676
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/shadow wolf/\u602A\u7269-\u6697\u5F71\uFFFD\uFFFD\u731B\u6251"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/shadow wolf/\u602A\u7269-\u6697\u5F71\uFFFD\uFFFD\u731B\u6251"
+  Guid:
+    Data1: -1908383218
+    Data2: 1079828229
+    Data3: 1271847299
+    Data4: 1909784663
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 1973
+--- !u!114 &8237800471684578153
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Monster/boar/boar-dead
+  m_EditorClassIdentifier: 
+  Path: event:/Monster/boar/boar-dead
+  Guid:
+    Data1: -47707540
+    Data2: 1184307871
+    Data3: -1205606210
+    Data4: -678491162
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 1673
+--- !u!114 &8263514118646811084
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u708E\xB7\u6280\u80FD"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u708E\xB7\u6280\u80FD"
+  Guid:
+    Data1: 1667366646
+    Data2: 1283377463
+    Data3: 1924956847
+    Data4: 1382990576
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1620
+--- !u!114 &8274375056531414301
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/mushroom snake shogun/\u602A\u7269-\u8611\u83C7\u86C7\u5C06\uFFFD\uFFFD\u6BD2\u6DB2\u55B7\u5410"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/mushroom snake shogun/\u602A\u7269-\u8611\u83C7\u86C7\u5C06\uFFFD\uFFFD\u6BD2\u6DB2\u55B7\u5410"
+  Guid:
+    Data1: 1471592731
+    Data2: 1170648326
+    Data3: 2143010733
+    Data4: 1360576016
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 2689
+--- !u!114 &8472397913984665990
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/UI/main menu/UI-\u4E3B\u754C\uFFFD\uFFFD\u6309\u94AE\u70B9\u51FB"
+  m_EditorClassIdentifier: 
+  Path: "event:/UI/main menu/UI-\u4E3B\u754C\uFFFD\uFFFD\u6309\u94AE\u70B9\u51FB"
+  Guid:
+    Data1: 1177663925
+    Data2: 1173799046
+    Data3: -1156687480
+    Data4: 1890975968
+  Banks:
+  - {fileID: 2063027532728258528}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1110
+--- !u!114 &8574910737684528044
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Grane/\u708E\u7CFB/\u683C\u96F7\uFFFD\uFFFD\u53D7\u51FB-\u708E\u7CFB\u666E\u653B"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Grane/\u708E\u7CFB/\u683C\u96F7\uFFFD\uFFFD\u53D7\u51FB-\u708E\u7CFB\u666E\u653B"
+  Guid:
+    Data1: -1310546175
+    Data2: 1307267806
+    Data3: 1384718497
+    Data4: -964148373
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 903
+--- !u!114 &8736435537456112818
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: Banks/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 637840996933763894
+  FileSizes:
+  - Name: Desktop
+    Value: 11688
+  Exists: 1
+--- !u!114 &8770720423502232441
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Monster/frog/frog-underattack-attack
+  m_EditorClassIdentifier: 
+  Path: event:/Monster/frog/frog-underattack-attack
+  Guid:
+    Data1: -609361382
+    Data2: 1305261716
+    Data3: 1901129626
+    Data4: -1050744364
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 618
+--- !u!114 &8801068802041138382
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u53D8\u8EAB-\u653B\u51FB3\u6BB5"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u53D8\u8EAB-\u653B\u51FB3\u6BB5"
+  Guid:
+    Data1: -757553483
+    Data2: 1190018031
+    Data3: 962736828
+    Data4: 895159975
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1340
+--- !u!114 &8824603529095806452
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Character/Grane/Grane-raise-sword
+  m_EditorClassIdentifier: 
+  Path: event:/Character/Grane/Grane-raise-sword
+  Guid:
+    Data1: 1901364291
+    Data2: 1149315534
+    Data3: 130884026
+    Data4: -164300482
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 1178
+--- !u!114 &8852739700923932245
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u98CE\u7CFB-\u666E\u653B2\u6BB5"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u98CE\u7CFB-\u666E\u653B2\u6BB5"
+  Guid:
+    Data1: 1206831775
+    Data2: 1211061545
+    Data3: -832518779
+    Data4: -760895782
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1769
+--- !u!114 &8875056517861830721
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u98CE\u7CFB-\u98CE\u5203-\u4F24\u5BB3"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u98CE\u7CFB-\u98CE\u5203-\u4F24\u5BB3"
+  Guid:
+    Data1: 609948298
+    Data2: 1215831689
+    Data3: -1190266984
+    Data4: 1454045160
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 1695
+--- !u!114 &8934989899263158729
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Monster/little green/\u602A\u7269-\u5C0F\u7EFF-\u53D1\u73B0\u654C\u4EBA"
+  m_EditorClassIdentifier: 
+  Path: "event:/Monster/little green/\u602A\u7269-\u5C0F\u7EFF-\u53D1\u73B0\u654C\u4EBA"
+  Guid:
+    Data1: 628249761
+    Data2: 1305740497
+    Data3: -1836365126
+    Data4: 1413054881
+  Banks:
+  - {fileID: -2086739110680178569}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 1435
+--- !u!114 &8946761763248137652
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u53D8\u8EAB-\u51B2\u523A"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u53D8\u8EAB-\u51B2\u523A"
+  Guid:
+    Data1: 831263796
+    Data2: 1134908013
+    Data3: 1807820719
+    Data4: 311660710
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 1500
+--- !u!114 &9039317230801159526
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Casey/\u51EF\u831C-\u708E\xB7\u666E\u653B1\u6BB5"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Casey/\u51EF\u831C-\u708E\xB7\u666E\u653B1\u6BB5"
+  Guid:
+    Data1: -756871164
+    Data2: 1204989832
+    Data3: 1727099575
+    Data4: 1687268079
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1052
+--- !u!114 &9051531474456706975
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Grane/\u683C\u96F7\uFFFD\uFFFD\u53D8\u8EAB-\u811A\u6B65"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Grane/\u683C\u96F7\uFFFD\uFFFD\u53D8\u8EAB-\u811A\u6B65"
+  Guid:
+    Data1: 270378410
+    Data2: 1166480665
+    Data3: 1124844688
+    Data4: -1585218145
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 5
+  MaxDistance: 25
+  Length: 570
+--- !u!114 &9101213724505386005
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Character/Grane/\u96F7\u7CFB/\u683C\u96F7\u6069-\u96F7\u7CFB-\u666E\u653B1\u6BB5"
+  m_EditorClassIdentifier: 
+  Path: "event:/Character/Grane/\u96F7\u7CFB/\u683C\u96F7\u6069-\u96F7\u7CFB-\u666E\u653B1\u6BB5"
+  Guid:
+    Data1: 1275203998
+    Data2: 1239703404
+    Data3: -89609834
+    Data4: -1321927083
+  Banks:
+  - {fileID: 3599026335026385508}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1208
+--- !u!114 &9209558340798397667
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/UI/UI-\u5546\u5E97\u8D2D\u4E70\u7269\u54C1"
+  m_EditorClassIdentifier: 
+  Path: "event:/UI/UI-\u5546\u5E97\u8D2D\u4E70\u7269\u54C1"
+  Guid:
+    Data1: -544925144
+    Data2: 1155009631
+    Data3: -389664883
+    Data4: -1619350770
+  Banks:
+  - {fileID: 2063027532728258528}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 557

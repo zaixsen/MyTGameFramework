@@ -1,0 +1,194 @@
+[
+  {
+    "ID": 2001,
+    "Description": "",
+    "Name": "蛤蟆怪",
+    "GoldMin": 0,
+    "GoldMax": 20,
+    "BeastEnergy": 8
+  },
+  {
+    "ID": 2101,
+    "Description": "",
+    "Name": "蛤蟆怪-护盾",
+    "GoldMin": 10,
+    "GoldMax": 30,
+    "BeastEnergy": 16
+  },
+  {
+    "ID": 2002,
+    "Description": "",
+    "Name": "豪猪怪",
+    "GoldMin": 0,
+    "GoldMax": 20,
+    "BeastEnergy": 8
+  },
+  {
+    "ID": 2102,
+    "Description": "",
+    "Name": "豪猪怪-护盾",
+    "GoldMin": 10,
+    "GoldMax": 30,
+    "BeastEnergy": 16
+  },
+  {
+    "ID": 2003,
+    "Description": "",
+    "Name": "白银蛤蟆",
+    "GoldMin": 15,
+    "GoldMax": 30,
+    "BeastEnergy": 18
+  },
+  {
+    "ID": 2103,
+    "Description": "",
+    "Name": "白银蛤蟆-护盾",
+    "GoldMin": 25,
+    "GoldMax": 40,
+    "BeastEnergy": 25
+  },
+  {
+    "ID": 2004,
+    "Description": "",
+    "Name": "白银豪猪",
+    "GoldMin": 15,
+    "GoldMax": 30,
+    "BeastEnergy": 18
+  },
+  {
+    "ID": 2104,
+    "Description": "",
+    "Name": "白银豪猪-护盾",
+    "GoldMin": 25,
+    "GoldMax": 40,
+    "BeastEnergy": 25
+  },
+  {
+    "ID": 2005,
+    "Description": "",
+    "Name": "黄金蛤蟆",
+    "GoldMin": 40,
+    "GoldMax": 80,
+    "BeastEnergy": 48
+  },
+  {
+    "ID": 2105,
+    "Description": "",
+    "Name": "黄金蛤蟆-护盾",
+    "GoldMin": 70,
+    "GoldMax": 100,
+    "BeastEnergy": 65
+  },
+  {
+    "ID": 2006,
+    "Description": "",
+    "Name": "黄金豪猪",
+    "GoldMin": 40,
+    "GoldMax": 80,
+    "BeastEnergy": 48
+  },
+  {
+    "ID": 2106,
+    "Description": "",
+    "Name": "黄金豪猪-护盾",
+    "GoldMin": 70,
+    "GoldMax": 100,
+    "BeastEnergy": 65
+  },
+  {
+    "ID": 2007,
+    "Description": "",
+    "Name": "豺狼长矛手",
+    "GoldMin": 25,
+    "GoldMax": 35,
+    "BeastEnergy": 24
+  },
+  {
+    "ID": 2107,
+    "Description": "",
+    "Name": "豺狼长矛手-护盾",
+    "GoldMin": 40,
+    "GoldMax": 70,
+    "BeastEnergy": 44
+  },
+  {
+    "ID": 2008,
+    "Description": "",
+    "Name": "蘑菇蛇",
+    "GoldMin": 0,
+    "GoldMax": 10,
+    "BeastEnergy": 4
+  },
+  {
+    "ID": 2009,
+    "Description": "",
+    "Name": "蘑菇巨蛇",
+    "GoldMin": 20,
+    "GoldMax": 35,
+    "BeastEnergy": 22
+  },
+  {
+    "ID": 2109,
+    "Description": "",
+    "Name": "蘑菇巨蛇-护盾",
+    "GoldMin": 35,
+    "GoldMax": 55,
+    "BeastEnergy": 36
+  },
+  {
+    "ID": 2010,
+    "Description": "",
+    "Name": "蘑菇小绿",
+    "GoldMin": 2,
+    "GoldMax": 6,
+    "BeastEnergy": 3
+  },
+  {
+    "ID": 2011,
+    "Description": "",
+    "Name": "蘑菇小紫",
+    "GoldMin": 0,
+    "GoldMax": 0,
+    "BeastEnergy": 0
+  },
+  {
+    "ID": 2012,
+    "Description": "",
+    "Name": "暗影狼",
+    "GoldMin": 0,
+    "GoldMax": 0,
+    "BeastEnergy": 0
+  },
+  {
+    "ID": 3001,
+    "Description": "",
+    "Name": "领主",
+    "GoldMin": 150,
+    "GoldMax": 200,
+    "BeastEnergy": 140
+  },
+  {
+    "ID": 3002,
+    "Description": "",
+    "Name": "蘑菇蛇将军",
+    "GoldMin": 180,
+    "GoldMax": 250,
+    "BeastEnergy": 172
+  },
+  {
+    "ID": 4001,
+    "Description": "",
+    "Name": "狼王-格雷恩",
+    "GoldMin": 0,
+    "GoldMax": 0,
+    "BeastEnergy": 0
+  },
+  {
+    "ID": 5001,
+    "Description": "",
+    "Name": "木桩-蛤蟆",
+    "GoldMin": 0,
+    "GoldMax": 0,
+    "BeastEnergy": 0
+  }
+]

@@ -1,0 +1,5286 @@
+[
+  {
+    "ID": 10011001,
+    "Description": "blessing_10011000_desc",
+    "Name": "blessing_10011000_name",
+    "BlessingID": 10011000,
+    "Type": 0,
+    "Quality": 0,
+    "Class": 1,
+    "Icon": 51011000,
+    "Group": 1101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1001,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "1",
+          "10011101"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      51010004
+    ]
+  },
+  {
+    "ID": 10011002,
+    "Description": "blessing_10011000_desc",
+    "Name": "blessing_10011000_name",
+    "BlessingID": 10011000,
+    "Type": 0,
+    "Quality": 1,
+    "Class": 1,
+    "Icon": 51011000,
+    "Group": 1101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1001,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "1",
+          "10011111"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      51010004
+    ]
+  },
+  {
+    "ID": 10011003,
+    "Description": "blessing_10011000_desc",
+    "Name": "blessing_10011000_name",
+    "BlessingID": 10011000,
+    "Type": 0,
+    "Quality": 2,
+    "Class": 1,
+    "Icon": 51011000,
+    "Group": 1101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1001,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "1",
+          "10011121"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      51010004
+    ]
+  },
+  {
+    "ID": 10012001,
+    "Description": "blessing_10012000_desc",
+    "Name": "blessing_10012000_name",
+    "BlessingID": 10012000,
+    "Type": 1,
+    "Quality": 0,
+    "Class": 1,
+    "Icon": 51012000,
+    "Group": 1101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1001,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "2",
+          "10012101"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      51010004
+    ]
+  },
+  {
+    "ID": 10012002,
+    "Description": "blessing_10012000_desc",
+    "Name": "blessing_10012000_name",
+    "BlessingID": 10012000,
+    "Type": 1,
+    "Quality": 1,
+    "Class": 1,
+    "Icon": 51012000,
+    "Group": 1101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1001,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "2",
+          "10012111"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      51010004
+    ]
+  },
+  {
+    "ID": 10012003,
+    "Description": "blessing_10012000_desc",
+    "Name": "blessing_10012000_name",
+    "BlessingID": 10012000,
+    "Type": 1,
+    "Quality": 2,
+    "Class": 1,
+    "Icon": 51012000,
+    "Group": 1101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1001,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "2",
+          "10012121"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      51010004
+    ]
+  },
+  {
+    "ID": 10013001,
+    "Description": "blessing_10013000_desc",
+    "Name": "blessing_10013000_name",
+    "BlessingID": 10013000,
+    "Type": 2,
+    "Quality": 0,
+    "Class": 1,
+    "Icon": 51013000,
+    "Group": 1101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1001,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "4",
+          "10013101"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      51010004
+    ]
+  },
+  {
+    "ID": 10013002,
+    "Description": "blessing_10013000_desc",
+    "Name": "blessing_10013000_name",
+    "BlessingID": 10013000,
+    "Type": 2,
+    "Quality": 1,
+    "Class": 1,
+    "Icon": 51013000,
+    "Group": 1101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1001,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "4",
+          "10013111"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      51010004
+    ]
+  },
+  {
+    "ID": 10013003,
+    "Description": "blessing_10013000_desc",
+    "Name": "blessing_10013000_name",
+    "BlessingID": 10013000,
+    "Type": 2,
+    "Quality": 2,
+    "Class": 1,
+    "Icon": 51013000,
+    "Group": 1101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1001,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "4",
+          "10013121"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      51010004
+    ]
+  },
+  {
+    "ID": 11011001,
+    "Description": "blessing_10011000_desc",
+    "Name": "blessing_10011000_name",
+    "BlessingID": 10011000,
+    "Type": 0,
+    "Quality": 0,
+    "Class": 1,
+    "Icon": 51011001,
+    "Group": 1101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1002,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "1",
+          "10021101"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      51010004
+    ]
+  },
+  {
+    "ID": 11011002,
+    "Description": "blessing_10011000_desc",
+    "Name": "blessing_10011000_name",
+    "BlessingID": 10011000,
+    "Type": 0,
+    "Quality": 1,
+    "Class": 1,
+    "Icon": 51011001,
+    "Group": 1101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1002,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "1",
+          "10021111"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      51010004
+    ]
+  },
+  {
+    "ID": 11011003,
+    "Description": "blessing_10011000_desc",
+    "Name": "blessing_10011000_name",
+    "BlessingID": 10011000,
+    "Type": 0,
+    "Quality": 2,
+    "Class": 1,
+    "Icon": 51011001,
+    "Group": 1101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1002,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "1",
+          "10021121"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      51010004
+    ]
+  },
+  {
+    "ID": 11012001,
+    "Description": "blessing_10012000_desc",
+    "Name": "blessing_10012000_name",
+    "BlessingID": 10012000,
+    "Type": 1,
+    "Quality": 0,
+    "Class": 1,
+    "Icon": 51012001,
+    "Group": 1101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1002,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "2",
+          "10022101"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      51010004
+    ]
+  },
+  {
+    "ID": 11012002,
+    "Description": "blessing_10012000_desc",
+    "Name": "blessing_10012000_name",
+    "BlessingID": 10012000,
+    "Type": 1,
+    "Quality": 1,
+    "Class": 1,
+    "Icon": 51012001,
+    "Group": 1101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1002,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "2",
+          "10022111"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      51010004
+    ]
+  },
+  {
+    "ID": 11012003,
+    "Description": "blessing_10012000_desc",
+    "Name": "blessing_10012000_name",
+    "BlessingID": 10012000,
+    "Type": 1,
+    "Quality": 2,
+    "Class": 1,
+    "Icon": 51012001,
+    "Group": 1101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1002,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "2",
+          "10022121"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      51010004
+    ]
+  },
+  {
+    "ID": 11013001,
+    "Description": "blessing_10013000_desc",
+    "Name": "blessing_10013000_name",
+    "BlessingID": 10013000,
+    "Type": 2,
+    "Quality": 0,
+    "Class": 1,
+    "Icon": 51013001,
+    "Group": 1101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1002,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "4",
+          "10023101"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      51010004
+    ]
+  },
+  {
+    "ID": 11013002,
+    "Description": "blessing_10013000_desc",
+    "Name": "blessing_10013000_name",
+    "BlessingID": 10013000,
+    "Type": 2,
+    "Quality": 1,
+    "Class": 1,
+    "Icon": 51013001,
+    "Group": 1101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1002,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "4",
+          "10023111"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      51010004
+    ]
+  },
+  {
+    "ID": 11013003,
+    "Description": "blessing_10013000_desc",
+    "Name": "blessing_10013000_name",
+    "BlessingID": 10013000,
+    "Type": 2,
+    "Quality": 2,
+    "Class": 1,
+    "Icon": 51013001,
+    "Group": 1101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1002,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "4",
+          "10023121"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      51010004
+    ]
+  },
+  {
+    "ID": 10021002,
+    "Description": "blessing_10021000_desc",
+    "Name": "blessing_10021000_name",
+    "BlessingID": 10021000,
+    "Type": 4,
+    "Quality": 1,
+    "Class": 1,
+    "Icon": 51021000,
+    "Group": 1201,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [
+        10012000
+      ],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            1101
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 1,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "51021002"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      51010001,
+      51010002
+    ]
+  },
+  {
+    "ID": 10022002,
+    "Description": "blessing_10022000_desc",
+    "Name": "blessing_10022000_name",
+    "BlessingID": 10022000,
+    "Type": 4,
+    "Quality": 1,
+    "Class": 1,
+    "Icon": 51022000,
+    "Group": 1201,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [
+        10013000
+      ],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            1101
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "51022002"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      51010003,
+      51010001,
+      51010002
+    ]
+  },
+  {
+    "ID": 10022003,
+    "Description": "blessing_10022000_desc",
+    "Name": "blessing_10022000_name",
+    "BlessingID": 10022000,
+    "Type": 4,
+    "Quality": 2,
+    "Class": 1,
+    "Icon": 51022000,
+    "Group": 1201,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [
+        10013000
+      ],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            1101
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "51022003"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      51010003,
+      51010001,
+      51010002
+    ]
+  },
+  {
+    "ID": 10022004,
+    "Description": "blessing_10022000_desc",
+    "Name": "blessing_10022000_name",
+    "BlessingID": 10022000,
+    "Type": 4,
+    "Quality": 3,
+    "Class": 1,
+    "Icon": 51022000,
+    "Group": 1201,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [
+        10013000
+      ],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            1101
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "51022004"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      51010003,
+      51010001,
+      51010002
+    ]
+  },
+  {
+    "ID": 10023001,
+    "Description": "blessing_10023000_desc",
+    "Name": "blessing_10023000_name",
+    "BlessingID": 10023000,
+    "Type": 4,
+    "Quality": 0,
+    "Class": 1,
+    "Icon": 51023000,
+    "Group": 1202,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            1101
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "51023001"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": []
+  },
+  {
+    "ID": 10023002,
+    "Description": "blessing_10023000_desc",
+    "Name": "blessing_10023000_name",
+    "BlessingID": 10023000,
+    "Type": 4,
+    "Quality": 1,
+    "Class": 1,
+    "Icon": 51023000,
+    "Group": 1202,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            1101
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "51023002"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": []
+  },
+  {
+    "ID": 10023003,
+    "Description": "blessing_10023000_desc",
+    "Name": "blessing_10023000_name",
+    "BlessingID": 10023000,
+    "Type": 4,
+    "Quality": 2,
+    "Class": 1,
+    "Icon": 51023000,
+    "Group": 1202,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            1101
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "51023003"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": []
+  },
+  {
+    "ID": 10023004,
+    "Description": "blessing_10023000_desc",
+    "Name": "blessing_10023000_name",
+    "BlessingID": 10023000,
+    "Type": 4,
+    "Quality": 3,
+    "Class": 1,
+    "Icon": 51023000,
+    "Group": 1202,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            1101
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "51023004"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": []
+  },
+  {
+    "ID": 10024002,
+    "Description": "blessing_10024000_desc",
+    "Name": "blessing_10024000_name",
+    "BlessingID": 10024000,
+    "Type": 4,
+    "Quality": 1,
+    "Class": 1,
+    "Icon": 51024000,
+    "Group": 1203,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            1101
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "51024002"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      51010004
+    ]
+  },
+  {
+    "ID": 10024003,
+    "Description": "blessing_10024000_desc",
+    "Name": "blessing_10024000_name",
+    "BlessingID": 10024000,
+    "Type": 4,
+    "Quality": 2,
+    "Class": 1,
+    "Icon": 51024000,
+    "Group": 1203,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            1101
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "51024003"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      51010004
+    ]
+  },
+  {
+    "ID": 10024004,
+    "Description": "blessing_10024000_desc",
+    "Name": "blessing_10024000_name",
+    "BlessingID": 10024000,
+    "Type": 4,
+    "Quality": 3,
+    "Class": 1,
+    "Icon": 51024000,
+    "Group": 1203,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            1101
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "51024004"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      51010004
+    ]
+  },
+  {
+    "ID": 10025003,
+    "Description": "blessing_10025000_desc",
+    "Name": "blessing_10025000_name",
+    "BlessingID": 10025000,
+    "Type": 4,
+    "Quality": 2,
+    "Class": 1,
+    "Icon": 51025000,
+    "Group": 1203,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            1101
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "51025003"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      51010004
+    ]
+  },
+  {
+    "ID": 10032002,
+    "Description": "blessing_10032000_desc",
+    "Name": "blessing_10032000_name",
+    "BlessingID": 10032000,
+    "Type": 4,
+    "Quality": 1,
+    "Class": 1,
+    "Icon": 51032000,
+    "Group": 1301,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            1201
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "51032002"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      51010002
+    ]
+  },
+  {
+    "ID": 10032003,
+    "Description": "blessing_10032000_desc",
+    "Name": "blessing_10032000_name",
+    "BlessingID": 10032000,
+    "Type": 4,
+    "Quality": 2,
+    "Class": 1,
+    "Icon": 51032000,
+    "Group": 1301,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            1201
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "51032003"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      51010002
+    ]
+  },
+  {
+    "ID": 10032004,
+    "Description": "blessing_10032000_desc",
+    "Name": "blessing_10032000_name",
+    "BlessingID": 10032000,
+    "Type": 4,
+    "Quality": 3,
+    "Class": 1,
+    "Icon": 51032000,
+    "Group": 1301,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            1201
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "51032004"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      51010002
+    ]
+  },
+  {
+    "ID": 10033003,
+    "Description": "blessing_10033000_desc",
+    "Name": "blessing_10033000_name",
+    "BlessingID": 10033000,
+    "Type": 4,
+    "Quality": 2,
+    "Class": 1,
+    "Icon": 51033000,
+    "Group": 1301,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            1201
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "51033003"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      51010002
+    ]
+  },
+  {
+    "ID": 10034002,
+    "Description": "blessing_10034000_desc",
+    "Name": "blessing_10034000_name",
+    "BlessingID": 10034000,
+    "Type": 4,
+    "Quality": 1,
+    "Class": 1,
+    "Icon": 51034000,
+    "Group": 1302,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            1203
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "51034002"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      51010004
+    ]
+  },
+  {
+    "ID": 10034003,
+    "Description": "blessing_10034000_desc",
+    "Name": "blessing_10034000_name",
+    "BlessingID": 10034000,
+    "Type": 4,
+    "Quality": 2,
+    "Class": 1,
+    "Icon": 51034000,
+    "Group": 1302,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            1203
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "51034003"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      51010004
+    ]
+  },
+  {
+    "ID": 10034004,
+    "Description": "blessing_10034000_desc",
+    "Name": "blessing_10034000_name",
+    "BlessingID": 10034000,
+    "Type": 4,
+    "Quality": 3,
+    "Class": 1,
+    "Icon": 51034000,
+    "Group": 1302,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            1203
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "51034004"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      51010004
+    ]
+  },
+  {
+    "ID": 10041003,
+    "Description": "blessing_10041000_desc",
+    "Name": "blessing_10041000_name",
+    "BlessingID": 10041000,
+    "Type": 4,
+    "Quality": 2,
+    "Class": 1,
+    "Icon": 51041000,
+    "Group": 1401,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            1301
+          ],
+          "Count": 2
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "51041003"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      51010002,
+      51010004
+    ]
+  },
+  {
+    "ID": 10041004,
+    "Description": "blessing_10041000_desc",
+    "Name": "blessing_10041000_name",
+    "BlessingID": 10041000,
+    "Type": 4,
+    "Quality": 3,
+    "Class": 1,
+    "Icon": 51041000,
+    "Group": 1401,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            1301
+          ],
+          "Count": 2
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "51041004"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      51010002,
+      51010004
+    ]
+  },
+  {
+    "ID": 10042003,
+    "Description": "blessing_10042000_desc",
+    "Name": "blessing_10042000_name",
+    "BlessingID": 10042000,
+    "Type": 4,
+    "Quality": 2,
+    "Class": 1,
+    "Icon": 51042000,
+    "Group": 1401,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            1301
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [
+            1302
+          ],
+          "Count": 1
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "51042003"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": []
+  },
+  {
+    "ID": 10042004,
+    "Description": "blessing_10042000_desc",
+    "Name": "blessing_10042000_name",
+    "BlessingID": 10042000,
+    "Type": 4,
+    "Quality": 3,
+    "Class": 1,
+    "Icon": 51042000,
+    "Group": 1401,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            1301
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [
+            1302
+          ],
+          "Count": 1
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "51042004"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": []
+  },
+  {
+    "ID": 20011001,
+    "Description": "blessing_20011000_desc",
+    "Name": "blessing_20011000_name",
+    "BlessingID": 20011000,
+    "Type": 0,
+    "Quality": 0,
+    "Class": 2,
+    "Icon": 52011000,
+    "Group": 2101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1001,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "1",
+          "10011201"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": []
+  },
+  {
+    "ID": 20011002,
+    "Description": "blessing_20011000_desc",
+    "Name": "blessing_20011000_name",
+    "BlessingID": 20011000,
+    "Type": 0,
+    "Quality": 1,
+    "Class": 2,
+    "Icon": 52011000,
+    "Group": 2101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1001,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "1",
+          "10011211"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": []
+  },
+  {
+    "ID": 20011003,
+    "Description": "blessing_20011000_desc",
+    "Name": "blessing_20011000_name",
+    "BlessingID": 20011000,
+    "Type": 0,
+    "Quality": 2,
+    "Class": 2,
+    "Icon": 52011000,
+    "Group": 2101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1001,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "1",
+          "10011221"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": []
+  },
+  {
+    "ID": 20012001,
+    "Description": "blessing_20012000_desc",
+    "Name": "blessing_20012000_name",
+    "BlessingID": 20012000,
+    "Type": 1,
+    "Quality": 0,
+    "Class": 2,
+    "Icon": 52012000,
+    "Group": 2101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1001,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "2",
+          "10012201"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": []
+  },
+  {
+    "ID": 20012002,
+    "Description": "blessing_20012000_desc",
+    "Name": "blessing_20012000_name",
+    "BlessingID": 20012000,
+    "Type": 1,
+    "Quality": 1,
+    "Class": 2,
+    "Icon": 52012000,
+    "Group": 2101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1001,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "2",
+          "10012211"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": []
+  },
+  {
+    "ID": 20012003,
+    "Description": "blessing_20012000_desc",
+    "Name": "blessing_20012000_name",
+    "BlessingID": 20012000,
+    "Type": 1,
+    "Quality": 2,
+    "Class": 2,
+    "Icon": 52012000,
+    "Group": 2101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1001,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "2",
+          "10012221"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": []
+  },
+  {
+    "ID": 20013001,
+    "Description": "blessing_20013000_desc",
+    "Name": "blessing_20013000_name",
+    "BlessingID": 20013000,
+    "Type": 2,
+    "Quality": 0,
+    "Class": 2,
+    "Icon": 52013000,
+    "Group": 2101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1001,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "4",
+          "10013201"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": []
+  },
+  {
+    "ID": 20013002,
+    "Description": "blessing_20013000_desc",
+    "Name": "blessing_20013000_name",
+    "BlessingID": 20013000,
+    "Type": 2,
+    "Quality": 1,
+    "Class": 2,
+    "Icon": 52013000,
+    "Group": 2101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1001,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "4",
+          "10013211"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": []
+  },
+  {
+    "ID": 20013003,
+    "Description": "blessing_20013000_desc",
+    "Name": "blessing_20013000_name",
+    "BlessingID": 20013000,
+    "Type": 2,
+    "Quality": 2,
+    "Class": 2,
+    "Icon": 52013000,
+    "Group": 2101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1001,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "4",
+          "10013221"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": []
+  },
+  {
+    "ID": 21011001,
+    "Description": "blessing_20011000_desc",
+    "Name": "blessing_20011000_name",
+    "BlessingID": 20011000,
+    "Type": 0,
+    "Quality": 0,
+    "Class": 2,
+    "Icon": 52011001,
+    "Group": 2101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1002,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "1",
+          "10021201"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": []
+  },
+  {
+    "ID": 21011002,
+    "Description": "blessing_20011000_desc",
+    "Name": "blessing_20011000_name",
+    "BlessingID": 20011000,
+    "Type": 0,
+    "Quality": 1,
+    "Class": 2,
+    "Icon": 52011001,
+    "Group": 2101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1002,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "1",
+          "10021211"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": []
+  },
+  {
+    "ID": 21011003,
+    "Description": "blessing_20011000_desc",
+    "Name": "blessing_20011000_name",
+    "BlessingID": 20011000,
+    "Type": 0,
+    "Quality": 2,
+    "Class": 2,
+    "Icon": 52011001,
+    "Group": 2101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1002,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "1",
+          "10021221"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": []
+  },
+  {
+    "ID": 21012001,
+    "Description": "blessing_20012000_desc",
+    "Name": "blessing_20012000_name",
+    "BlessingID": 20012000,
+    "Type": 1,
+    "Quality": 0,
+    "Class": 2,
+    "Icon": 52012001,
+    "Group": 2101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1002,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "2",
+          "10022201"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": []
+  },
+  {
+    "ID": 21012002,
+    "Description": "blessing_20012000_desc",
+    "Name": "blessing_20012000_name",
+    "BlessingID": 20012000,
+    "Type": 1,
+    "Quality": 1,
+    "Class": 2,
+    "Icon": 52012001,
+    "Group": 2101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1002,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "2",
+          "10022211"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": []
+  },
+  {
+    "ID": 21012003,
+    "Description": "blessing_20012000_desc",
+    "Name": "blessing_20012000_name",
+    "BlessingID": 20012000,
+    "Type": 1,
+    "Quality": 2,
+    "Class": 2,
+    "Icon": 52012001,
+    "Group": 2101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1002,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "2",
+          "10022221"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": []
+  },
+  {
+    "ID": 21013001,
+    "Description": "blessing_20013000_desc",
+    "Name": "blessing_20013000_name",
+    "BlessingID": 20013000,
+    "Type": 2,
+    "Quality": 0,
+    "Class": 2,
+    "Icon": 52013001,
+    "Group": 2101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1002,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "4",
+          "10023201"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": []
+  },
+  {
+    "ID": 21013002,
+    "Description": "blessing_20013000_desc",
+    "Name": "blessing_20013000_name",
+    "BlessingID": 20013000,
+    "Type": 2,
+    "Quality": 1,
+    "Class": 2,
+    "Icon": 52013001,
+    "Group": 2101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1002,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "4",
+          "10023211"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": []
+  },
+  {
+    "ID": 21013003,
+    "Description": "blessing_20013000_desc",
+    "Name": "blessing_20013000_name",
+    "BlessingID": 20013000,
+    "Type": 2,
+    "Quality": 2,
+    "Class": 2,
+    "Icon": 52013001,
+    "Group": 2101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1002,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "4",
+          "10023221"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": []
+  },
+  {
+    "ID": 20021001,
+    "Description": "blessing_20021000_desc",
+    "Name": "blessing_20021000_name",
+    "BlessingID": 20021000,
+    "Type": 4,
+    "Quality": 0,
+    "Class": 2,
+    "Icon": 52021000,
+    "Group": 2201,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            2101
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 4,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "52021001"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      52010001,
+      52010002
+    ]
+  },
+  {
+    "ID": 20021002,
+    "Description": "blessing_20021000_desc",
+    "Name": "blessing_20021000_name",
+    "BlessingID": 20021000,
+    "Type": 4,
+    "Quality": 1,
+    "Class": 2,
+    "Icon": 52021000,
+    "Group": 2201,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            2101
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 4,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "52021002"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      52010001,
+      52010002
+    ]
+  },
+  {
+    "ID": 20021003,
+    "Description": "blessing_20021000_desc",
+    "Name": "blessing_20021000_name",
+    "BlessingID": 20021000,
+    "Type": 4,
+    "Quality": 2,
+    "Class": 2,
+    "Icon": 52021000,
+    "Group": 2201,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            2101
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 4,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "52021003"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      52010001,
+      52010002
+    ]
+  },
+  {
+    "ID": 20021004,
+    "Description": "blessing_20021000_desc",
+    "Name": "blessing_20021000_name",
+    "BlessingID": 20021000,
+    "Type": 4,
+    "Quality": 3,
+    "Class": 2,
+    "Icon": 52021000,
+    "Group": 2201,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            2101
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 4,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "52021004"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      52010001,
+      52010002
+    ]
+  },
+  {
+    "ID": 20022001,
+    "Description": "blessing_20022000_desc",
+    "Name": "blessing_20022000_name",
+    "BlessingID": 20022000,
+    "Type": 4,
+    "Quality": 0,
+    "Class": 2,
+    "Icon": 52022000,
+    "Group": 2202,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            2101
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 1,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "52022001"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      52010003
+    ]
+  },
+  {
+    "ID": 20022002,
+    "Description": "blessing_20022000_desc",
+    "Name": "blessing_20022000_name",
+    "BlessingID": 20022000,
+    "Type": 4,
+    "Quality": 1,
+    "Class": 2,
+    "Icon": 52022000,
+    "Group": 2202,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            2101
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 1,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "52022002"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      52010003
+    ]
+  },
+  {
+    "ID": 20022003,
+    "Description": "blessing_20022000_desc",
+    "Name": "blessing_20022000_name",
+    "BlessingID": 20022000,
+    "Type": 4,
+    "Quality": 2,
+    "Class": 2,
+    "Icon": 52022000,
+    "Group": 2202,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            2101
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 1,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "52022003"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      52010003
+    ]
+  },
+  {
+    "ID": 20022004,
+    "Description": "blessing_20022000_desc",
+    "Name": "blessing_20022000_name",
+    "BlessingID": 20022000,
+    "Type": 4,
+    "Quality": 3,
+    "Class": 2,
+    "Icon": 52022000,
+    "Group": 2202,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            2101
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 1,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "52022004"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      52010003
+    ]
+  },
+  {
+    "ID": 20023001,
+    "Description": "blessing_20023000_desc",
+    "Name": "blessing_20023000_name",
+    "BlessingID": 20023000,
+    "Type": 4,
+    "Quality": 0,
+    "Class": 2,
+    "Icon": 52023000,
+    "Group": 2203,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            2101
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "52023001"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": []
+  },
+  {
+    "ID": 20023002,
+    "Description": "blessing_20023000_desc",
+    "Name": "blessing_20023000_name",
+    "BlessingID": 20023000,
+    "Type": 4,
+    "Quality": 1,
+    "Class": 2,
+    "Icon": 52023000,
+    "Group": 2203,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            2101
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "52023002"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": []
+  },
+  {
+    "ID": 20023003,
+    "Description": "blessing_20023000_desc",
+    "Name": "blessing_20023000_name",
+    "BlessingID": 20023000,
+    "Type": 4,
+    "Quality": 2,
+    "Class": 2,
+    "Icon": 52023000,
+    "Group": 2203,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            2101
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "52023003"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": []
+  },
+  {
+    "ID": 20023004,
+    "Description": "blessing_20023000_desc",
+    "Name": "blessing_20023000_name",
+    "BlessingID": 20023000,
+    "Type": 4,
+    "Quality": 3,
+    "Class": 2,
+    "Icon": 52023000,
+    "Group": 2203,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            2101
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "52023004"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": []
+  },
+  {
+    "ID": 20024002,
+    "Description": "blessing_20024000_desc",
+    "Name": "blessing_20024000_name",
+    "BlessingID": 20024000,
+    "Type": 4,
+    "Quality": 1,
+    "Class": 2,
+    "Icon": 52024000,
+    "Group": 2203,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            2101
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "52024002"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": []
+  },
+  {
+    "ID": 20024003,
+    "Description": "blessing_20024000_desc",
+    "Name": "blessing_20024000_name",
+    "BlessingID": 20024000,
+    "Type": 4,
+    "Quality": 2,
+    "Class": 2,
+    "Icon": 52024000,
+    "Group": 2203,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            2101
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "52024003"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": []
+  },
+  {
+    "ID": 20031002,
+    "Description": "blessing_20031000_desc",
+    "Name": "blessing_20031000_name",
+    "BlessingID": 20031000,
+    "Type": 4,
+    "Quality": 1,
+    "Class": 2,
+    "Icon": 52031000,
+    "Group": 2301,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            2201
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 2,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "52031002"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      52010002
+    ]
+  },
+  {
+    "ID": 20031003,
+    "Description": "blessing_20031000_desc",
+    "Name": "blessing_20031000_name",
+    "BlessingID": 20031000,
+    "Type": 4,
+    "Quality": 2,
+    "Class": 2,
+    "Icon": 52031000,
+    "Group": 2301,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            2201
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 2,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "52031003"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      52010002
+    ]
+  },
+  {
+    "ID": 20031004,
+    "Description": "blessing_20031000_desc",
+    "Name": "blessing_20031000_name",
+    "BlessingID": 20031000,
+    "Type": 4,
+    "Quality": 3,
+    "Class": 2,
+    "Icon": 52031000,
+    "Group": 2301,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            2201
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 2,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "52031004"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      52010002
+    ]
+  },
+  {
+    "ID": 20032003,
+    "Description": "blessing_20032000_desc",
+    "Name": "blessing_20032000_name",
+    "BlessingID": 20032000,
+    "Type": 4,
+    "Quality": 2,
+    "Class": 2,
+    "Icon": 52032000,
+    "Group": 2301,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            2201
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "52032003"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      52010002
+    ]
+  },
+  {
+    "ID": 20033002,
+    "Description": "blessing_20033000_desc",
+    "Name": "blessing_20033000_name",
+    "BlessingID": 20033000,
+    "Type": 4,
+    "Quality": 1,
+    "Class": 2,
+    "Icon": 52033000,
+    "Group": 2302,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            2102
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "52033002"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      52010003
+    ]
+  },
+  {
+    "ID": 20033003,
+    "Description": "blessing_20033000_desc",
+    "Name": "blessing_20033000_name",
+    "BlessingID": 20033000,
+    "Type": 4,
+    "Quality": 2,
+    "Class": 2,
+    "Icon": 52033000,
+    "Group": 2302,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            2102
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "52033003"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      52010003
+    ]
+  },
+  {
+    "ID": 20033004,
+    "Description": "blessing_20033000_desc",
+    "Name": "blessing_20033000_name",
+    "BlessingID": 20033000,
+    "Type": 4,
+    "Quality": 3,
+    "Class": 2,
+    "Icon": 52033000,
+    "Group": 2302,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            2102
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "52033004"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      52010003
+    ]
+  },
+  {
+    "ID": 20041003,
+    "Description": "blessing_20041000_desc",
+    "Name": "blessing_20041000_name",
+    "BlessingID": 20041000,
+    "Type": 4,
+    "Quality": 2,
+    "Class": 2,
+    "Icon": 52041000,
+    "Group": 2401,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            2301
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [
+            2302
+          ],
+          "Count": 1
+        }
+      ]
+    },
+    "MaxLevel": 2,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "52041003"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      52010002
+    ]
+  },
+  {
+    "ID": 30011001,
+    "Description": "blessing_30011000_desc",
+    "Name": "blessing_30011000_name",
+    "BlessingID": 30011000,
+    "Type": 0,
+    "Quality": 0,
+    "Class": 3,
+    "Icon": 53011000,
+    "Group": 3101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1001,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "1",
+          "10011301"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      53010001
+    ]
+  },
+  {
+    "ID": 30011002,
+    "Description": "blessing_30011000_desc",
+    "Name": "blessing_30011000_name",
+    "BlessingID": 30011000,
+    "Type": 0,
+    "Quality": 1,
+    "Class": 3,
+    "Icon": 53011000,
+    "Group": 3101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1001,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "1",
+          "10011311"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      53010001
+    ]
+  },
+  {
+    "ID": 30011003,
+    "Description": "blessing_30011000_desc",
+    "Name": "blessing_30011000_name",
+    "BlessingID": 30011000,
+    "Type": 0,
+    "Quality": 2,
+    "Class": 3,
+    "Icon": 53011000,
+    "Group": 3101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1001,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "1",
+          "10011321"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      53010001
+    ]
+  },
+  {
+    "ID": 30012001,
+    "Description": "blessing_30012000_desc",
+    "Name": "blessing_30012000_name",
+    "BlessingID": 30012000,
+    "Type": 1,
+    "Quality": 0,
+    "Class": 3,
+    "Icon": 53012000,
+    "Group": 3101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1001,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "2",
+          "10012301"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      53010001
+    ]
+  },
+  {
+    "ID": 30012002,
+    "Description": "blessing_30012000_desc",
+    "Name": "blessing_30012000_name",
+    "BlessingID": 30012000,
+    "Type": 1,
+    "Quality": 1,
+    "Class": 3,
+    "Icon": 53012000,
+    "Group": 3101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1001,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "2",
+          "10012311"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      53010001
+    ]
+  },
+  {
+    "ID": 30012003,
+    "Description": "blessing_30012000_desc",
+    "Name": "blessing_30012000_name",
+    "BlessingID": 30012000,
+    "Type": 1,
+    "Quality": 2,
+    "Class": 3,
+    "Icon": 53012000,
+    "Group": 3101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1001,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "2",
+          "10012321"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      53010001
+    ]
+  },
+  {
+    "ID": 30013001,
+    "Description": "blessing_30013000_desc",
+    "Name": "blessing_30013000_name",
+    "BlessingID": 30013000,
+    "Type": 2,
+    "Quality": 0,
+    "Class": 3,
+    "Icon": 53013000,
+    "Group": 3101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1001,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "4",
+          "10013301"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      53010001
+    ]
+  },
+  {
+    "ID": 30013002,
+    "Description": "blessing_30013000_desc",
+    "Name": "blessing_30013000_name",
+    "BlessingID": 30013000,
+    "Type": 2,
+    "Quality": 1,
+    "Class": 3,
+    "Icon": 53013000,
+    "Group": 3101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1001,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "4",
+          "10013311"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      53010001
+    ]
+  },
+  {
+    "ID": 30013003,
+    "Description": "blessing_30013000_desc",
+    "Name": "blessing_30013000_name",
+    "BlessingID": 30013000,
+    "Type": 2,
+    "Quality": 2,
+    "Class": 3,
+    "Icon": 53013000,
+    "Group": 3101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1001,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "4",
+          "10013321"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      53010001
+    ]
+  },
+  {
+    "ID": 31011001,
+    "Description": "blessing_30011000_desc",
+    "Name": "blessing_30011000_name",
+    "BlessingID": 30011000,
+    "Type": 0,
+    "Quality": 0,
+    "Class": 3,
+    "Icon": 53011001,
+    "Group": 3101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1002,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "1",
+          "10021301"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      53010001
+    ]
+  },
+  {
+    "ID": 31011002,
+    "Description": "blessing_30011000_desc",
+    "Name": "blessing_30011000_name",
+    "BlessingID": 30011000,
+    "Type": 0,
+    "Quality": 1,
+    "Class": 3,
+    "Icon": 53011001,
+    "Group": 3101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1002,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "1",
+          "10021311"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      53010001
+    ]
+  },
+  {
+    "ID": 31011003,
+    "Description": "blessing_30011000_desc",
+    "Name": "blessing_30011000_name",
+    "BlessingID": 30011000,
+    "Type": 0,
+    "Quality": 2,
+    "Class": 3,
+    "Icon": 53011001,
+    "Group": 3101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1002,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "1",
+          "10021321"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      53010001
+    ]
+  },
+  {
+    "ID": 31012001,
+    "Description": "blessing_30012000_desc",
+    "Name": "blessing_30012000_name",
+    "BlessingID": 30012000,
+    "Type": 1,
+    "Quality": 0,
+    "Class": 3,
+    "Icon": 53012001,
+    "Group": 3101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1002,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "2",
+          "10022301"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      53010001
+    ]
+  },
+  {
+    "ID": 31012002,
+    "Description": "blessing_30012000_desc",
+    "Name": "blessing_30012000_name",
+    "BlessingID": 30012000,
+    "Type": 1,
+    "Quality": 1,
+    "Class": 3,
+    "Icon": 53012001,
+    "Group": 3101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1002,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "2",
+          "10022311"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      53010001
+    ]
+  },
+  {
+    "ID": 31012003,
+    "Description": "blessing_30012000_desc",
+    "Name": "blessing_30012000_name",
+    "BlessingID": 30012000,
+    "Type": 1,
+    "Quality": 2,
+    "Class": 3,
+    "Icon": 53012001,
+    "Group": 3101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1002,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "2",
+          "10022321"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      53010001
+    ]
+  },
+  {
+    "ID": 31013001,
+    "Description": "blessing_30013000_desc",
+    "Name": "blessing_30013000_name",
+    "BlessingID": 30013000,
+    "Type": 2,
+    "Quality": 0,
+    "Class": 3,
+    "Icon": 53013001,
+    "Group": 3101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1002,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "4",
+          "10023301"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      53010001
+    ]
+  },
+  {
+    "ID": 31013002,
+    "Description": "blessing_30013000_desc",
+    "Name": "blessing_30013000_name",
+    "BlessingID": 30013000,
+    "Type": 2,
+    "Quality": 1,
+    "Class": 3,
+    "Icon": 53013001,
+    "Group": 3101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1002,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "4",
+          "10023311"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      53010001
+    ]
+  },
+  {
+    "ID": 31013003,
+    "Description": "blessing_30013000_desc",
+    "Name": "blessing_30013000_name",
+    "BlessingID": 30013000,
+    "Type": 2,
+    "Quality": 2,
+    "Class": 3,
+    "Icon": 53013001,
+    "Group": 3101,
+    "DropUnlockCondition": {
+      "DropPlayerID": 1002,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [],
+          "Count": 0
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "ChangeSkill",
+        "Args": [
+          "4",
+          "10023321"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      53010001
+    ]
+  },
+  {
+    "ID": 30021001,
+    "Description": "blessing_30021000_desc",
+    "Name": "blessing_30021000_name",
+    "BlessingID": 30021000,
+    "Type": 4,
+    "Quality": 0,
+    "Class": 3,
+    "Icon": 53021000,
+    "Group": 3201,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            3101
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "53021001"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      53010001
+    ]
+  },
+  {
+    "ID": 30021002,
+    "Description": "blessing_30021000_desc",
+    "Name": "blessing_30021000_name",
+    "BlessingID": 30021000,
+    "Type": 4,
+    "Quality": 1,
+    "Class": 3,
+    "Icon": 53021000,
+    "Group": 3201,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            3101
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "53021002"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      53010001
+    ]
+  },
+  {
+    "ID": 30021003,
+    "Description": "blessing_30021000_desc",
+    "Name": "blessing_30021000_name",
+    "BlessingID": 30021000,
+    "Type": 4,
+    "Quality": 2,
+    "Class": 3,
+    "Icon": 53021000,
+    "Group": 3201,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            3101
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "53021003"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      53010001
+    ]
+  },
+  {
+    "ID": 30022002,
+    "Description": "blessing_30022000_desc",
+    "Name": "blessing_30022000_name",
+    "BlessingID": 30022000,
+    "Type": 4,
+    "Quality": 1,
+    "Class": 3,
+    "Icon": 53022000,
+    "Group": 3201,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            3101
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "53022002"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      53010001
+    ]
+  },
+  {
+    "ID": 30023002,
+    "Description": "blessing_30023000_desc",
+    "Name": "blessing_30023000_name",
+    "BlessingID": 30023000,
+    "Type": 4,
+    "Quality": 1,
+    "Class": 3,
+    "Icon": 53023000,
+    "Group": 3201,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            3101
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 1,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "53023002"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      53010001
+    ]
+  },
+  {
+    "ID": 30023003,
+    "Description": "blessing_30023000_desc",
+    "Name": "blessing_30023000_name",
+    "BlessingID": 30023000,
+    "Type": 4,
+    "Quality": 2,
+    "Class": 3,
+    "Icon": 53023000,
+    "Group": 3201,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            3101
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 1,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "53023003"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      53010001
+    ]
+  },
+  {
+    "ID": 30023004,
+    "Description": "blessing_30023000_desc",
+    "Name": "blessing_30023000_name",
+    "BlessingID": 30023000,
+    "Type": 4,
+    "Quality": 3,
+    "Class": 3,
+    "Icon": 53023000,
+    "Group": 3201,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            3101
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 1,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "53023004"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      53010001
+    ]
+  },
+  {
+    "ID": 30024002,
+    "Description": "blessing_30024000_desc",
+    "Name": "blessing_30024000_name",
+    "BlessingID": 30024000,
+    "Type": 4,
+    "Quality": 1,
+    "Class": 3,
+    "Icon": 53024000,
+    "Group": 3202,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            3101
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "53024002"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": []
+  },
+  {
+    "ID": 30024003,
+    "Description": "blessing_30024000_desc",
+    "Name": "blessing_30024000_name",
+    "BlessingID": 30024000,
+    "Type": 4,
+    "Quality": 2,
+    "Class": 3,
+    "Icon": 53024000,
+    "Group": 3202,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            3101
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "53024003"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": []
+  },
+  {
+    "ID": 30024004,
+    "Description": "blessing_30024000_desc",
+    "Name": "blessing_30024000_name",
+    "BlessingID": 30024000,
+    "Type": 4,
+    "Quality": 3,
+    "Class": 3,
+    "Icon": 53024000,
+    "Group": 3202,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            3101
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "53024004"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": []
+  },
+  {
+    "ID": 30025001,
+    "Description": "blessing_30025000_desc",
+    "Name": "blessing_30025000_name",
+    "BlessingID": 30025000,
+    "Type": 4,
+    "Quality": 0,
+    "Class": 3,
+    "Icon": 53025000,
+    "Group": 3203,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            3101
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "53025001"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      53010001
+    ]
+  },
+  {
+    "ID": 30025002,
+    "Description": "blessing_30025000_desc",
+    "Name": "blessing_30025000_name",
+    "BlessingID": 30025000,
+    "Type": 4,
+    "Quality": 1,
+    "Class": 3,
+    "Icon": 53025000,
+    "Group": 3203,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            3101
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "53025002"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      53010001
+    ]
+  },
+  {
+    "ID": 30025003,
+    "Description": "blessing_30025000_desc",
+    "Name": "blessing_30025000_name",
+    "BlessingID": 30025000,
+    "Type": 4,
+    "Quality": 2,
+    "Class": 3,
+    "Icon": 53025000,
+    "Group": 3203,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            3101
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "53025003"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      53010001
+    ]
+  },
+  {
+    "ID": 30025004,
+    "Description": "blessing_30025000_desc",
+    "Name": "blessing_30025000_name",
+    "BlessingID": 30025000,
+    "Type": 4,
+    "Quality": 3,
+    "Class": 3,
+    "Icon": 53025000,
+    "Group": 3203,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            3101
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "53025004"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      53010001
+    ]
+  },
+  {
+    "ID": 30026002,
+    "Description": "blessing_30026000_desc",
+    "Name": "blessing_30026000_name",
+    "BlessingID": 30026000,
+    "Type": 4,
+    "Quality": 1,
+    "Class": 3,
+    "Icon": 53026000,
+    "Group": 3203,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            3101
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 1,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "53026002"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      53010002
+    ]
+  },
+  {
+    "ID": 30026003,
+    "Description": "blessing_30026000_desc",
+    "Name": "blessing_30026000_name",
+    "BlessingID": 30026000,
+    "Type": 4,
+    "Quality": 2,
+    "Class": 3,
+    "Icon": 53026000,
+    "Group": 3203,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            3101
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 1,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "53026003"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      53010002
+    ]
+  },
+  {
+    "ID": 30026004,
+    "Description": "blessing_30026000_desc",
+    "Name": "blessing_30026000_name",
+    "BlessingID": 30026000,
+    "Type": 4,
+    "Quality": 3,
+    "Class": 3,
+    "Icon": 53026000,
+    "Group": 3203,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            3101
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 1,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "53026004"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      53010002
+    ]
+  },
+  {
+    "ID": 30031003,
+    "Description": "blessing_30031000_desc",
+    "Name": "blessing_30031000_name",
+    "BlessingID": 30031000,
+    "Type": 4,
+    "Quality": 2,
+    "Class": 3,
+    "Icon": 53031000,
+    "Group": 3301,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            3201
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 1,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "53031003"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      53010001
+    ]
+  },
+  {
+    "ID": 30032002,
+    "Description": "blessing_30032000_desc",
+    "Name": "blessing_30032000_name",
+    "BlessingID": 30032000,
+    "Type": 4,
+    "Quality": 1,
+    "Class": 3,
+    "Icon": 53032000,
+    "Group": 3302,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            3201
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "53032002"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      53010001
+    ]
+  },
+  {
+    "ID": 30032003,
+    "Description": "blessing_30032000_desc",
+    "Name": "blessing_30032000_name",
+    "BlessingID": 30032000,
+    "Type": 4,
+    "Quality": 2,
+    "Class": 3,
+    "Icon": 53032000,
+    "Group": 3302,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            3201
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "53032003"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      53010001
+    ]
+  },
+  {
+    "ID": 30032004,
+    "Description": "blessing_30032000_desc",
+    "Name": "blessing_30032000_name",
+    "BlessingID": 30032000,
+    "Type": 4,
+    "Quality": 3,
+    "Class": 3,
+    "Icon": 53032000,
+    "Group": 3302,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            3201
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "53032004"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      53010001
+    ]
+  },
+  {
+    "ID": 30033004,
+    "Description": "blessing_30033000_desc",
+    "Name": "blessing_30033000_name",
+    "BlessingID": 30033000,
+    "Type": 4,
+    "Quality": 3,
+    "Class": 3,
+    "Icon": 53033000,
+    "Group": 3401,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            3301
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [
+            3302,
+            3303
+          ],
+          "Count": 1
+        }
+      ]
+    },
+    "MaxLevel": 1,
+    "Effects": [
+      {
+        "Name": "",
+        "Args": []
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      53010001
+    ]
+  },
+  {
+    "ID": 30034002,
+    "Description": "blessing_30034000_desc",
+    "Name": "blessing_30034000_name",
+    "BlessingID": 30034000,
+    "Type": 4,
+    "Quality": 1,
+    "Class": 3,
+    "Icon": 53034000,
+    "Group": 3303,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            3203
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "53034002"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      53010003
+    ]
+  },
+  {
+    "ID": 30034003,
+    "Description": "blessing_30034000_desc",
+    "Name": "blessing_30034000_name",
+    "BlessingID": 30034000,
+    "Type": 4,
+    "Quality": 2,
+    "Class": 3,
+    "Icon": 53034000,
+    "Group": 3303,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            3203
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "53034003"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      53010003
+    ]
+  },
+  {
+    "ID": 30034004,
+    "Description": "blessing_30034000_desc",
+    "Name": "blessing_30034000_name",
+    "BlessingID": 30034000,
+    "Type": 4,
+    "Quality": 3,
+    "Class": 3,
+    "Icon": 53034000,
+    "Group": 3303,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            3203
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [],
+          "Count": 0
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "AddBuffBlessing",
+        "Args": [
+          "53034004"
+        ]
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      53010003
+    ]
+  },
+  {
+    "ID": 30042004,
+    "Description": "blessing_30042000_desc",
+    "Name": "blessing_30042000_name",
+    "BlessingID": 30042000,
+    "Type": 4,
+    "Quality": 3,
+    "Class": 3,
+    "Icon": 53042000,
+    "Group": 3401,
+    "DropUnlockCondition": {
+      "DropPlayerID": 0,
+      "RequisiteBlessings": [],
+      "GroupConditions": [
+        {
+          "GroupIDList": [
+            3301,
+            3302
+          ],
+          "Count": 1
+        },
+        {
+          "GroupIDList": [
+            3303
+          ],
+          "Count": 1
+        }
+      ]
+    },
+    "MaxLevel": 3,
+    "Effects": [
+      {
+        "Name": "",
+        "Args": []
+      },
+      {
+        "Name": "",
+        "Args": []
+      }
+    ],
+    "Tips": [
+      53010001
+    ]
+  }
+]

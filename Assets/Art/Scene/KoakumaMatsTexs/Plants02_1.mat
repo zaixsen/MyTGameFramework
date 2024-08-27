@@ -1,0 +1,228 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Plants02_1
+  m_Shader: {fileID: 4800000, guid: a9bcf4d084ea0294186156c26fd9a957, type: 3}
+  m_ShaderKeywords: _OPACITYCLIP_ON _USEAO_ON _USETEXTUREDISSOLVE_ON _USETEX_ON _USEVERTEXOFFSET_ON
+    _WIND2_ON
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 1
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 9ab38fa2055779049a84e2df7d8680bb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTexture:
+        m_Texture: {fileID: 2800000, guid: 9ab38fa2055779049a84e2df7d8680bb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskEmissionTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture:
+        m_Texture: {fileID: 2800000, guid: 9ab38fa2055779049a84e2df7d8680bb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _VertexOffsetTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AO: 0
+    - _AOAxisMinus: 1
+    - _AODirection: 0
+    - _AOIntensity: -0.25
+    - _AO_WorldPos: 0
+    - _AOposition: 0.5
+    - _AOsmooth: 1
+    - _ASEOutlineWidth: 0.02
+    - _BlinnLight: 0
+    - _BlinnLightDir: 0
+    - _BlinnLightMinus: 0
+    - _BlinnSmooth: 0.5
+    - _BumpScale: 1
+    - _CastShadowSmooth: 0.75
+    - _Cull_Mode: 2
+    - _Cutoff: 0.5
+    - _DarkDir: 0
+    - _DarkSmooth: 0
+    - _DepthFade: 0
+    - _DepthPower1: 0
+    - _Desaturate: 0
+    - _DetailNormalMapScale: 1
+    - _Dissolve: 0
+    - _DissolveTexDir: 1
+    - _DissolveTexDirMinus: 0
+    - _DstBlend: 0
+    - _EdgeWidth: -0.05
+    - _Emission: 0
+    - _Emission2: 1
+    - _EmissionLight: -2
+    - _EmissionLight1: -1.5
+    - _EmissionSmooth: -2
+    - _FadeDistance: 0.5
+    - _FadeIntensity: 1
+    - _FadePower: 1
+    - _FadeSmooth: 1
+    - _Float0: 0
+    - _Float3: 0
+    - _FrenelPower: 5
+    - _FrenelScale: 2
+    - _FresnelPower: 5
+    - _FresnelScale: 1
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _LightAttenSmooth: 1
+    - _LightAttenuationSmooth1: 0.5
+    - _LightColorAmout: 1
+    - _LightDir: 0
+    - _LightIntensity: 1
+    - _LightIntensity1: 1
+    - _MaskColorHDR: 1
+    - _MaskEmissionNoiseRollX: 0
+    - _MaskEmissionNoiseRollY: 0
+    - _MaskEmissionNoiseScale: 5
+    - _MaskPower: 2
+    - _MaskY: 1
+    - _MaskYpower: 0.5
+    - _Metallic: 0
+    - _Metallic2: 1
+    - _Mode: 0
+    - _NoiseRoll_X: 0
+    - _NoiseRoll_Y: 0
+    - _NoiseRoll_Z: 0
+    - _NoiseScale: 5
+    - _NoiseScale2: 1
+    - _OcclusionStrength: 1
+    - _OnHitRange: 1
+    - _OpacityClip: 1
+    - _OutLine: 0
+    - _Outline2Intensity: 0
+    - _OutlineIntensity: -1
+    - _OutlineMaxDistanceWidth: 0.15
+    - _OutlinePower: 5
+    - _OutlineRadius: 0.5
+    - _OutlineScale: 2
+    - _OutlineSmooth: 0
+    - _OutlineViewDistance: 128
+    - _Parallax: 0.02
+    - _ShadowIntensity: 0.75
+    - _ShadowSkin: 0
+    - _ShadowSmooth: 0.25
+    - _Smooth: 0
+    - _Smooth2: 0
+    - _SmoothnessTextureChannel: 0
+    - _Specular: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _TexClipStyle: 0
+    - _TexEmission: 0
+    - _UVSec: 0
+    - _UseAO: 1
+    - _UseAO1: 0
+    - _UseCustomTexture: 0
+    - _UseMainTexWorldUV: 0
+    - _UseMainTexture: 1
+    - _UseMaskEmissionTexture: 0
+    - _UseTex: 1
+    - _UseTextureDissolve: 1
+    - _UseTexturedEdgeLight: 0
+    - _UseVertexOffset: 1
+    - _VertexOffsetIntensity: 0.15
+    - _VertexOffsetIntensity1: 0
+    - _VertexOffsetIntensity3: 0.01
+    - _VertexOffsetMaskAxis: 0
+    - _VertexOffsetMaskMinus: 0
+    - _VertexOffsetMaskPos: 0
+    - _VertexOffsetMaskSmooth: 0
+    - _VertexOffsetMove_X: -0.15
+    - _VertexOffsetMove_Y: 0.2
+    - _VertexOffsetMove_Z: 0.1
+    - _VertexOffsetScale: 2
+    - _VertexOffsetWorldPos: 0
+    - _VertexOffsetX: 0
+    - _VertexOffsetX2: 0.1
+    - _VertexOffsetY: 0.5
+    - _VertexOffsetY2: 0.1
+    - _VertexOffsetZ: 0.1
+    - _VertexPosition: 0
+    - _Wind: 0
+    - _Wind2: 1
+    - _WindY: 0
+    - _WindY2: 0
+    - _WorldMainTexTiling: 1
+    - _WorldMainTextureRollX: 0
+    - _WorldMainTextureRollY: 0
+    - _WorldY1: 0.02
+    - _ZWrite: 1
+    - __dirty: 0
+    m_Colors:
+    - _ASEOutlineColor: {r: 0, g: 0, b: 0, a: 0}
+    - _BlinnDarkColor: {r: 0.4528302, g: 0.4528302, b: 0.4528302, a: 0}
+    - _BlinnLightColor: {r: 0.3301887, g: 0.3301887, b: 0.3301887, a: 0}
+    - _CastShadowColor: {r: 0, g: 0, b: 1, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EdgeColor: {r: 1, g: 0.5294118, b: 0, a: 0}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _EmissionColor1: {r: 0, g: 0.23312998, b: 1, a: 0}
+    - _FresnelColor: {r: 0.039215688, g: 0.19607843, b: 0, a: 0}
+    - _LightAttenuationColor1: {r: 0, g: 0, b: 1, a: 0}
+    - _MainTexColor: {r: 0.5283019, g: 0.5283019, b: 0.5283019, a: 1}
+    - _MaskEmissionTexColor: {r: 0.6862745, g: 0.6862745, b: 0.6862745, a: 1}
+    - _NoTexColor1: {r: 1, g: 1, b: 1, a: 0}
+    - _Outline2Color: {r: 0, g: 0, b: 0, a: 0}
+    - _OutlineColor: {r: 0, g: 0, b: 0, a: 0}
+    - _ShadowColor: {r: 0, g: 0, b: 0, a: 0}
+    - _TexColor: {r: 0.8018868, g: 0.8018868, b: 0.8018868, a: 0}
+    - _VertexNor: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []

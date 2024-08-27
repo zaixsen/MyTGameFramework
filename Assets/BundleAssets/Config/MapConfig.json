@@ -1,0 +1,12 @@
+[
+  {
+    "ID": 1001,
+    "Description": "",
+    "Name": "死亡之森",
+    "Depth": 16,
+    "LayerMinNodes": 2,
+    "LayerMaxNodes": 5,
+    "EntranceLevel": 0,
+    "BossLevel": 10001001
+  }
+]
