@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class TGameFramework
 {
-    public static TGameFramework Instace { get; private set; }
+    public static TGameFramework Instance { get; private set; }
 
     public static bool Initialized { get; private set; }
     /// <summary>
@@ -15,7 +15,7 @@ public class TGameFramework
 
     public static void Initialize()
     {
-        Instace = new TGameFramework();
+        Instance = new TGameFramework();
     }
 
     //ªÒ»°module

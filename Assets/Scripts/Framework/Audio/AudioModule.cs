@@ -1,12 +1,8 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
 
-public class AudioModule : BaseGameModule
+namespace Koakuma.Game.Audio
 {
-    
-
-
-
-
+    public class AudioModule : BaseGameModule
+    {
+        
+    }
 }

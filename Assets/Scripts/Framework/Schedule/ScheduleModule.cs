@@ -2,10 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace TGame.Procedure
+namespace TGame.Schedule
 {
-
-    public class ProcedureModule : BaseGameModule
+    public class ScheduleModule : BaseGameModule
     {
 
 

@@ -2,11 +2,15 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class SaveModule : MonoBehaviour
+namespace TGame.Save
 {
-    
+
+    public class SaveModule : BaseGameModule
+    {
 
 
 
 
+
+    }
 }

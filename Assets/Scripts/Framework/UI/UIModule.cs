@@ -2,11 +2,15 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class UIModule : BaseGameModule
+namespace TGame.UI
 {
-    
+
+    public class UIModule : BaseGameModule
+    {
 
 
 
 
+
+    }
 }

@@ -45,7 +45,7 @@ public class GameObjectPool<T> where T : GameObjectPoolAsset
 
     private void OnGameObjectLoaded(T asset)
     {
-        asset.transform.SetParent(TGameFramework.Instace.GetModule<AssetModule>().usingObjectRoot);
+        asset.transform.SetParent(TGameFramework.Instance.GetModule<AssetModule>().usingObjectRoot);
         int id = asset.gameObject.GetInstanceID();
         usingObjects.Add(id, asset.gameObject);
     }
