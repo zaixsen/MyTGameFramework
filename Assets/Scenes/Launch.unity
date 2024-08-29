@@ -197,7 +197,31 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 2616976454753851821, guid: 6cb797213c576d547bcf748b7e1e3b46, type: 3}
+    - {fileID: 3417059136181220200, guid: 6cb797213c576d547bcf748b7e1e3b46, type: 3}
+    - {fileID: 4610635342494324301, guid: 6cb797213c576d547bcf748b7e1e3b46, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 6cb797213c576d547bcf748b7e1e3b46, type: 3}
+--- !u!1 &611223576 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3417059136181220206, guid: 6cb797213c576d547bcf748b7e1e3b46,
+    type: 3}
+  m_PrefabInstance: {fileID: 611223575}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &611223577
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 611223576}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 728a8f411cbcb4844a94d31db8bb55a0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  proceduresNames:
+  - LaunchProcedure
+  - InitProcedure
+  defaultProcedureName: LaunchProcedure
 --- !u!1 &988632348
 GameObject:
   m_ObjectHideFlags: 0

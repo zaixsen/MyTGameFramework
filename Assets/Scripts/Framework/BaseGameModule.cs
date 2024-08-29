@@ -16,6 +16,6 @@ public class BaseGameModule : MonoBehaviour
     protected internal virtual void OnModuleStop() { }
     protected internal virtual void OnModuleUpdate(float deltaTime) { }
     protected internal virtual void OnModuleLateUpdate(float deltaTime) { }
-    protected internal virtual void OnModuleFiexdUpdate(float deltaTime) { }
+    protected internal virtual void OnModuleFixedUpdate(float deltaTime) { }
 
 }
