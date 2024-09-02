@@ -1,8 +1,7 @@
-
+using Koakuma.Game.Procedure;
 using System;
 using System.Threading.Tasks;
 using TGame.UI;
-using UnityEditor;
 using UnityEngine;
 
 namespace Koakuma.Game.UI
@@ -21,10 +20,21 @@ namespace Koakuma.Game.UI
             view.videoPlayer.targetTexture = renderTexture;
             view.rawImage.texture = renderTexture;
             view.btnLogin.onClick.AddListener(OnLogin);
+
+            GameManager.Message.Subscribe<MessageType.EnterLobby>(OnHandleEnterLobby);
+            GameManager.Message.Subscribe<MessageType.LoginResp>(OnHandleLoginResp);
+        }
+
+        private void OnTest()
+        {
+            GameManager.UI.OpenUI(UIViewID.TestUI);
         }
 
         protected override void OnHide()
         {
+            GameManager.Message.Unsubscribe<MessageType.EnterLobby>(OnHandleEnterLobby);
+            GameManager.Message.Unsubscribe<MessageType.LoginResp>(OnHandleLoginResp);
+
             if (view.videoPlayer.targetTexture != null)
             {
                 view.videoPlayer.targetTexture.Release();
@@ -36,8 +46,21 @@ namespace Koakuma.Game.UI
 
         private void OnLogin()
         {
-            //GameManager.Message.Post(new MessageType.Login()).Coroutine();
+            //UnityLog.Info("<color=red>发送事件 Login </color>");
+            GameManager.Message.Post(new MessageType.Login()).Coroutine();
         }
 
+        private async Task OnHandleLoginResp(MessageType.LoginResp arg)
+        {
+            ////UnityLog.Info("<color=red>执行回调 OnHandleLoginResp </color>");
+            GameManager.Procedure.ChangeProcedure<LobbyProcedure>().Coroutine();
+            await Task.Yield();
+        }
+
+        private async Task OnHandleEnterLobby(MessageType.EnterLobby arg)
+        {
+            Close();
+            await Task.Yield();
+        }
     }
 }

@@ -3,6 +3,11 @@ using System.Threading.Tasks;
 
 namespace TGame.Procedure
 {
+    /// <summary>
+    /// 作者: Teddy
+    /// 时间: 2018/03/01
+    /// 功能: 
+    /// </summary>
     public abstract class BaseProcedure
     {
         public async Task ChangeProcedure<T>(object value = null) where T : BaseProcedure

@@ -5,6 +5,11 @@ using UnityEngine;
 
 namespace TGame.Procedure
 {
+    /// <summary>
+    /// 作者: Teddy
+    /// 时间: 2018/03/15
+    /// 功能: 处理游戏总流程,控制游戏过程
+    /// </summary>
 	public partial class ProcedureModule : BaseGameModule
     {
         [SerializeField]
@@ -128,7 +133,6 @@ namespace TGame.Procedure
                     await CurrentProcedure.OnLeaveProcedure();
                 }
                 CurrentProcedure = request.TargetProcedure;
-
                 await CurrentProcedure.OnEnterProcedure(request.Value);
             }
             IsChangingProcedure = false;

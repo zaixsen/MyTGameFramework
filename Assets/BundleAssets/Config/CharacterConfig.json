@@ -54,7 +54,9 @@
     "Block": 0.0,
     "MS": 600.0,
     "ItemRewardGroup": [],
-    "MonsterExperience": 0
+    "MonsterExperience": 0,
+    "MyData": 1,
+    "Data": 0
   },
   {
     "ID": 2001,
@@ -108,7 +110,9 @@
     "ItemRewardGroup": [
       1001
     ],
-    "MonsterExperience": 20
+    "MonsterExperience": 20,
+    "MyData": 1,
+    "Data": 0
   },
   {
     "ID": 2002,
@@ -162,7 +166,9 @@
     "ItemRewardGroup": [
       1001
     ],
-    "MonsterExperience": 20
+    "MonsterExperience": 20,
+    "MyData": 1,
+    "Data": 0
   },
   {
     "ID": 2003,
@@ -216,7 +222,9 @@
     "ItemRewardGroup": [
       1001
     ],
-    "MonsterExperience": 42
+    "MonsterExperience": 42,
+    "MyData": 1,
+    "Data": 0
   },
   {
     "ID": 2004,
@@ -270,7 +278,9 @@
     "ItemRewardGroup": [
       1001
     ],
-    "MonsterExperience": 42
+    "MonsterExperience": 42,
+    "MyData": 1,
+    "Data": 0
   },
   {
     "ID": 2005,
@@ -324,7 +334,9 @@
     "ItemRewardGroup": [
       1002
     ],
-    "MonsterExperience": 90
+    "MonsterExperience": 90,
+    "MyData": 1,
+    "Data": 0
   },
   {
     "ID": 2006,
@@ -378,7 +390,9 @@
     "ItemRewardGroup": [
       1002
     ],
-    "MonsterExperience": 90
+    "MonsterExperience": 90,
+    "MyData": 1,
+    "Data": 0
   },
   {
     "ID": 2007,
@@ -432,7 +446,9 @@
     "ItemRewardGroup": [
       1002
     ],
-    "MonsterExperience": 42
+    "MonsterExperience": 42,
+    "MyData": 1,
+    "Data": 0
   },
   {
     "ID": 2008,
@@ -487,7 +503,9 @@
     "ItemRewardGroup": [
       1003
     ],
-    "MonsterExperience": 20
+    "MonsterExperience": 20,
+    "MyData": 1,
+    "Data": 0
   },
   {
     "ID": 2009,
@@ -541,7 +559,9 @@
     "ItemRewardGroup": [
       1001
     ],
-    "MonsterExperience": 80
+    "MonsterExperience": 80,
+    "MyData": 1,
+    "Data": 0
   },
   {
     "ID": 3001,
@@ -593,7 +613,9 @@
     "ItemRewardGroup": [
       1002
     ],
-    "MonsterExperience": 160
+    "MonsterExperience": 160,
+    "MyData": 1,
+    "Data": 0
   },
   {
     "ID": 4001,
@@ -647,7 +669,9 @@
     "ItemRewardGroup": [
       1002
     ],
-    "MonsterExperience": 160
+    "MonsterExperience": 160,
+    "MyData": 1,
+    "Data": 0
   },
   {
     "ID": 5001,
@@ -700,6 +724,8 @@
       1002,
       1002
     ],
-    "MonsterExperience": 320
+    "MonsterExperience": 320,
+    "MyData": 1,
+    "Data": 0
   }
 ]

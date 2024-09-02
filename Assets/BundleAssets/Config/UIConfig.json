@@ -28,5 +28,11 @@
     "Description": "KnapsackUI",
     "Asset": "Assets/BundleAssets/UI/KnapsackUI.prefab",
     "Mode": 0
+  },
+  {
+    "ID": 6,
+    "Description": "TestUI",
+    "Asset": "Assets/BundleAssets/UI/TestUII.prefab",
+    "Mode": 0
   }
 ]

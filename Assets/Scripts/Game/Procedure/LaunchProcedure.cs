@@ -1,40 +1,44 @@
 using Config;
-using Koakuma.Game;
 using System.Threading.Tasks;
 using TGame.Procedure;
-using TGame.UI;
 
-public class LaunchProcedure : BaseProcedure
+namespace Koakuma.Game.Procedure
 {
-    public override async Task OnEnterProcedure(object value)
+    public class LaunchProcedure : BaseProcedure
     {
-        UnityLog.Info("≥ı ºªØΩÁ√Ê");
-        await LoadConfigs();
-        await GameManager.UI.OpenUIAsync(UIViewID.LoginUI);
+        public override async Task OnEnterProcedure(object value)
+        {
+            UnityLog.Info("enter init procedure");
+#if !UNITY_EDITOR
+            UnityEngine.PlayerPrefs.DeleteKey(UnityEngine.AddressableAssets.Addressables.kAddressablesRuntimeDataPath);
+#endif
+            //await Addressables.InitializeAsync();
+            await LoadConfigs();
+            await ChangeProcedure<InitProcedure>();
+        }
 
-    }
+        private async Task LoadConfigs()
+        {
+            UnityLog.Info("===>Âä†ËΩΩÈÖçÁΩÆ");
+            ConfigManager.LoadAllConfigsByAddressable("Assets/BundleAssets/Config");
+            //#if UNITY_EDITOR
+            //            string path = "Assets/BundleAssets/Config";
+            //            ConfigManager.LoadAllConfigsByFile(path);
+            //            await Task.Yield();
+            //#else
+            //            string path = $"{UnityEngine.Application.streamingAssetsPath}/AssetBundles";
+            //            string subFolder = $"Datas/Config";
+            //            await ConfigManager.LoadAllConfigsByBundle(path, subFolder);
+            //#endif
+            GlobalConfig.InitGlobalConfig();
+            BuffConfig.ParseConfig();
+            SkillConfig.ParseConfig();
+            BulletConfig.ParseConfig();
+            SpellFieldConfig.ParseConfig();
+            I18NConfig.ParseConfig();
 
-    private async Task LoadConfigs()
-    {
-        UnityLog.Info("===>º”‘ÿ≈‰÷√");
-        ConfigManager.LoadAllConfigsByAddressable("Assets/BundleAssets/Config");
-        //#if UNITY_EDITOR
-        //            string path = "Assets/BundleAssets/Config";
-        //            ConfigManager.LoadAllConfigsByFile(path);
-        //            await Task.Yield();
-        //#else
-        //            string path = $"{UnityEngine.Application.streamingAssetsPath}/AssetBundles";
-        //            string subFolder = $"Datas/Config";
-        //            await ConfigManager.LoadAllConfigsByBundle(path, subFolder);
-        //#endif
-        GlobalConfig.InitGlobalConfig();
-        BuffConfig.ParseConfig();
-        SkillConfig.ParseConfig();
-        BulletConfig.ParseConfig();
-        SpellFieldConfig.ParseConfig();
-        I18NConfig.ParseConfig();
-
-        await Task.Yield();
-        UnityLog.Info("<===≈‰÷√º”‘ÿÕÍ±œ");
+            await Task.Yield();
+            UnityLog.Info("<===ÈÖçÁΩÆÂä†ËΩΩÂÆåÊØï");
+        }
     }
 }

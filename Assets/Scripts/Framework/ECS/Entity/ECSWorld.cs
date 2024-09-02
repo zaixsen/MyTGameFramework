@@ -1,9 +1,6 @@
-using UnityEngine;
-
 namespace TGame.ECS
 {
-
-    public class ECSWorld : MonoBehaviour
+    public class ECSWorld : ECSScene
     {
         public ECSScene GameScene { get; set; } = new ECSScene();
     }

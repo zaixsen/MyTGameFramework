@@ -47,7 +47,7 @@ namespace TGame.ECS
                 return;
 
             Disposed = true;
-            // 销毁Child
+            // 閿�姣丆hild
             for (int i = children.Count - 1; i >= 0; i--)
             {
                 ECSEntity child = children[i];
@@ -55,7 +55,7 @@ namespace TGame.ECS
                 child?.Dispose();
             }
 
-            // 销毁Component
+            // 閿�姣丆omponent
             List<ECSComponent> componentList = ListPool<ECSComponent>.Obtain();
             foreach (var component in componentMap.Values)
             {
@@ -69,9 +69,9 @@ namespace TGame.ECS
             }
             ListPool<ECSComponent>.Release(componentList);
 
-            // 从父节点移除
+            // 浠庣埗鑺傜偣绉婚櫎
             Parent?.RemoveChild(this);
-            // 从世界中移除
+            // 浠庝笘鐣屼腑绉婚櫎
             TGameFramework.Instance.GetModule<ECSModule>().RemoveEntity(this);
         }
 
@@ -83,6 +83,7 @@ namespace TGame.ECS
         public C GetComponent<C>() where C : ECSComponent
         {
             componentMap.TryGetValue(typeof(C), out var component);
+
             return component as C;
         }
 
@@ -94,8 +95,8 @@ namespace TGame.ECS
             }
 
             C component = new C();
-            component.EntityID = InstanceID;
-            componentMap.Add(typeof(C), component);
+            component.EntityID = InstanceID; 
+            componentMap.Add(typeof(C), component);   
             TGameFramework.Instance.GetModule<ECSModule>().AwakeComponent(component);
             return component;
         }

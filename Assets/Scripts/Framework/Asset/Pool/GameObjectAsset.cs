@@ -1,12 +1,6 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-public class GameObjectAsset : GameObjectPoolAsset
+namespace TGame.Asset
 {
-
-
-
-
-
+    public class GameObjectAsset : GameObjectPoolAsset
+    {
+    }
 }

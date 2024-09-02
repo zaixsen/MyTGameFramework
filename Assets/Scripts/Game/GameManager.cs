@@ -17,8 +17,14 @@ namespace Koakuma.Game
 {
     public class GameManager : MonoBehaviour
     {
+        /// <summary>
+        /// 资源组件
+        /// </summary>
         [Module(1)]
         public static AssetModule Asset { get => TGameFramework.Instance.GetModule<AssetModule>(); }
+        /// <summary>
+        /// 流程组件
+        /// </summary>
         [Module(2)]
         public static ProcedureModule Procedure { get => TGameFramework.Instance.GetModule<ProcedureModule>(); }
         [Module(3)]
@@ -33,6 +39,8 @@ namespace Koakuma.Game
         public static ECSModule ECS { get => TGameFramework.Instance.GetModule<ECSModule>(); }
         [Module(98)]
         public static SaveModule Save { get => TGameFramework.Instance.GetModule<SaveModule>(); }
+        /// 定时器模块
+        /// </summary>
         [Module(99)]
         public static ScheduleModule Schedule { get => TGameFramework.Instance.GetModule<ScheduleModule>(); }
 
@@ -96,7 +104,7 @@ namespace Koakuma.Game
         }
 
         /// <summary>
-        /// ��ʼ��ģ��
+        /// 初始化模块
         /// </summary>
         public void StartupModules()
         {
@@ -106,13 +114,13 @@ namespace Koakuma.Game
             for (int i = 0; i < propertyInfos.Length; i++)
             {
                 PropertyInfo property = propertyInfos[i];
-                if (!baseCompType.IsAssignableFrom(property.PropertyType))
+                if (!baseCompType.IsAssignableFrom(property.PropertyType))  //是否为BaseGameModule的子类
                     continue;
-
-                object[] attrs = property.GetCustomAttributes(typeof(ModuleAttribute), false);
+                //获取CustomAttributes
+                object[] attrs = property.GetCustomAttributes(typeof(ModuleAttribute), false); 
                 if (attrs.Length == 0)
                     continue;
-
+                //通过子物体获取Module
                 Component comp = GetComponentInChildren(property.PropertyType);
                 if (comp == null)
                 {
@@ -124,7 +132,7 @@ namespace Koakuma.Game
                 moduleAttr.Module = comp as BaseGameModule;
                 moduleAttrs.Add(moduleAttr);
             }
-
+            //根据特性优先级 排序
             moduleAttrs.Sort();
             for (int i = 0; i < moduleAttrs.Count; i++)
             {
@@ -136,18 +144,17 @@ namespace Koakuma.Game
         public sealed class ModuleAttribute : Attribute, IComparable<ModuleAttribute>
         {
             /// <summary>
-            /// ���ȼ�
+            /// 优先级
             /// </summary>
             public int Priority { get; private set; }
             /// <summary>
-            /// ģ��
+            /// 模块
             /// </summary>
             public BaseGameModule Module { get; set; }
-
             /// <summary>
-            /// ���Ӹ����ԲŻᱻ����ģ��
+            /// 添加该特性才会被当作模块
             /// </summary>
-            /// <param name="priority">���������ȼ�,��ֵԽСԽ��ִ��</param>
+            /// <param name="priority">控制器优先级,数值越小越先执行</param>
             public ModuleAttribute(int priority)
             {
                 Priority = priority;
@@ -158,7 +165,6 @@ namespace Koakuma.Game
                 return Priority.CompareTo(other.Priority);
             }
         }
-
         private void OnReceiveLog(string condition, string stackTrace, LogType type)
         {
 #if !UNITY_EDITOR

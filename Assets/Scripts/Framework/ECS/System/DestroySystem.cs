@@ -45,6 +45,7 @@ namespace TGame.ECS
         }
     }
 
+
     [ECSSystem]
     public abstract class DestroySystem<C, P1, P2> : IDestroySystem where C : ECSComponent
     {

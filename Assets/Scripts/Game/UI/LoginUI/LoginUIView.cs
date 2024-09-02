@@ -8,6 +8,7 @@ namespace Koakuma.Game.UI
     public class LoginUIView : UIView
     {
         public Button btnLogin;
+        public Button btnTest;
         public VideoPlayer videoPlayer;
         public RawImage rawImage;
     }
