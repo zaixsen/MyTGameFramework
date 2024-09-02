@@ -3,6 +3,7 @@ using Koakuma.Game.Times;
 using System;
 using System.Collections.Generic;
 using System.Reflection;
+using TGame;
 using TGame.Asset;
 using TGame.ECS;
 using TGame.Message;
@@ -62,7 +63,7 @@ namespace Koakuma.Game
         private void Start()
         {
             TGameFramework.Instance.StartModules();
-           // Procedure.StartProcedure().Coroutine();
+            Procedure.StartProcedure().Coroutine();
         }
 
         private void Update()

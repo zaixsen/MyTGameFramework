@@ -128,6 +128,7 @@ namespace TGame.Procedure
                     await CurrentProcedure.OnLeaveProcedure();
                 }
                 CurrentProcedure = request.TargetProcedure;
+
                 await CurrentProcedure.OnEnterProcedure(request.Value);
             }
             IsChangingProcedure = false;
